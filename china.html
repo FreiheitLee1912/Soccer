@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>中国职业联赛转会信息 2026 · 转入 / 转出</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="app.css">
+<style>
+  :root{--brand1:#b50012;--brand2:#78000b}
+  body{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans SC",Arial,sans-serif}
+  header{border-bottom:3px solid #ffde00!important}
+  h1 .yr{color:#ffde00}
+</style>
+</head>
+<body class="data-loading">
+<header><div class="wrap" style="position:relative">
+  <a class="home" href="index.html">🌐 选择国家</a>
+  <button id="themeBtn">主题</button>
+  <h1>中国职业联赛转会信息 <span class="yr">2026</span></h1>
+  <div class="sub" id="sub">正在加载…</div>
+  <div class="stats" id="stats"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="搜索球员…">
+    <select id="leagueSel"><option value="">全部级别</option><option>中超</option><option>中甲</option><option>中乙</option></select>
+    <select id="clubSel"><option value="">全部俱乐部</option></select>
+    <select id="posSel"><option value="">全部位置</option><option value="gk">门将</option><option value="def">后卫</option><option value="mid">中场</option><option value="fwd">前锋</option></select>
+    <div class="seg" id="typeSeg"><button data-t="all" class="on">全部</button><button data-t="deal">转会</button><button data-t="loan">租借</button></div>
+  </div>
+</div></header>
+<main><div class="wrap"><div class="grid" id="grid"></div><div class="none" id="none" style="display:none"></div></div></main>
+<footer class="wrap" id="foot"></footer>
+<script src="load-latest.js" data-file="data-china.js"
+  data-loading="正在获取最新中国联赛数据…"
+  data-error="无法加载最新数据，请刷新页面重试。"></script>
+</body>
+</html>

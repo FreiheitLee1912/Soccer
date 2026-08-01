@@ -1,0 +1,85 @@
+name: Refresh data and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      country:
+        description: Data set to refresh
+        required: true
+        default: all
+        type: choice
+        options: [all, england, japan, china]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: transfer-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install data-builder dependencies
+        if: github.event_name != 'push'
+        run: pip install -r requirements.txt
+
+      - name: Refresh selected data
+        if: github.event_name != 'push'
+        env:
+          TARGET_COUNTRY: ${{ github.event.inputs.country || 'all' }}
+        run: |
+          case "$TARGET_COUNTRY" in
+            all)
+              python build_data.py
+              python build_japan.py
+              python build_china.py
+              ;;
+            england) python build_data.py ;;
+            japan) python build_japan.py ;;
+            china) python build_china.py ;;
+          esac
+
+      - name: Commit refreshed CSV and browser data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *-transfers.csv data-*.js
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh transfer data"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

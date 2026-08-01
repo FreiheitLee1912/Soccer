@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Ｊリーグ 移籍情報 2026/27 · IN / OUT</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="app.css">
+<style>
+  /* J.LEAGUE look: charcoal header + red accent; native Japanese type */
+  :root{ --brand1:#20242a; --brand2:#12151a; }
+  body{ font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",
+        "PremierLeague",sans-serif; }
+  header{ border-bottom:3px solid #e4002b !important; }
+  h1 .yr{ color:#e4002b; }
+</style>
+</head>
+<body class="data-loading">
+<header><div class="wrap" style="position:relative">
+  <a class="home" href="index.html">🌐 选择国家</a>
+  <button id="themeBtn">テーマ</button>
+  <h1>Ｊリーグ 移籍情報 <span class="yr">2026/27</span></h1>
+  <div class="sub" id="sub">読み込み中…</div>
+  <div class="stats" id="stats"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="選手を検索…">
+    <select id="leagueSel">
+      <option value="">全カテゴリ</option>
+      <option value="J1">Ｊ１</option>
+      <option value="J2">Ｊ２</option>
+      <option value="J3">Ｊ３</option>
+    </select>
+    <select id="clubSel"><option value="">全クラブ</option></select>
+    <select id="posSel">
+      <option value="">全ポジション</option>
+      <option value="gk">GK</option>
+      <option value="def">DF</option>
+      <option value="mid">MF</option>
+      <option value="fwd">FW</option>
+    </select>
+    <div class="seg" id="typeSeg">
+      <button data-t="all" class="on">すべて</button>
+      <button data-t="deal">移籍・加入</button>
+      <button data-t="loan">レンタル</button>
+    </div>
+  </div>
+</div></header>
+<main><div class="wrap">
+  <div class="grid" id="grid"></div>
+  <div class="none" id="none" style="display:none"></div>
+</div></main>
+<footer class="wrap" id="foot"></footer>
+<script src="load-latest.js" data-file="data-japan.js"
+  data-loading="最新の日本データを確認しています…"
+  data-error="最新データを読み込めませんでした。再読み込みしてください。"></script>
+</body>
+</html>

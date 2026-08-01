@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>2026 Summer Transfers · England</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="app.css">
+<style>
+  /* EFL visual language: midnight navigation, royal blue and hot-pink accents. */
+  :root{--brand1:#0e132f;--brand2:#00158a;--out:#ff1b48;--cyan:#b4bdee}
+  header{border-bottom:4px solid #ff1b48!important}
+  h1{font-family:Arial,"Helvetica Neue",sans-serif;font-weight:800;letter-spacing:-.5px}
+  h1 .yr{color:#fff;border-left:1px solid rgba(255,255,255,.35);margin-left:10px;padding-left:12px}
+  .team{border-radius:4px}
+  .team>h2{background:linear-gradient(90deg,rgba(0,21,138,.11),transparent)}
+  .lg{color:#fff;text-shadow:0 1px 1px rgba(0,0,0,.25)}
+  .stat,.controls input,.controls select,.seg{border-radius:2px}
+</style>
+</head>
+<body class="data-loading">
+<header><div class="wrap" style="position:relative">
+  <a class="home" href="index.html">🌐 选择国家</a>
+  <button id="themeBtn">Theme</button>
+  <h1>2026 Summer Transfers <span class="yr">England</span></h1>
+  <div class="sub" id="sub">Loading…</div>
+  <div class="stats" id="stats"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search player…">
+    <select id="leagueSel">
+      <option value="">All leagues</option>
+      <option>Premier League</option><option>Championship</option>
+      <option>League One</option><option>League Two</option>
+    </select>
+    <select id="clubSel"><option value="">All clubs</option></select>
+    <select id="posSel">
+      <option value="">All positions</option>
+      <option value="gk">Goalkeepers</option>
+      <option value="def">Defenders</option>
+      <option value="mid">Midfielders</option>
+      <option value="fwd">Forwards</option>
+    </select>
+    <div class="seg" id="typeSeg">
+      <button data-t="all" class="on">All</button>
+      <button data-t="deal">Transfers</button>
+      <button data-t="loan">Loans</button>
+    </div>
+  </div>
+</div></header>
+<main><div class="wrap">
+  <div class="grid" id="grid"></div>
+  <div class="none" id="none" style="display:none"></div>
+</div></main>
+<footer class="wrap" id="foot"></footer>
+<script src="load-latest.js" data-file="data-england.js"
+  data-loading="Checking for the latest England data…"
+  data-error="Unable to load the latest England data. Reload to try again."></script>
+</body>
+</html>

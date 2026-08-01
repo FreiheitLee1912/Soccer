@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Football Transfers 2026/27 · 选择国家</title>
+<link rel="stylesheet" href="fonts.css">
+<style>
+  :root{ --bg:#12001a; --card:#1e0326; --line:#3a0f45; --txt:#f4eef7; --dim:#b79cc4; }
+  @media(prefers-color-scheme:light){ :root{
+    --bg:#f1eaf6; --card:#ffffff; --line:#e6dced; --txt:#2a0130; --dim:#6f5a7c; }}
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;background:var(--bg);color:var(--txt);
+    font-family:'PremierLeague',"Hiragino Kaku Gothic ProN",Arial,sans-serif;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    padding:40px 20px;-webkit-font-smoothing:antialiased}
+  h1{font-size:32px;margin:0 0 6px;letter-spacing:.5px;text-align:center}
+  h1 .yr{color:#04f5ff}
+  p.sub{color:var(--dim);margin:0 0 34px;text-align:center;font-size:14px}
+  .cards{display:flex;gap:22px;flex-wrap:wrap;justify-content:center;width:100%;max-width:1080px}
+  a.card{flex:1 1 280px;max-width:330px;background:var(--card);border:1px solid var(--line);
+    border-top:5px solid var(--accent);border-radius:16px;padding:28px 26px;
+    text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s;
+    display:block}
+  a.card:hover{transform:translateY(-4px);box-shadow:0 14px 34px rgba(0,0,0,.35)}
+  .flag{font-size:66px;line-height:1;filter:drop-shadow(0 3px 6px rgba(0,0,0,.3))}
+  .cn{font-size:24px;font-weight:700;margin:14px 0 3px}
+  .lg{color:var(--dim);font-size:13px}
+  .go{margin-top:16px;font-size:13px;font-weight:700;color:var(--accent)}
+  footer{color:var(--dim);font-size:11px;margin-top:38px;text-align:center;line-height:1.7}
+</style>
+</head>
+<body>
+  <h1>Football Transfers <span class="yr">2026/27</span></h1>
+  <p class="sub">选择国家，查看各俱乐部转入与转出</p>
+  <div class="cards">
+    <a class="card" href="england.html" style="--accent:#e90052">
+      <div class="flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</div>
+      <div class="cn">England</div>
+      <div class="lg">Premier League · Championship · League One · League Two</div>
+      <div class="go">View transfers ▸</div>
+    </a>
+    <a class="card" href="japan.html" style="--accent:#e4002b">
+      <div class="flag">🇯🇵</div>
+      <div class="cn">日本 · Japan</div>
+      <div class="lg">Ｊ１ · Ｊ２ · Ｊ３</div>
+      <div class="go">移籍情報を見る ▸</div>
+    </a>
+    <a class="card" href="china.html" style="--accent:#de2910">
+      <div class="flag">🇨🇳</div>
+      <div class="cn">中国 · China</div>
+      <div class="lg">中超 · 中甲 · 中乙</div>
+      <div class="go">查看转会 ▸</div>
+    </a>
+  </div>
+  <footer>England: Transfermarkt · Japan: J.LEAGUE official · China: Transfermarkt / 懂球帝</footer>
+</body>
+</html>
