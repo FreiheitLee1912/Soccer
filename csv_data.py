@@ -17,17 +17,18 @@ FIELDS = [
     "dqdId", "dqdNationality", "nameSource", "age", "pos", "position",
     "nationality", "nationalityFlag",
     "otherClub", "transferType", "type", "ftype", "marketValue",
-    "marketValueNum", "fee", "feeValue", "matched",
+    "marketValueNum", "fee", "feeValue", "matched", "rowMuted",
 ]
 
 FLOAT_FIELDS = {"marketValueNum", "feeValue"}
-BOOL_FIELDS = {"matched"}
+BOOL_FIELDS = {"matched", "rowMuted"}
 TRANSFER_FIELDS = [
     "league", "club", "clubKey", "direction", "date", "player", "roman",
     "playerId", "transferId", "dqdId", "dqdNationality", "nameSource",
     "age", "pos", "position", "nationality", "nationalityFlag",
     "otherClub", "transferType", "type",
     "ftype", "marketValue", "marketValueNum", "fee", "feeValue", "matched",
+    "rowMuted",
 ]
 
 
@@ -64,7 +65,7 @@ def write_csv(data, csv_path):
 
 
 def _value(field, raw):
-    if raw == "":
+    if raw in ("", None):
         return None
     if field in FLOAT_FIELDS:
         return float(raw)

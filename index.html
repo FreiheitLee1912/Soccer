@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link rel="icon" href="data:,">
 <title>Football Transfers 2026/27 · 选择国家</title>
 <link rel="stylesheet" href="fonts.css">
@@ -29,6 +29,21 @@
   .lg{color:var(--dim);font-size:13px}
   .go{margin-top:16px;font-size:13px;font-weight:700;color:var(--accent)}
   footer{color:var(--dim);font-size:11px;margin-top:38px;text-align:center;line-height:1.7}
+  @media(max-width:600px){
+    body{min-height:100svh;justify-content:flex-start;padding:28px 14px 24px}
+    h1{font-size:25px;line-height:1.18;margin-top:4px}
+    p.sub{font-size:13px;margin:8px 0 22px}
+    .cards{display:grid;grid-template-columns:1fr;gap:12px;max-width:440px}
+    a.card{max-width:none;min-width:0;padding:17px 16px;border-top-width:4px;
+      border-radius:13px;display:grid;grid-template-columns:54px minmax(0,1fr);
+      grid-template-rows:auto auto auto;column-gap:13px;align-items:center}
+    a.card:hover{transform:none;box-shadow:none}
+    .flag{grid-column:1;grid-row:1/4;font-size:43px;text-align:center}
+    .cn{grid-column:2;margin:0;font-size:20px}
+    .lg{grid-column:2;font-size:12px;line-height:1.35;margin-top:2px}
+    .go{grid-column:2;margin-top:8px;font-size:12px}
+    footer{margin-top:24px;font-size:10px}
+  }
 </style>
 </head>
 <body>

@@ -27,6 +27,12 @@ COUNTRIES = {
                            ("J3", "JAP3", "j3-league")]),
 }
 
+# Display state verified separately from Transfermarkt's transaction label.
+# It remains part of the generated CSV, so scheduled refreshes do not undo it.
+MUTED_IN_ROWS = {
+    ("Manchester United", "610442"),  # Rasmus Højlund: returned, then left permanently
+}
+
 
 def fetch(code, slug):
     url = ("https://www.transfermarkt.com/%s/transfers/wettbewerb/%s/saison_id/%s"
@@ -155,6 +161,8 @@ def parse_competition(html_text, league):
                 "nationalityFlag": flag,
                 "marketValue": mv_label, "marketValueNum": mv_val,
                 "fee": fee_label, "feeValue": fee_val, "type": fee_type,
+                "rowMuted": (direction == "in" and
+                             (club, player_id) in MUTED_IN_ROWS),
             })
         return out
 

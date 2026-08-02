@@ -174,7 +174,7 @@ function sideHTML(rows,side,s,loanedOut){
     mvCell(t)+`<td class="club">${esc(t.otherClub)}</td>`+feeCell(t);
   // OUT: permanent/free/contract exits and loan returns are muted; a player
   // merely sent out on loan stays at normal brightness.
-  const dim=t=>(side==='out'&&t.type!=='loan')
+  const dim=t=>t.rowMuted||(side==='out'&&t.type!=='loan')
     ||(side==='in'&&loanedOut.has(playerKey(t)));
   const body=rows.map(t=>`<tr class="${dim(t)?'row-muted':''}">${cells(t)}</tr>`).join('');
   return `<div class="side ${side}"><h3>${side==='in'?L.IN:L.OUT} <span class="c">${rows.length}</span></h3>${
