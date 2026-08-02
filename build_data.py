@@ -27,10 +27,10 @@ COUNTRIES = {
                            ("J3", "JAP3", "j3-league")]),
 }
 
-# Display state verified separately from Transfermarkt's transaction label.
-# It remains part of the generated CSV, so scheduled refreshes do not undo it.
-MUTED_IN_ROWS = {
-    ("Manchester United", "610442"),  # Rasmus Højlund: returned, then left permanently
+# Confirmed exceptions where the paired rows are bookkeeping around a player
+# who ultimately remains with the displayed club. Keep these IN rows active.
+ACTIVE_IN_ROW_OVERRIDES = {
+    ("Arsenal FC", "425918"),  # Jakub Kiwior: explicitly verified as active
 }
 
 
@@ -161,8 +161,6 @@ def parse_competition(html_text, league):
                 "nationalityFlag": flag,
                 "marketValue": mv_label, "marketValueNum": mv_val,
                 "fee": fee_label, "feeValue": fee_val, "type": fee_type,
-                "rowMuted": (direction == "in" and
-                             (club, player_id) in MUTED_IN_ROWS),
             })
         return out
 
@@ -180,6 +178,34 @@ def parse_competition(html_text, league):
     return club_meta, recs
 
 
+def apply_in_row_status(recs):
+    """Mute an IN row when the player later leaves the displayed club.
+
+    A non-return OUT row means the player departs permanently or on loan. An
+    incoming loan paired only with an OUT loan-return also ends outside the
+    displayed club. Conversely, a permanent/free IN paired only with an OUT
+    loan-return is the common loan-buyout bookkeeping pattern and stays active.
+    """
+    outs = {}
+    for row in recs:
+        if row.get("direction") != "out":
+            continue
+        key = (row.get("club"), row.get("playerId") or row.get("player"))
+        outs.setdefault(key, []).append(row)
+
+    for row in recs:
+        row["rowMuted"] = False
+        if row.get("direction") != "in":
+            continue
+        key = (row.get("club"), row.get("playerId") or row.get("player"))
+        paired_outs = outs.get(key, [])
+        left_club = any(x.get("type") != "loan-return" for x in paired_outs)
+        loan_ended = (row.get("type") == "loan" and
+                      any(x.get("type") == "loan-return" for x in paired_outs))
+        row["rowMuted"] = ((left_club or loan_ended) and
+                           key not in ACTIVE_IN_ROW_OVERRIDES)
+
+
 def build_country(key):
     display, comps = COUNTRIES[key]
     clubs, recs, divisions = [], [], []
@@ -189,6 +215,7 @@ def build_country(key):
         recs += rc
         divisions.append(label)
         print("  %s %s: %d clubs, %d rows" % (display, label, len(cm), len(rc)))
+    apply_in_row_status(recs)
     out = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc)
                         .strftime("%Y-%m-%d %H:%M UTC"),
