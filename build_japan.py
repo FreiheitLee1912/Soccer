@@ -340,15 +340,42 @@ def country_from_club(other_club):
     return COUNTRY_JA.get(found[-1]) if found else None
 
 
+CARRY_FIELDS = ("marketValueNum", "marketValue", "feeValue", "fee", "ftype",
+                "age", "matched", "nationality", "nationalityFlag")
+
+
+def carry_over_values(rows):
+    """When TM is unreachable, re-apply market values/fees/age from the last
+    committed data-japan.js, matched by player name."""
+    try:
+        raw = open("data-japan.js", encoding="utf-8").read()
+        old = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])["transfers"]
+    except Exception:
+        return 0
+    prev = {x["player"]: x for x in old if x.get("marketValueNum") is not None}
+    n = 0
+    for r in rows:
+        p = prev.get(r["player"])
+        if not p:
+            continue
+        for f in CARRY_FIELDS:
+            if p.get(f) is not None:
+                r[f] = p[f]
+        n += 1
+    return n
+
+
 def merge_mv(rows, threshold=0.90):
     import build_data
     try:
         idx = tm_index()
     except build_data.SourceBlocked as e:
-        # Transfermarkt blocked (common from CI IPs): keep the official J.League
-        # data without market-value/fee enrichment rather than failing the build.
-        sys.stderr.write("WARNING: TM market-value enrichment skipped — %s\n" % e)
-        return 0
+        # Transfermarkt blocked (common from CI IPs): keep refreshing the official
+        # J.League data, but carry market values/ages forward from the previous
+        # data-japan.js so a blocked run doesn't strip them off the live site.
+        sys.stderr.write("WARNING: TM enrichment blocked — %s; "
+                         "carrying values over from existing data-japan.js\n" % e)
+        return carry_over_values(rows)
     profiles = jleague_profiles(rows)
     flags = {rec.get("nationality"): rec.get("nationalityFlag")
              for _, rec in idx
