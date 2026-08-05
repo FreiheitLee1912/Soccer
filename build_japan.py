@@ -421,6 +421,23 @@ def merge_mv(rows, threshold=0.90):
     return matched
 
 
+def dedup_moves(rows):
+    """Collapse the same player leaving/joining one club more than once (e.g. a
+    契約満了 with destination 未定 that later resolves to a real club). Keep the
+    row with a concrete other-club, then the most recent date."""
+    def score(r):
+        other = (r.get("otherClub") or "").strip()
+        real = 0 if other in ("未定", "—", "") else 1
+        return (real, r.get("date") or "")
+    best = {}
+    for r in rows:
+        key = (r.get("clubKey"), r["player"], r["direction"])
+        if key not in best or score(r) > score(best[key]):
+            best[key] = r
+    keep = {id(v) for v in best.values()}
+    return [r for r in rows if id(r) in keep]
+
+
 def build():
     all_clubs, all_rows, divisions = [], [], []
     for league, slug in LEAGUES:
@@ -436,6 +453,9 @@ def build():
     all_rows = [r for r in all_rows if (r["date"] or "") >= SUMMER_START]
     print("  summer window (>= %s): kept %d of %d rows"
           % (SUMMER_START, len(all_rows), before))
+    before = len(all_rows)
+    all_rows = dedup_moves(all_rows)
+    print("  dedup: kept %d of %d rows" % (len(all_rows), before))
     enrich_club_logos(all_clubs)
     print("  matching Transfermarkt market values…")
     m = merge_mv(all_rows)
