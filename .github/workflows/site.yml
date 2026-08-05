@@ -46,15 +46,18 @@ jobs:
         env:
           TARGET_COUNTRY: ${{ github.event.inputs.country || 'all' }}
         run: |
+          # A blocked source (Transfermarkt often blocks CI IPs) must not fail
+          # the whole job: skip that builder, keep its last-good data, deploy.
+          refresh () { python "$1" || echo "::warning::$1 failed (source blocked?) — keeping existing data"; }
           case "$TARGET_COUNTRY" in
             all)
-              python build_data.py
-              python build_japan.py
-              python build_china.py
+              refresh build_data.py
+              refresh build_japan.py
+              refresh build_china.py
               ;;
-            england) python build_data.py ;;
-            japan) python build_japan.py ;;
-            china) python build_china.py ;;
+            england) refresh build_data.py ;;
+            japan) refresh build_japan.py ;;
+            china) refresh build_china.py ;;
           esac
 
       - name: Commit refreshed CSV and browser data

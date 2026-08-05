@@ -341,7 +341,14 @@ def country_from_club(other_club):
 
 
 def merge_mv(rows, threshold=0.90):
-    idx = tm_index()
+    import build_data
+    try:
+        idx = tm_index()
+    except build_data.SourceBlocked as e:
+        # Transfermarkt blocked (common from CI IPs): keep the official J.League
+        # data without market-value/fee enrichment rather than failing the build.
+        sys.stderr.write("WARNING: TM market-value enrichment skipped — %s\n" % e)
+        return 0
     profiles = jleague_profiles(rows)
     flags = {rec.get("nationality"): rec.get("nationalityFlag")
              for _, rec in idx

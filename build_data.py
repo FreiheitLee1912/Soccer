@@ -9,8 +9,12 @@ are Transfermarkt estimates, in EUR.
 
 Re-run to refresh:  python3 build_data.py
 """
-import json, re, subprocess, datetime, sys
+import json, re, subprocess, datetime, sys, time
 import csv_data
+
+
+class SourceBlocked(RuntimeError):
+    """Transfermarkt returned an empty/blocked page (common from CI IPs)."""
 
 SEASON = "2026"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -37,10 +41,19 @@ ACTIVE_IN_ROW_OVERRIDES = {
 def fetch(code, slug):
     url = ("https://www.transfermarkt.com/%s/transfers/wettbewerb/%s/saison_id/%s"
            % (slug, code, SEASON))
-    return subprocess.run(
-        ["curl", "-s", "--max-time", "45", "-A", UA,
-         "-H", "Accept-Language: en-US,en;q=0.9", url],
-        capture_output=True, text=True, check=True).stdout
+    last = ""
+    for attempt in range(3):
+        r = subprocess.run(
+            ["curl", "-s", "--max-time", "45", "-A", UA,
+             "-H", "Accept-Language: en-US,en;q=0.9", url],
+            capture_output=True, text=True)
+        html = r.stdout or ""
+        if r.returncode == 0 and len(html) > 5000:      # a real page is ~800KB
+            return html
+        last = "rc=%d len=%d" % (r.returncode, len(html))
+        if attempt < 2:
+            time.sleep(6)
+    raise SourceBlocked("empty/blocked response for %s (%s)" % (code, last))
 
 
 def norm(x):
@@ -121,13 +134,18 @@ def is_academy_promotion(club, other_club):
 
 def parse_competition(html_text, league):
     from lxml import html
-    tree = html.fromstring(html_text)
+    if not html_text or len(html_text) < 5000:
+        raise SourceBlocked("empty page for %s" % league)
+    try:
+        tree = html.fromstring(html_text)
+    except Exception as e:
+        raise SourceBlocked("unparseable page for %s: %s" % (league, e))
     heads = tree.xpath('//h2[contains(@class,"content-box-headline")]'
                        '[.//a[contains(@href,"verein") or '
                        'contains(@href,"startseite")]]')
     clubs = [norm(h.text_content()) for h in heads]
     if not clubs:
-        sys.exit("layout changed for %s: no clubs" % league)
+        raise SourceBlocked("no clubs for %s (blocked or layout change)" % league)
 
     def rows(t, club, direction):
         out = []
@@ -235,7 +253,13 @@ def main():
     # build_japan.py (official J.League source); build_data's Japan config is
     # used solely by build_japan.tm_index() for market-value enrichment, so we
     # must NOT write data-japan.js here or it would clobber the official one.
-    build_country("england")
+    try:
+        build_country("england")
+    except SourceBlocked as e:
+        # Transfermarkt commonly blocks CI/datacenter IPs. Don't fail the build:
+        # keep the last-good data-england.js so the site still deploys.
+        sys.stderr.write("WARNING: England refresh skipped — %s. "
+                         "Keeping existing data-england.js.\n" % e)
 
 
 if __name__ == "__main__":
