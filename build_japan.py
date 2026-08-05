@@ -456,20 +456,30 @@ def merge_mv(rows, threshold=0.90):
 
 
 def apply_sofascore_overrides(rows):
-    """Fill market values Transfermarkt lacks from a hand-curated SofaScore
-    table (sofascore-overrides.json, player -> EUR). SofaScore blocks scripted
-    access, so this table is maintained manually via the browser."""
+    """Fill data Transfermarkt lacks from a hand-curated SofaScore table
+    (sofascore-overrides.json). SofaScore blocks scripted access, so this table
+    is maintained manually via the browser. Each entry is either an int (EUR)
+    or {eur, age, name} — eur may be 0 to mean 'confirmed, no market value'."""
     try:
         ov = json.load(open("sofascore-overrides.json", encoding="utf-8"))
     except (FileNotFoundError, ValueError):
         return 0
     n = 0
     for r in rows:
-        if r.get("marketValueNum") is None and r["player"] in ov:
-            r["marketValueNum"] = round(ov[r["player"]] / 1e6, 3)
+        e = ov.get(r["player"])
+        if e is None:
+            continue
+        eur = e.get("eur") if isinstance(e, dict) else e
+        if eur is not None and r.get("marketValueNum") is None:
+            r["marketValueNum"] = round(eur / 1e6, 3)
             r["matched"] = True
             r["valueSource"] = "SofaScore"
-            n += 1
+        if isinstance(e, dict):
+            if e.get("age"):
+                r["age"] = e["age"]
+            if e.get("name"):
+                r["roman"] = e["name"]
+        n += 1
     return n
 
 
