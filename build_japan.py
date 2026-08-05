@@ -455,6 +455,24 @@ def merge_mv(rows, threshold=0.90):
     return matched
 
 
+def apply_sofascore_overrides(rows):
+    """Fill market values Transfermarkt lacks from a hand-curated SofaScore
+    table (sofascore-overrides.json, player -> EUR). SofaScore blocks scripted
+    access, so this table is maintained manually via the browser."""
+    try:
+        ov = json.load(open("sofascore-overrides.json", encoding="utf-8"))
+    except (FileNotFoundError, ValueError):
+        return 0
+    n = 0
+    for r in rows:
+        if r.get("marketValueNum") is None and r["player"] in ov:
+            r["marketValueNum"] = round(ov[r["player"]] / 1e6, 3)
+            r["matched"] = True
+            r["valueSource"] = "SofaScore"
+            n += 1
+    return n
+
+
 def dedup_moves(rows):
     """Collapse the same player leaving/joining one club more than once (e.g. a
     契約満了 with destination 未定 that later resolves to a real club). Keep the
@@ -494,6 +512,8 @@ def build():
     print("  matching Transfermarkt market values…")
     m = merge_mv(all_rows)
     print("  matched %d players to a TM transfer row" % m)
+    ov = apply_sofascore_overrides(all_rows)
+    print("  SofaScore overrides applied to %d rows" % ov)
     return {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc)
                         .strftime("%Y-%m-%d %H:%M UTC"),
