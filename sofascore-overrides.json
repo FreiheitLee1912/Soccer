@@ -467,5 +467,41 @@
   "age": 19,
   "jp": "Nicholas Guimarães",
   "name": "ニコラス"
+ },
+ "Mateusu Indio": {
+  "eur": 720000,
+  "age": 26,
+  "jp": "Indio",
+  "name": "マテウス インディオ"
+ },
+ "マテウス インディオ": {
+  "eur": 720000,
+  "age": 26,
+  "jp": "Indio",
+  "name": "マテウス インディオ"
+ },
+ "ROCHA": {
+  "eur": 750000,
+  "age": 29,
+  "jp": "Leonardo Rocha",
+  "name": "ホシャ"
+ },
+ "ホシャ": {
+  "eur": 750000,
+  "age": 29,
+  "jp": "Leonardo Rocha",
+  "name": "ホシャ"
+ },
+ "Pedoro Homaano": {
+  "eur": 420000,
+  "age": 25,
+  "jp": "Pedro Romano",
+  "name": "ペドロ ホマーノ"
+ },
+ "ペドロ ホマーノ": {
+  "eur": 420000,
+  "age": 25,
+  "jp": "Pedro Romano",
+  "name": "ペドロ ホマーノ"
  }
 }
