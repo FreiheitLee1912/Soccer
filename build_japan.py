@@ -344,21 +344,100 @@ CARRY_FIELDS = ("marketValueNum", "marketValue", "feeValue", "fee", "ftype",
                 "age", "matched", "nationality", "nationalityFlag")
 
 
-def carry_over_values(rows):
-    """When TM is unreachable, re-apply market values/fees/age from the last
-    committed data-japan.js, matched by player name."""
+def is_latin(s):
+    return bool(s) and not re.search(r"[ぁ-ヶ一-龯]", s)
+
+
+def backfill_from_previous(rows):
+    """Fill gaps from the last committed data-japan.js so a build can never be
+    worse than the previous one.
+
+    Transfermarkt degrades in two ways — a hard block (raises) and a partial,
+    silent one where fewer players resolve. Only the first triggers the
+    blocked-source path, so this backfill runs on EVERY build and fills just
+    what is still missing. Fresh data always wins; nothing here overwrites it.
+    """
     try:
         raw = open("data-japan.js", encoding="utf-8").read()
         old = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])["transfers"]
     except Exception:
         return 0
-    prev = {x["player"]: x for x in old if x.get("marketValueNum") is not None}
-    n = 0
+
+    def keys(x):
+        out = []
+        if x.get("playerId"):
+            out.append(("id", str(x["playerId"])))
+        for nm in (x.get("player"), x.get("roman")):
+            if nm:
+                out.append(("nm", nm))
+        return out
+
+    prev = {}
+    for x in old:
+        for k in keys(x):
+            prev.setdefault(k, x)
+
+    filled = 0
     for r in rows:
-        p = prev.get(r["player"])
+        p = next((prev[k] for k in keys(r) if k in prev), None)
         if not p:
             continue
+        touched = False
         for f in CARRY_FIELDS:
+            if r.get(f) is None and p.get(f) is not None:
+                r[f] = p[f]
+                touched = True
+        # Restore the Latin main name for foreign players when this build only
+        # produced katakana (happens when J.LEAGUE profiles can't be fetched).
+        if (not is_latin(r.get("player")) and is_latin(p.get("player"))
+                and not is_latin(p.get("roman") or "")):
+            r["player"], r["roman"] = p["player"], p.get("roman") or r.get("roman")
+            touched = True
+        elif not r.get("roman") and p.get("roman"):
+            r["roman"] = p["roman"]
+            touched = True
+        if touched:
+            filled += 1
+    return filled
+
+
+def carry_over_values(rows):
+    """When TM is unreachable, re-apply enrichment from the last committed
+    data-japan.js.
+
+    Keyed on the J.LEAGUE player id, not the display name: with TM blocked the
+    fresh build also loses the Latin spellings, so a foreign player comes back
+    as katakana and a name-keyed lookup would silently drop his data. The
+    display names are carried over too, so a blocked run never degrades output.
+    """
+    try:
+        raw = open("data-japan.js", encoding="utf-8").read()
+        old = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])["transfers"]
+    except Exception:
+        return 0
+
+    def keys(x):
+        out = []
+        if x.get("playerId"):
+            out.append(("id", str(x["playerId"])))
+        out.append(("nm", x.get("player")))
+        if x.get("roman"):
+            out.append(("nm", x["roman"]))
+        return out
+
+    prev = {}
+    for x in old:
+        if x.get("marketValueNum") is None and not x.get("roman"):
+            continue
+        for k in keys(x):
+            prev.setdefault(k, x)
+
+    n = 0
+    for r in rows:
+        p = next((prev[k] for k in keys(r) if k in prev), None)
+        if not p:
+            continue
+        for f in CARRY_FIELDS + ("player", "roman"):
             if p.get(f) is not None:
                 r[f] = p[f]
         n += 1
@@ -529,6 +608,8 @@ def build():
     print("  matched %d players to a TM transfer row" % m)
     ov = apply_sofascore_overrides(all_rows)
     print("  SofaScore overrides applied to %d rows" % ov)
+    bf = backfill_from_previous(all_rows)
+    print("  backfilled %d rows from the previous build" % bf)
     return {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc)
                         .strftime("%Y-%m-%d %H:%M UTC"),
