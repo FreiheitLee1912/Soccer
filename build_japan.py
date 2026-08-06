@@ -477,6 +477,8 @@ def apply_sofascore_overrides(rows):
         if isinstance(e, dict):
             if e.get("age"):
                 r["age"] = e["age"]
+            if e.get("jp"):          # main display name (Japanese notation)
+                r["player"] = e["jp"]
             if e.get("name"):
                 r["roman"] = e["name"]
         n += 1
