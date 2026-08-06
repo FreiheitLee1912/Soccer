@@ -455,5 +455,17 @@
   "age": 22,
   "jp": "Aki Koch",
   "name": "アキ コッホ コバヤシ"
+ },
+ "NICHOLAS": {
+  "eur": 0,
+  "age": 19,
+  "jp": "Nicholas Guimarães",
+  "name": "ニコラス"
+ },
+ "ニコラス": {
+  "eur": 0,
+  "age": 19,
+  "jp": "Nicholas Guimarães",
+  "name": "ニコラス"
  }
 }
