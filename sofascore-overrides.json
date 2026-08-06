@@ -443,5 +443,17 @@
   "age": 23,
   "jp": "Avelete Yves",
   "name": "アヴェレーテ イーブス"
+ },
+ "Aki Koch KOBAYASHI": {
+  "eur": 105000,
+  "age": 22,
+  "jp": "Aki Koch",
+  "name": "アキ コッホ コバヤシ"
+ },
+ "アキ コッホ コバヤシ": {
+  "eur": 105000,
+  "age": 22,
+  "jp": "Aki Koch",
+  "name": "アキ コッホ コバヤシ"
  }
 }
