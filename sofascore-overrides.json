@@ -503,5 +503,74 @@
   "age": 25,
   "jp": "Pedro Romano",
   "name": "ペドロ ホマーノ"
+ },
+ "中井 卓大": {
+  "eur": 155000,
+  "age": 22,
+  "name": "Takuhiro Nakai"
+ },
+ "KANG Yeonggwang": {
+  "eur": 0,
+  "age": 18,
+  "name": "カン ヨンガン",
+  "jp": "Kang Young-kwang"
+ },
+ "カン ヨンガン": {
+  "eur": 0,
+  "age": 18,
+  "name": "カン ヨンガン",
+  "jp": "Kang Young-kwang"
+ },
+ "Rigley": {
+  "eur": 0,
+  "age": 21,
+  "name": "リグレイ",
+  "jp": "Rigley da Silva"
+ },
+ "リグレイ": {
+  "eur": 0,
+  "age": 21,
+  "name": "リグレイ",
+  "jp": "Rigley da Silva"
+ },
+ "Chung-won Lee": {
+  "eur": 0,
+  "age": 22,
+  "name": "イ チュンウォン"
+ },
+ "イ チュンウォン": {
+  "eur": 0,
+  "age": 22,
+  "name": "イ チュンウォン"
+ },
+ "西澤 翼": {
+  "eur": 0,
+  "age": 23,
+  "name": "Tsubasa Nishizawa"
+ },
+ "宇都木 峻": {
+  "eur": 0,
+  "age": 29,
+  "name": "Shun Utsugi"
+ },
+ "坂本 光": {
+  "eur": 0,
+  "age": 22,
+  "name": "Hikaru Sakamoto"
+ },
+ "横窪 皇太": {
+  "eur": 0,
+  "age": 24,
+  "name": "Kota Yokokubo"
+ },
+ "佐藤 颯真": {
+  "eur": 0,
+  "age": 22,
+  "name": "Soma Sato"
+ },
+ "大和 翼空": {
+  "eur": 0,
+  "age": 23,
+  "name": "Sora Yamato"
  }
 }
