@@ -17,6 +17,11 @@
     script.onerror = fail;
     document.body.appendChild(script);
   };
+  // Stylesheets are cached independently of the HTML, so re-request them with
+  // the same stamp; otherwise a stale app.css outlives a fresh data file.
+  document.querySelectorAll('link[rel="stylesheet"][href$="app.css"]').forEach((link) => {
+    link.href = `app.css?v=${stamp}`;
+  });
   if (status) status.textContent = loader.dataset.loading || 'Loading latest data…';
   load(loader.dataset.file, () => {
     if (!window.TRANSFER_DATA) return fail();
