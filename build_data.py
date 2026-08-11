@@ -38,20 +38,31 @@ ACTIVE_IN_ROW_OVERRIDES = {
 }
 
 
-def fetch(code, slug):
+def is_maintenance(html_text):
+    """Some Transfermarkt edge nodes answer with a ~22KB maintenance page at
+    random — big enough to pass a size check, so it has to be spotted by title
+    or it gets parsed as a real page and looks like a layout change."""
+    m = re.search(r"<title>(.*?)</title>", html_text[:4000], re.S)
+    return bool(m) and "maintenance" in m.group(1).lower()
+
+
+def fetch(code, slug, attempts=5):
     url = ("https://www.transfermarkt.com/%s/transfers/wettbewerb/%s/saison_id/%s"
            % (slug, code, SEASON))
     last = ""
-    for attempt in range(3):
+    for attempt in range(attempts):
         r = subprocess.run(
             ["curl", "-s", "--max-time", "45", "-A", UA,
              "-H", "Accept-Language: en-US,en;q=0.9", url],
             capture_output=True, text=True)
         html = r.stdout or ""
         if r.returncode == 0 and len(html) > 5000:      # a real page is ~800KB
-            return html
-        last = "rc=%d len=%d" % (r.returncode, len(html))
-        if attempt < 2:
+            if not is_maintenance(html):
+                return html
+            last = "maintenance page"
+        else:
+            last = "rc=%d len=%d" % (r.returncode, len(html))
+        if attempt < attempts - 1:
             time.sleep(6)
     raise SourceBlocked("empty/blocked response for %s (%s)" % (code, last))
 
