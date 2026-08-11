@@ -1,0 +1,29 @@
+{
+  "_readme": [
+    "Transfers the official J.LEAGUE page (jleague.jp/{j1,j2,j3}/special/transfer/) has not published.",
+    "That page is not exhaustive: 加入内定 / 特別指定選手 announcements in particular appear only sometimes",
+    "(浦和 announced 稲垣篤志 and 田中玲音 together on 2026-08-06; only 稲垣 was listed).",
+    "An official row for the same clubKey + player + direction always wins, so a stale entry cannot",
+    "duplicate a row — but delete it once the official source carries the move.",
+    "Required: league, clubKey, club, direction, date, player, otherClub.",
+    "Optional: roman, pos, age, transferType, playerId, marketValueNum, nationality, nationalityFlag.",
+    "Manual rows skip Transfermarkt enrichment, so whatever is written here is what the site shows."
+  ],
+  "transfers": [
+    {
+      "league": "J1",
+      "clubKey": "kobe",
+      "club": "ヴィッセル神戸",
+      "direction": "in",
+      "date": "2026-08-07",
+      "player": "岩本 悠庵",
+      "roman": "Yuan Iwamoto",
+      "pos": "MF",
+      "age": 20,
+      "otherClub": "中京大学",
+      "transferType": "新加入",
+      "nationality": "Japan",
+      "source": "https://www.vissel-kobe.co.jp/news/article/26777.html — 2029/30シーズン加入内定 + 2026/27 JFA・Jリーグ特別指定選手承認"
+    }
+  ]
+}

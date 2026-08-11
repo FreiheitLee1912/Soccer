@@ -14,6 +14,9 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 LEAGUES = [("J1", "j1"), ("J2", "j2"), ("J3", "j3")]
 SUMMER_START = "2026-06-01"   # keep only this summer's window
+MANUAL_FILE = "manual-transfers-japan.json"
+MANUAL_REQUIRED = ("league", "clubKey", "club", "direction", "date",
+                   "player", "otherClub")
 
 POS = {"GK": "gk", "DF": "def", "MF": "mid", "FW": "fwd"}
 CLUB_NAME_OVERRIDES = {"gunma": "ザスパ群馬"}
@@ -462,6 +465,8 @@ def merge_mv(rows, threshold=0.90):
     matched = 0
     cache = {}
     for r in rows:
+        if r.get("manual"):     # hand-curated: never fuzzy-match its name to TM
+            continue
         name = r["player"]
         if name not in cache:
             profile = profiles.get(r.get("playerId")) or {}
@@ -567,6 +572,62 @@ def apply_sofascore_overrides(rows):
     return n
 
 
+def merge_manual_rows(rows, clubs):
+    """Add hand-curated moves that the official J.LEAGUE page never published.
+
+    The official transfer special is not exhaustive — 加入内定 / 特別指定選手
+    announcements are carried inconsistently. Entries live in MANUAL_FILE and
+    are skipped whenever the official feed already has the same club + player +
+    direction, so official data always wins and a stale entry cannot duplicate
+    a row. Manual rows are flagged so merge_mv leaves their names alone.
+    """
+    try:
+        manual = json.load(open(MANUAL_FILE, encoding="utf-8"))["transfers"]
+    except (FileNotFoundError, KeyError, ValueError):
+        return 0
+    known = {(c["league"], c.get("key")) for c in clubs}
+    official = {(r["clubKey"], r["player"], r["direction"]) for r in rows}
+    added = 0
+    for e in manual:
+        missing = [f for f in MANUAL_REQUIRED if not e.get(f)]
+        if missing:
+            sys.exit("%s: entry %r is missing %s"
+                     % (MANUAL_FILE, e.get("player"), ", ".join(missing)))
+        if (e["league"], e["clubKey"]) not in known:
+            sys.exit("%s: %r names unknown club %s/%s"
+                     % (MANUAL_FILE, e["player"], e["league"], e["clubKey"]))
+        if (e["clubKey"], e["player"], e["direction"]) in official:
+            continue
+        raw, pos = e.get("transferType") or "", e.get("pos") or ""
+        mv = e.get("marketValueNum")
+        rows.append({
+            "player": e["player"], "club": e["club"], "clubKey": e["clubKey"],
+            "league": e["league"], "direction": e["direction"],
+            "otherClub": e["otherClub"], "pos": pos, "position": pos,
+            "transferType": raw, "date": e["date"], "type": transfer_type(raw),
+            "age": e.get("age"), "roman": e.get("roman"),
+            "playerId": str(e["playerId"]) if e.get("playerId") else None,
+            "marketValueNum": mv,
+            "marketValue": "€%sm" % mv if mv is not None else None,
+            "fee": None, "feeValue": None, "ftype": None, "matched": False,
+            "nationality": e.get("nationality"),
+            "nationalityFlag": e.get("nationalityFlag"),
+            "manual": True,
+        })
+        added += 1
+    return added
+
+
+def fill_manual_flags(rows):
+    """Manual rows skip Transfermarkt, so borrow each nationality's flag URL
+    from the enriched rows rather than hard-coding a CDN path in the JSON."""
+    flags = {r["nationality"]: r["nationalityFlag"] for r in rows
+             if r.get("nationality") and r.get("nationalityFlag")}
+    for r in rows:
+        if r.get("manual") and not r.get("nationalityFlag"):
+            r["nationalityFlag"] = flags.get(r.get("nationality"))
+
+
 def dedup_moves(rows):
     """Collapse the same player leaving/joining one club more than once (e.g. a
     契約満了 with destination 未定 that later resolves to a real club). Keep the
@@ -599,6 +660,7 @@ def build():
     all_rows = [r for r in all_rows if (r["date"] or "") >= SUMMER_START]
     print("  summer window (>= %s): kept %d of %d rows"
           % (SUMMER_START, len(all_rows), before))
+    print("  manual entries added: %d" % merge_manual_rows(all_rows, all_clubs))
     before = len(all_rows)
     all_rows = dedup_moves(all_rows)
     print("  dedup: kept %d of %d rows" % (len(all_rows), before))
@@ -608,6 +670,7 @@ def build():
     print("  matched %d players to a TM transfer row" % m)
     ov = apply_sofascore_overrides(all_rows)
     print("  SofaScore overrides applied to %d rows" % ov)
+    fill_manual_flags(all_rows)
     bf = backfill_from_previous(all_rows)
     print("  backfilled %d rows from the previous build" % bf)
     return {
