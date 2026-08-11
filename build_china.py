@@ -8,7 +8,7 @@ published when a reliable Chinese-name source is not available.
 import datetime
 import json
 import re
-import subprocess
+import sys
 import urllib.request
 import unicodedata
 import time
@@ -61,15 +61,6 @@ CLUB_ZH = {
     "Xiamen Feilu": "厦门飞鹭", "Guangzhou Dandelion": "广州蒲公英",
     "Guangdong Mingtu": "广东铭途", "Shenzhen 2028": "深圳2028",
 }
-
-
-def fetch(code, slug, season):
-    url = (f"https://www.transfermarkt.com/{slug}/transfers/wettbewerb/"
-           f"{code}/saison_id/{season}")
-    return subprocess.run(
-        ["curl", "-L", "-s", "--max-time", "50", "-A", UA,
-         "-H", "Accept-Language: en-US,en;q=0.9", url],
-        capture_output=True, text=True, check=True).stdout
 
 
 def parse_page(page, league):
@@ -302,7 +293,8 @@ def build():
     clubs, rows = [], []
     for season in SEASONS:
         for league, code, slug in COMPETITIONS:
-            c, r = parse_page(fetch(code, slug, season), league)
+            page = build_data.fetch(code, slug, season)
+            c, r = parse_page(page, league)
             clubs.extend(c); rows.extend(r)
             print(f"  {league} {code} season {season}: "
                   f"{len(c)} clubs, {len(r)} rows")
@@ -346,7 +338,14 @@ def build():
 
 
 if __name__ == "__main__":
-    out = build()
+    try:
+        out = build()
+    except build_data.SourceBlocked as e:
+        # Same contract as the England builder: a blocked Transfermarkt must not
+        # fail the job, it must leave the last-good data-china.js in place.
+        sys.stderr.write("WARNING: China refresh skipped — %s. "
+                         "Keeping existing data-china.js.\n" % e)
+        sys.exit(0)
     result = csv_data.write_csv_and_js(
         out, "china-transfers.csv", "data-china.js")
     print(f"wrote china-transfers.csv -> data-china.js: "

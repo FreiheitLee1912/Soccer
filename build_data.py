@@ -46,13 +46,13 @@ def is_maintenance(html_text):
     return bool(m) and "maintenance" in m.group(1).lower()
 
 
-def fetch(code, slug, attempts=5):
+def fetch(code, slug, season=None, attempts=5):
     url = ("https://www.transfermarkt.com/%s/transfers/wettbewerb/%s/saison_id/%s"
-           % (slug, code, SEASON))
+           % (slug, code, season or SEASON))
     last = ""
     for attempt in range(attempts):
         r = subprocess.run(
-            ["curl", "-s", "--max-time", "45", "-A", UA,
+            ["curl", "-L", "-s", "--max-time", "45", "-A", UA,
              "-H", "Accept-Language: en-US,en;q=0.9", url],
             capture_output=True, text=True)
         html = r.stdout or ""
