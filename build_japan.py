@@ -28,35 +28,85 @@ def fetch(slug):
                           capture_output=True, text=True, check=True).stdout
 
 
-def fetch_club_logo(club_key):
-    """Resolve a club's current official SVG crest from its J.LEAGUE page."""
+CLUB_NAME_RE = re.compile(r'\u3010\u516c\u5f0f\u3011(.+?)\u306e\u8a66\u5408\u65e5\u7a0b\u30fb\u7d50\u679c')
+
+
+def club_name_from_title(html):
+    """Pull the official club name out of the page title, and only the title.
+
+    Searching the whole document matches the site's embedded JSON config, where
+    a non-greedy capture happily spans kilobytes of unrelated settings and comes
+    back looking like a plausible name.
+    """
+    title = re.search(r"<title>(.*?)</title>", html, re.S)
+    if not title:
+        return None
+    match = CLUB_NAME_RE.search(title.group(1))
+    if not match:
+        return None
+    name = match.group(1).strip()
+    return name if 0 < len(name) <= 30 and '"' not in name else None
+
+
+def fetch_club_profile(club_key):
+    """Return (official full name, crest URL) from a club's own J.LEAGUE page.
+
+    The transfer page no longer carries this mapping: its footer club list lost
+    the /club/<key>/ hrefs, leaving aria-label names with nothing to key them
+    on. Each club's own page is authoritative, and this fetch already happened
+    for the crest, so the names cost no extra requests.
+    """
     url = "https://www.jleague.jp/club/%s/player/" % club_key
     html = subprocess.run(
         ["curl", "-L", "-s", "--max-time", "25", "--retry", "2",
          "--retry-delay", "1", "-A", UA, url],
         capture_output=True, text=True).stdout
-    match = re.search(r'(/image/clubs/[^"\\]+\.svg)', html)
-    return "https://www.jleague.jp" + match.group(1) if match else None
+    logo = re.search(r'(/image/clubs/[^"\\]+\.svg)', html)
+    return (club_name_from_title(html),
+            "https://www.jleague.jp" + logo.group(1) if logo else None)
 
 
-def enrich_club_logos(clubs):
-    """Attach one official crest URL to every club before CSV generation."""
-    keys = sorted({c.get("key") for c in clubs if c.get("key")})
-    logos = {}
+def enrich_clubs(clubs, rows):
+    """Resolve every club key to its official name and crest, then stamp those
+    onto the clubs and the rows.
+
+    Names are matched by key and never by position. The previous approach
+    paired each footer href with the next aria-label in document order; when
+    J.LEAGUE restructured that footer every club silently took a neighbour's
+    name, which is far worse than a missing name because it looks like data.
+    """
+    own_keys = {c.get("key") for c in clubs if c.get("key")}
+    keys = sorted(own_keys | {r.get("otherClubKey") for r in rows
+                              if r.get("otherClubKey")})
+    profiles = {}
     with ThreadPoolExecutor(max_workers=6) as pool:
-        futures = {pool.submit(fetch_club_logo, key): key for key in keys}
+        futures = {pool.submit(fetch_club_profile, key): key for key in keys}
         for future in as_completed(futures):
             key = futures[future]
             try:
-                logo = future.result()
+                profiles[key] = future.result()
             except Exception:
-                logo = None
-            if logo:
-                logos[key] = logo
+                profiles[key] = (None, None)
+    names = {k: CLUB_NAME_OVERRIDES.get(k) or v[0] for k, v in profiles.items()}
+
+    missing = sorted(k for k in own_keys if not names.get(k))
+    if missing:
+        sys.exit("could not resolve official names for %d club(s): %s. "
+                 "Refusing to publish club keys as club names."
+                 % (len(missing), ", ".join(missing)))
+
     for club in clubs:
-        club["logo"] = logos.get(club.get("key"))
-    print("  J.LEAGUE club crests: %d/%d" % (len(logos), len(keys)))
-    return logos
+        key = club.get("key")
+        club["name"] = names.get(key, key)
+        club["logo"] = profiles.get(key, (None, None))[1]
+    for r in rows:
+        r["club"] = names.get(r["clubKey"], r["clubKey"])
+        other_key = r.get("otherClubKey")
+        if other_key and names.get(other_key):
+            r["otherClub"] = names[other_key]
+    crests = sum(1 for k in own_keys if profiles.get(k, (None, None))[1])
+    print("  J.LEAGUE clubs: %d names, %d crests (of %d)"
+          % (len(own_keys), crests, len(own_keys)))
 
 
 def slice_array(s, start):
@@ -103,12 +153,8 @@ def maj_key(items):
 
 def parse_page(html, league):
     u = html.replace('\\"', '"')
-    # key -> FULL official club name, from the footer club list (aria-label)
-    fullmap = {}
-    for key, name in re.findall(
-            r'href="/club/([a-z0-9-]+)/"[^>]*>.*?aria-label="([^"]+)"', u):
-        fullmap.setdefault(key, name)
-    fullmap.update(CLUB_NAME_OVERRIDES)
+    # Club display names are not taken from this page at all: enrich_clubs()
+    # resolves each key against the club's own page. Keys stand in until then.
 
     # direction comes from the in/out badge that precedes each table (document
     # order, 1:1 with the transfersList arrays). The badge label is reliable;
@@ -136,17 +182,16 @@ def parse_page(html, league):
     clubs, rows = [], []
 
     def emit(items, key, direction):
-        club = fullmap.get(key, key)
+        club = key
         for it in items:
             p = it.get("player", {})
             other = it.get("transferToClub", {}) or {}
             other_name = (other.get("name") or "").strip() or "—"
             other_href = other.get("href") or ""
+            # Tables carry short labels (G大阪, 鹿島, 鳥栖...); keep the key so
+            # enrich_clubs() can swap in the official full name later.
             other_match = re.search(r"/club/([a-z0-9-]+)", other_href)
-            if other_match:
-                # J.LEAGUE tables use short labels (G大阪, 鹿島, 鳥栖...).
-                # Resolve their club href back to the official full name.
-                other_name = fullmap.get(other_match.group(1), other_name)
+            other_key = other_match.group(1) if other_match else None
             pos = p.get("position") or ""
             raw = it.get("transferType", "") or ""
             lookup = p.get("legacyPlayerPhotoLookup", {}) or {}
@@ -159,7 +204,7 @@ def parse_page(html, league):
                 "player": p.get("name", "").strip(),
                 "club": club, "clubKey": key, "league": league,
                 "direction": direction,
-                "otherClub": other_name,
+                "otherClub": other_name, "otherClubKey": other_key,
                 "pos": pos, "position": pos, "transferType": raw,
                 "date": (it.get("date") or "").replace("$D", "")[:10],
                 "type": transfer_type(raw), "age": None, "roman": None,
@@ -169,7 +214,7 @@ def parse_page(html, league):
             })
 
     for key, items in zip(club_order, in_items):
-        clubs.append({"name": fullmap.get(key, key), "league": league, "key": key})
+        clubs.append({"name": key, "league": league, "key": key})
         emit(items, key, "in")
     for key, items in zip(club_order, out_items):     # OUT mapped by position
         emit(items, key, "out")
@@ -447,6 +492,33 @@ def carry_over_values(rows):
     return n
 
 
+def resolve_name(name, hit, official_latin, profile_nationality, other_club):
+    """Pick the display name, romaji subtitle and nationality for one row.
+
+    Returns (player, roman, nationality); any element may be None, meaning the
+    caller should leave that field as it is.
+
+    Kanji romanises reliably, so an unmatched kanji name still earns a romaji
+    subtitle. Katakana does not: pykakasi renders "ジャクソン アーバイン" as
+    "Jakuson Aabain". With no override and no official spelling, the katakana
+    IS the best display name we have.
+    """
+    if hit and is_katakana(name) and hit.get("nationality") != "Japan":
+        return hit["name"], name, None
+    if hit:
+        return None, hit["name"], None
+    if is_katakana(name):
+        override_latin, override_nationality = FOREIGN_NAME_OVERRIDES.get(
+            name, (None, None))
+        latin = override_latin or official_latin
+        nationality = (override_nationality or profile_nationality
+                       or country_from_club(other_club))
+        if latin:
+            return latin, name, nationality
+        return None, None, nationality
+    return None, official_latin or romanize(name).title(), "Japan"
+
+
 def merge_mv(rows, threshold=0.90):
     import build_data
     try:
@@ -508,22 +580,15 @@ def merge_mv(rows, threshold=0.90):
         official_latin = profile.get("nameEn")
         birthplace = profile.get("placeOfBirth")
         profile_nationality = profile.get("nationality") or COUNTRY_JA.get(birthplace)
-        if hit and is_katakana(name) and hit.get("nationality") != "Japan":
-            r["player"], r["roman"] = hit["name"], name
-        elif hit:
-            r["roman"] = hit["name"]
-        elif is_katakana(name):
-            latin, nationality = FOREIGN_NAME_OVERRIDES.get(
-                name, (official_latin or romanize(name).title(),
-                       profile_nationality or country_from_club(r["otherClub"])))
-            r["player"], r["roman"] = latin, name
-            if nationality:
-                r["nationality"] = nationality
-                r["nationalityFlag"] = flags.get(nationality)
-        else:
-            r["roman"] = official_latin or romanize(name).title()
-            r["nationality"] = "Japan"
-            r["nationalityFlag"] = flags.get("Japan")
+        player, roman, nationality = resolve_name(
+            name, hit, official_latin, profile_nationality, r["otherClub"])
+        if player:
+            r["player"] = player
+        if roman:
+            r["roman"] = roman
+        if nationality:
+            r["nationality"] = nationality
+            r["nationalityFlag"] = flags.get(nationality)
         if hit is not None:
             if hit["mv"] is not None:
                 r["marketValueNum"] = hit["mv"]
@@ -664,7 +729,7 @@ def build():
     before = len(all_rows)
     all_rows = dedup_moves(all_rows)
     print("  dedup: kept %d of %d rows" % (len(all_rows), before))
-    enrich_club_logos(all_clubs)
+    enrich_clubs(all_clubs, all_rows)
     print("  matching Transfermarkt market values…")
     m = merge_mv(all_rows)
     print("  matched %d players to a TM transfer row" % m)
