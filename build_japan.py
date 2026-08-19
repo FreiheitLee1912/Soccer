@@ -240,13 +240,55 @@ def romanize(name):
     return ' '.join(''.join(x['hepburn'] for x in _KKS.convert(name)).split())
 
 
+# Variant forms pykakasi has no reading for: 髙 alone makes it return "" and
+# silently drop the whole surname.
+VARIANT_KANJI = str.maketrans({
+    "髙": "高", "﨑": "崎", "邊": "辺", "邉": "辺", "濵": "浜",
+    "瀨": "瀬", "德": "徳", "澤": "沢", "齋": "斎", "齊": "斉",
+})
+
+
 def japanese_key(name):
     """Normalise native names without losing Japanese characters."""
-    value = (name or "").translate(str.maketrans({
-        "髙": "高", "﨑": "崎", "邊": "辺", "邉": "辺", "濵": "浜",
-        "瀨": "瀬", "德": "徳", "澤": "沢", "齋": "斎", "齊": "斉",
-    }))
-    return re.sub(r"[\s　・·]", "", value)
+    return re.sub(r"[\s　・·]", "", (name or "").translate(VARIANT_KANJI))
+
+
+def romanize_western(name):
+    """Romanise a native name as "Given Surname", the order used everywhere else.
+
+    pykakasi reads the characters in the order it gets them, so a fallback
+    reading came out as "Ono Seiyume" while every Transfermarkt-matched name in
+    the same column read "Kosuke Kinoshita". J.LEAGUE writes the surname first
+    and separates it with a space, so that space is what tells the two apart.
+    The reading itself is still a guess — sofascore-overrides.json is where a
+    wrong one gets corrected.
+    """
+    normalised = (name or "").translate(VARIANT_KANJI)
+    parts = [x for x in re.split(r"[\s　]+", normalised.strip()) if x]
+    if len(parts) >= 2:
+        surname = romanize(parts[0]).title()
+        given = romanize(" ".join(parts[1:])).title()
+        if surname and given:
+            return "%s %s" % (given, surname)
+    return romanize(normalised).title() or None
+
+
+def normalise_official_latin(name):
+    """Turn J.LEAGUE's "SURNAME Given" profile spelling into "Given Surname".
+
+    Official profiles write the surname first and in caps — "TAKAHASHI Tetsuya"
+    — while every other name on the board reads "Kosuke Kinoshita". A fully
+    capitalised name is left alone: it is a foreign player written in caps
+    throughout, where the first token is not necessarily the surname.
+    """
+    parts = (name or "").split()
+    if len(parts) < 2:
+        return name or None
+    head, rest = parts[0], parts[1:]
+    if (head.isupper() and len(head) > 1
+            and not any(x.isupper() and len(x) > 1 for x in rest)):
+        return "%s %s" % (" ".join(rest), head.title())
+    return name
 
 
 def fetch_jleague_profile(player_id):
@@ -263,7 +305,7 @@ def fetch_jleague_profile(player_id):
     if not name_match:
         return None
     return {
-        "nameEn": name_match.group(1).strip(),
+        "nameEn": normalise_official_latin(name_match.group(1).strip()),
         "placeOfBirth": birth_match.group(1).strip() if birth_match else None,
     }
 
@@ -283,9 +325,11 @@ def jleague_profiles(rows):
                     continue
                 roman, player = cached.get("roman", ""), cached.get("player", "")
                 latin = roman if roman and not re.search(r"[ぁ-ヶ一-龯]", roman) else player
+                # The cache holds spellings this builder wrote, which includes
+                # generated fallbacks, so normalise on the way in as well.
                 if latin and not re.search(r"[ぁ-ヶ一-龯]", latin):
                     profiles[pid] = {
-                        "nameEn": latin,
+                        "nameEn": normalise_official_latin(latin),
                         "nationality": cached.get("nationality") or None,
                     }
     # The official site occasionally drops bursts of profile requests. Retry
@@ -516,7 +560,7 @@ def resolve_name(name, hit, official_latin, profile_nationality, other_club):
         if latin:
             return latin, name, nationality
         return None, None, nationality
-    return None, official_latin or romanize(name).title(), "Japan"
+    return None, official_latin or romanize_western(name), "Japan"
 
 
 def merge_mv(rows, threshold=0.90):
