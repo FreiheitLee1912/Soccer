@@ -207,6 +207,32 @@ def parse_competition(html_text, league):
     return club_meta, recs
 
 
+def collapse_repeat_moves(recs):
+    """Keep one row per league, club, direction and player.
+
+    Transfermarkt records every movement, so a keeper promoted from the U21
+    side, loaned out and then returned shows up in his club's IN column twice.
+    A loan-return carries no fee and no real origin, so whenever it is paired
+    with anything else the other row is the one worth showing. Between two
+    loan-returns there is nothing else to go on: England's rows carry no date,
+    which leaves the age stamped on each movement as the only recency signal.
+    """
+    def rank(row):
+        age = str(row.get("age") or "")
+        return (row.get("type") != "loan-return",
+                int(age) if age.isdigit() else -1,
+                bool((row.get("otherClub") or "").strip()))
+
+    best = {}
+    for row in recs:
+        key = (row.get("league"), row.get("club"), row.get("direction"),
+               row.get("playerId") or row.get("player"))
+        if key not in best or rank(row) > rank(best[key]):
+            best[key] = row
+    keep = {id(row) for row in best.values()}
+    return [row for row in recs if id(row) in keep]
+
+
 def apply_in_row_status(recs):
     """Mute an IN row when the player later leaves the displayed club.
 
@@ -244,6 +270,11 @@ def build_country(key):
         recs += rc
         divisions.append(label)
         print("  %s %s: %d clubs, %d rows" % (display, label, len(cm), len(rc)))
+    before = len(recs)
+    recs = collapse_repeat_moves(recs)
+    if before != len(recs):
+        print("  collapsed %d repeat movement(s)" % (before - len(recs)))
+    # Muting depends on which OUT rows survive, so it has to run afterwards.
     apply_in_row_status(recs)
     out = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc)
