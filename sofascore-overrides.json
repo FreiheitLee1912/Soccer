@@ -572,5 +572,15 @@
   "eur": 0,
   "age": 23,
   "name": "Sora Yamato"
+ },
+ "山根 視来": {
+  "eur": 825000,
+  "age": 32,
+  "name": "Miki Yamane"
+ },
+ "瀬古 樹": {
+  "eur": 930000,
+  "age": 28,
+  "name": "Tatsuki Seko"
  }
 }
