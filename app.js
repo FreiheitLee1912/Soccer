@@ -5,6 +5,15 @@
                         marketValue optionally merged from Transfermarkt.        */
 const D = window.TRANSFER_DATA;
 const T = D.transfers, CUR = D.currency || '€';
+
+// One rounded total per side, shared by the section headers and the net badge,
+// so a card's own arithmetic checks out. Rounding each side separately and then
+// subtracting leaves the badge up to 0.1 away from what the headers imply,
+// which reads as a bug even though the money is right.
+const feeTotal = rows => Math.round(
+  rows.filter(t => t.type === 'transfer')
+      .reduce((a, b) => a + (b.feeValue || 0), 0) * 10) / 10;
+
 const JP = D.country === 'Japan';
 const CN = D.country === 'China';
 const LOCAL = JP || CN;
@@ -13,7 +22,7 @@ const MULTI = (D.divisions || []).length > 1;
 const L = JP ? {
   IN:'IN', OUT:'OUT', player:'Player', age:'Age', value:'Value',
   from:'From', to:'To', fee:'Fee', date:'日付',
-  netSpend:'純支出', netProfit:'純収入', none:'該当する移籍がありません。',
+  netSpend:'純支出', netProfit:'純収入', total:'合計', none:'該当する移籍がありません。',
   source:'出典', updated:'更新',
   s1:'移籍・加入', s2:'完全移籍', s3:'レンタル', s4:'最高市場価値',
   foot:'ポジション: <b style="color:var(--gk)">GK</b> · <b style="color:var(--def)">DF</b> · '+
@@ -24,7 +33,7 @@ const L = JP ? {
 } : CN ? {
   IN:'转入', OUT:'转出', player:'球员', age:'年龄', value:'身价',
   from:'来自', to:'去向', fee:'转会费', date:'日期',
-  netSpend:'净支出', netProfit:'净收入', none:'没有符合筛选条件的转会。',
+  netSpend:'净支出', netProfit:'净收入', total:'合计', none:'没有符合筛选条件的转会。',
   source:'来源', updated:'更新', s1:'转会加盟', s2:'永久转会', s3:'租借', s4:'最高身价',
   foot:'位置：<b style="color:var(--gk)">门将</b> · <b style="color:var(--def)">后卫</b> · '+
     '<b style="color:var(--mid)">中场</b> · <b style="color:var(--fwd)">前锋</b>。'+
@@ -32,7 +41,7 @@ const L = JP ? {
 } : {
   IN:'IN', OUT:'OUT', player:'Player', age:'Age', value:'Value',
   from:'From', to:'To', fee:'Fee', date:'Date',
-  netSpend:'Net spend', netProfit:'Net profit', none:'No transfers match your filters.',
+  netSpend:'Net spend', netProfit:'Net profit', total:'Total', none:'No transfers match your filters.',
   source:'Source', updated:'Updated',
   s1:'Total spend', s2:'Signings', s3:'Loans', s4:'Record signing',
   foot:'Positions: <b style="color:var(--gk)">GK</b> · <b style="color:var(--def)">DEF</b> · '+
@@ -177,7 +186,14 @@ function sideHTML(rows,side,s,loanedOut){
   const dim=t=>t.rowMuted||(side==='out'&&t.type!=='loan')
     ||(side==='in'&&loanedOut.has(playerKey(t)));
   const body=rows.map(t=>`<tr class="${dim(t)?'row-muted':''}">${cells(t)}</tr>`).join('');
-  return `<div class="side ${side}"><h3>${side==='in'?L.IN:L.OUT} <span class="c">${rows.length}</span></h3>${
+  // Per-club total for this side, on the same rule as the net-spend badge so
+  // the card reconciles: IN total minus OUT total is exactly the net figure.
+  // Shown only when there is money to add up — most J.LEAGUE and Chinese moves
+  // are undisclosed or free, and a "Total 0.0m" on every card says nothing
+  // while looking like a failure to compute one.
+  const sum=feeTotal(rows);
+  const tot=sum>0?`<span class="tot">${L.total} ${CUR}${sum.toFixed(1)}m</span>`:'';
+  return `<div class="side ${side}"><h3>${side==='in'?L.IN:L.OUT} <span class="c">${rows.length}</span>${tot}</h3>${
     rows.length?`<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
               :'<div class="empty">—</div>'}</div>`;
 }
@@ -199,9 +215,7 @@ function render(){
     if(!ins.length&&!outs.length) return; shown++;
     let netBadge='';
     if(!LOCAL){
-      const spent=ins.filter(t=>t.type==='transfer').reduce((a,b)=>a+(b.feeValue||0),0);
-      const sold =outs.filter(t=>t.type==='transfer').reduce((a,b)=>a+(b.feeValue||0),0);
-      const net=spent-sold;
+      const net=feeTotal(ins)-feeTotal(outs);
       netBadge=`<span class="badge-net ${net>=0?'net-pos':'net-neg'}">`+
         `${net>=0?L.netSpend:L.netProfit} ${CUR}${Math.abs(net).toFixed(1)}m</span>`;
     } else {

@@ -80,6 +80,8 @@ main{padding:20px 0 70px}
   text-transform:uppercase;display:flex;gap:7px;align-items:center}
 .side.in h3{color:var(--in)} .side.out h3{color:var(--out)}
 .side h3 .c{color:var(--faint);font-weight:400}
+.side h3 .tot{margin-left:auto;color:var(--faint);font-weight:400;
+  letter-spacing:.3px;text-transform:none;font-variant-numeric:tabular-nums}
 table{width:100%;border-collapse:collapse}
 thead th{font-size:10px;letter-spacing:.5px;text-transform:uppercase;
   color:var(--faint);text-align:left;padding:2px 8px;font-weight:400}
