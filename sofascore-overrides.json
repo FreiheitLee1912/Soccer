@@ -584,6 +584,7 @@
   "name": "Tatsuki Seko"
  },
  "渡邊 麻舟": {
+  "eur": 0,
   "age": 18,
   "name": "Matthew Watanabe"
  },
@@ -597,5 +598,389 @@
   "age": 29,
   "jp": "羅 相浩",
   "name": "Sang-ho Na"
+ },
+ "田村 遊吏": {
+  "eur": 0,
+  "age": 20,
+  "name": "Yuri Tamura"
+ },
+ "稲垣 篤志": {
+  "eur": 52000,
+  "age": 21,
+  "name": "Atsushi Inagaki"
+ },
+ "渡邉 春来": {
+  "eur": 0,
+  "age": 18,
+  "name": "Haruki Watanabe"
+ },
+ "HALLS": {
+  "eur": 420000,
+  "age": 27,
+  "jp": "Halls"
+ },
+ "JUANPE": {
+  "eur": 310000,
+  "age": 30,
+  "jp": "Juanpe"
+ },
+ "ERIK": {
+  "eur": 1100000,
+  "age": 32,
+  "jp": "Erik"
+ },
+ "早川 ウワブライト": {
+  "eur": 0,
+  "age": 19,
+  "name": "Uwabright Hayakawa"
+ },
+ "久保 瑛史": {
+  "eur": 0,
+  "age": 19,
+  "name": "Eiji Kubo"
+ },
+ "ITTHIMON": {
+  "eur": 78000,
+  "age": 18,
+  "jp": "Itthimon Tippanet"
+ },
+ "真田 蓮司": {
+  "eur": 0,
+  "age": 22,
+  "name": "Renji Sanada"
+ },
+ "保坂 善里": {
+  "eur": 0,
+  "name": "Senri Hosaka"
+ },
+ "佐藤 陸斗": {
+  "eur": 0,
+  "age": 17,
+  "name": "Rikuto Sato"
+ },
+ "中山 竜之介": {
+  "eur": 0,
+  "age": 22,
+  "name": "Ryunosuke Nakayama"
+ },
+ "渡辺 莉太": {
+  "eur": 0,
+  "name": "Rita Watanabe"
+ },
+ "奥田 悠真": {
+  "eur": 0,
+  "age": 18,
+  "name": "Yuma Okuda"
+ },
+ "伊藤 翼": {
+  "eur": 0,
+  "age": 21,
+  "name": "Tsubasa Ito"
+ },
+ "萩原 慶": {
+  "eur": 0,
+  "age": 17,
+  "name": "Kei Hagihara"
+ },
+ "後藤 響": {
+  "eur": 0,
+  "age": 22,
+  "name": "Hibiki Goto"
+ },
+ "小林 俊瑛": {
+  "eur": 0,
+  "age": 22,
+  "name": "Shunei Kobayashi"
+ },
+ "松本 果成": {
+  "eur": 0,
+  "age": 19,
+  "name": "Kanaru Matsumoto"
+ },
+ "笹崎 翔矢": {
+  "eur": 0,
+  "age": 22,
+  "name": "Shoya Sasazaki"
+ },
+ "櫻井 稜": {
+  "eur": 0,
+  "age": 21,
+  "name": "Ryo Sakurai"
+ },
+ "田中 恵大": {
+  "eur": 0,
+  "name": "Keito Tanaka"
+ },
+ "木村 和輝": {
+  "eur": 0,
+  "name": "Kazuki Kimura"
+ },
+ "半田 祥真": {
+  "eur": 0,
+  "age": 22,
+  "name": "Shoma Handa"
+ },
+ "松原 海斗": {
+  "eur": 0,
+  "age": 22,
+  "name": "Kaito Matsubara"
+ },
+ "Henry Endrew": {
+  "eur": 0,
+  "age": 21
+ },
+ "全 律": {
+  "eur": 0,
+  "age": 21,
+  "name": "Ryul Jeon"
+ },
+ "井上 秀悟": {
+  "eur": 0,
+  "age": 22,
+  "name": "Shugo Inoue"
+ },
+ "波本 頼": {
+  "eur": 0,
+  "age": 23,
+  "name": "Rai Namimoto"
+ },
+ "中島 永弥": {
+  "eur": 0,
+  "age": 22,
+  "name": "Toya Nakajima"
+ },
+ "木村 匠汰": {
+  "eur": 0,
+  "name": "Shota Kimura"
+ },
+ "中山 大耀": {
+  "eur": 0,
+  "name": "Taiyo Nakayama"
+ },
+ "今村 元紀": {
+  "eur": 0,
+  "age": 22,
+  "name": "Motoki Imamura"
+ },
+ "岩本 悠庵": {
+  "eur": 0,
+  "age": 20,
+  "name": "Yuan Iwamoto"
+ },
+ "HUGO": {
+  "eur": 0,
+  "age": 22,
+  "jp": "Hugo Leonardo"
+ },
+ "チョ ユミン": {
+  "eur": 1800000,
+  "age": 29,
+  "name": "チョ ユミン",
+  "jp": "Yu-min Cho"
+ },
+ "カマラ シェック セザール": {
+  "eur": 0,
+  "age": 18,
+  "name": "カマラ シェック セザール",
+  "jp": "Cheick Camara"
+ },
+ "JAVI HERNANDEZ": {
+  "eur": 1900000,
+  "age": 28,
+  "jp": "Javier Hernández"
+ },
+ "KEWIN SILVA": {
+  "eur": 825000,
+  "age": 31,
+  "jp": "Kewin"
+ },
+ "Iuri Kasuteiiryo": {
+  "eur": 775000,
+  "age": 31,
+  "jp": "Iury Castilho"
+ },
+ "THANAWUT": {
+  "eur": 105000,
+  "age": 20,
+  "jp": "Thanawut Phochai"
+ },
+ "佐藤 隼": {
+  "eur": 0,
+  "age": 29,
+  "name": "Shun Sato"
+ },
+ "高崎 天史郎": {
+  "eur": 0,
+  "age": 20,
+  "name": "Tenshiro Takasaki"
+ },
+ "永長 鷹虎": {
+  "eur": 130000,
+  "age": 23,
+  "name": "Takatora Einaga"
+ },
+ "Sesaru Aidaru": {
+  "eur": 525000,
+  "age": 25,
+  "jp": "César Haydar"
+ },
+ "倍井 謙": {
+  "eur": 850000,
+  "age": 25,
+  "name": "Ken Masui"
+ },
+ "福田 心之助": {
+  "eur": 700000,
+  "age": 26,
+  "name": "Shinnosuke Fukuda"
+ },
+ "喜多 壱也": {
+  "eur": 1800000,
+  "age": 21,
+  "name": "Kazunari Kita"
+ },
+ "名和田 我空": {
+  "eur": 135000,
+  "age": 20,
+  "name": "Gaku Nawata"
+ },
+ "瀬口 大翔": {
+  "eur": 0,
+  "age": 18,
+  "name": "Taiga Seguchi"
+ },
+ "奈良 竜樹": {
+  "eur": 340000,
+  "age": 33,
+  "name": "Tatsuki Nara"
+ },
+ "西村 蓮音": {
+  "eur": 52000,
+  "age": 21,
+  "name": "Ren Nishimura"
+ },
+ "安部 大晴": {
+  "eur": 2400000,
+  "age": 22,
+  "name": "Taisei Abe"
+ },
+ "鏑木 瑞生": {
+  "eur": 105000,
+  "age": 26,
+  "name": "Mizuki Kaburaki"
+ },
+ "表原 玄太": {
+  "eur": 130000,
+  "age": 30,
+  "name": "Genta Omotehara"
+ },
+ "相澤 ピーターコアミ": {
+  "eur": 160000,
+  "age": 25,
+  "name": "Peter Kwame Aizawa"
+ },
+ "磯﨑 麻玖": {
+  "eur": 0,
+  "age": 20,
+  "name": "Mark Isozaki"
+ },
+ "大竹 優心": {
+  "eur": 80000,
+  "age": 21,
+  "name": "Yushin Otake"
+ },
+ "山﨑 絢心": {
+  "eur": 48000,
+  "age": 19,
+  "name": "Kenshin Yamazaki"
+ },
+ "池田 季礼": {
+  "eur": 0,
+  "age": 19,
+  "name": "Tokia Ikeda"
+ },
+ "五月田 星矢": {
+  "eur": 52000,
+  "age": 24,
+  "name": "Seiya Satsukida"
+ },
+ "加々美 登生": {
+  "eur": 185000,
+  "age": 27,
+  "name": "Toi Kagami"
+ },
+ "秋元 琉星": {
+  "eur": 0,
+  "age": 23,
+  "name": "Ryusei Akimoto"
+ },
+ "二ノ宮 慈洋": {
+  "eur": 0,
+  "age": 22,
+  "name": "Jiyo Ninomiya"
+ },
+ "萩原 正太郎": {
+  "eur": 0,
+  "age": 20,
+  "name": "Shotaro Hagiwara"
+ },
+ "石原 崇兆": {
+  "eur": 370000,
+  "age": 33,
+  "name": "Takayoshi Ishihara"
+ },
+ "荒木 大吾": {
+  "eur": 260000,
+  "age": 32,
+  "name": "Daigo Araki"
+ },
+ "久保田 和音": {
+  "eur": 120000,
+  "age": 29,
+  "name": "Kazune Kubota"
+ },
+ "咲本 大": {
+  "eur": 0,
+  "age": 19,
+  "name": "Oki Sakimoto"
+ },
+ "松本 孝平": {
+  "eur": 49000,
+  "age": 32,
+  "name": "Kohei Matsumoto"
+ },
+ "岡﨑 大志郎": {
+  "eur": 0,
+  "age": 24,
+  "name": "Taishiro Okazaki"
+ },
+ "Kojo Dadzie": {
+  "eur": 0,
+  "age": 24
+ },
+ "水口 飛呂": {
+  "eur": 26000,
+  "age": 24,
+  "name": "Hiro Mizuguchi"
+ },
+ "末永 透瑛": {
+  "eur": 230000,
+  "age": 20,
+  "name": "Toua Suenaga"
+ },
+ "木村 有磨": {
+  "eur": 0,
+  "age": 19,
+  "name": "Yuma Kimura"
+ },
+ "前田 稜太": {
+  "eur": 0,
+  "age": 22,
+  "name": "Ryota Maeda"
+ },
+ "志慶眞 巧洋": {
+  "eur": 0,
+  "age": 18,
+  "name": "Koyo Shigema"
  }
 }
