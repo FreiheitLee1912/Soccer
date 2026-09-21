@@ -586,5 +586,16 @@
  "渡邊 麻舟": {
   "age": 18,
   "name": "Matthew Watanabe"
+ },
+ "中井 卓大 ピピ": {
+  "eur": 155000,
+  "age": 22,
+  "name": "Takuhiro Nakai"
+ },
+ "Sangho Na": {
+  "eur": 955000,
+  "age": 29,
+  "jp": "羅 相浩",
+  "name": "Sang-ho Na"
  }
 }

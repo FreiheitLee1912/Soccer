@@ -659,7 +659,11 @@ def apply_sofascore_overrides(rows):
         return 0
     n = 0
     for r in rows:
+        # J.LEAGUE sometimes re-spells a main name (e.g. "NA Sangho" ->
+        # "Sangho Na"); the katakana/Latin subtitle is steadier, so try it too.
         e = ov.get(r["player"])
+        if e is None and r.get("roman"):
+            e = ov.get(r["roman"])
         if e is None:
             continue
         eur = e.get("eur") if isinstance(e, dict) else e
@@ -675,7 +679,8 @@ def apply_sofascore_overrides(rows):
             # Never replace a katakana subtitle with Latin: foreign players are
             # shown as "Latin (main) / katakana (subtitle)", so writing Latin
             # into `roman` would print the same name twice.
-            if e.get("name") and not is_katakana(r.get("roman") or ""):
+            if e.get("name") and not (is_latin(r["player"])
+                                      and is_katakana(r.get("roman") or "")):
                 r["roman"] = e["name"]
         n += 1
     return n
