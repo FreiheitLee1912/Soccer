@@ -55,3 +55,18 @@ test('Endo is excluded from Champions League fixtures but retains domestic fixtu
   assert.ok(vm.runInContext("scheduledRows().some(x=>x.f.competition==='EFL Cup')",ctx));
   elements.search.value='';
 });
+test('summary shows separate season Sofascore rating without weekly match records',()=>{
+  vm.runInContext(`sofascoreData={season:'26/27',updated_at:'2026-10-13',rows:[{player_id:'fm-1053679',club_id:10252,league:'Premier League',season:'26/27',rating:6.86,rated_matches:5,source_url:'https://www.sofascore.com/football/player/suzuki-zion/905351'}]}`,ctx);
+  elements.search.value='Zion Suzuki';elements.week.value='2026-W42';
+  vm.runInContext('render()',ctx);
+  assert.ok(elements.summary.innerHTML.includes('6.86'));
+  assert.ok(elements.summary.innerHTML.includes('Sofascore'));
+  assert.ok(elements.summary.innerHTML.includes('5 rated matches'));
+  assert.ok(elements.summary.innerHTML.includes('No record yet'));
+  elements.search.value='';
+});
+test('fixture location shows actual city and stadium, with an honest missing-venue fallback',()=>{
+  vm.runInContext(`venueData={venues:[{match_id:'5836864',city:'Burnley',stadium:'Turf Moor',source_url:'https://www.fotmob.com/matches/burnley-vs-charlton-athletic/2agfba#5836864'}]}`,ctx);
+  assert.equal(vm.runInContext("fixtureVenue({match_id:'5836864'})",ctx),'Burnley / Turf Moor');
+  assert.equal(vm.runInContext("fixtureVenue({match_id:'unknown',venue_timezone:'Europe/London'})",ctx),'Venue TBC');
+});
