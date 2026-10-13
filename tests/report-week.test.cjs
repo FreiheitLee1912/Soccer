@@ -45,3 +45,13 @@ test('unknown local kickoff does not invent a reporting week',()=>{
   assert.equal(vm.runInContext("reportWeek('')",ctx),null);
   assert.equal(vm.runInContext("reportWeek('2026-02-30T20:00:00')",ctx),null);
 });
+test('Endo is excluded from Champions League fixtures but retains domestic fixtures',()=>{
+  vm.runInContext('fixtureData=seed.fixture_snapshot',ctx);
+  elements.search.value='Endo';elements.week.value='2026-W42';
+  const competitions=JSON.parse(vm.runInContext('JSON.stringify(scheduledRows().map(x=>x.f.competition))',ctx));
+  assert.ok(competitions.includes('Premier League'));
+  assert.ok(!competitions.includes('Champions League'));
+  elements.week.value='2026-W44';
+  assert.ok(vm.runInContext("scheduledRows().some(x=>x.f.competition==='EFL Cup')",ctx));
+  elements.search.value='';
+});
