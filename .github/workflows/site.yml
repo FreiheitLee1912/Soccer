@@ -71,6 +71,26 @@ jobs:
             git push
           fi
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Verify Sunday-centred report
+        run: node --test tests/report-week.test.cjs
+
+      - name: Refresh Japanese player scheduled fixtures
+        if: github.event_name != 'push'
+        run: node refresh-fixtures.cjs || echo "::warning::Fixture source unavailable; preserving last verified schedule"
+
+      - name: Commit updated fixture snapshot
+        if: github.event_name != 'push'
+        run: |
+          git add fixtures.json japanese-players.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Japanese player fixtures"
+            git push
+          fi
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
