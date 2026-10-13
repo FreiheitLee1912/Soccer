@@ -1,5 +1,5 @@
 const {test}=require('node:test');const assert=require('node:assert/strict');
-const {resolvePlayer,selectSeason,readRating}=require('../sofascore-season.cjs');
+const {resolvePlayer,selectSeason,readRating,readSeasonTotals}=require('../sofascore-season.cjs');
 test('identity requires an exact normalized name and Japanese nationality',()=>{
   const team={sport:{slug:'football'}};
   assert.equal(resolvePlayer([{type:'player',entity:{id:1,name:'Zion Suzuki',country:{alpha2:'JP'},team}}],'Zion Suzuki').id,1);
@@ -20,4 +20,9 @@ test('zero rated matches and missing ratings do not become a season rating',()=>
   assert.equal(readRating({rating:7,countRating:0}),null);
   assert.equal(readRating({countRating:3}),null);
   assert.deepEqual(readRating({rating:6.86,countRating:5}),{rating:6.86,rated_matches:5});
+});
+test('season totals preserve published zeroes and do not substitute rated-match count for appearances',()=>{
+ assert.deepEqual(readSeasonTotals({appearances:6,minutesPlayed:450,goals:0,assists:0,countRating:5}),{apps:6,minutes:450,goals:0,assists:0});
+ assert.deepEqual(readSeasonTotals({countRating:5}),{apps:null,minutes:null,goals:null,assists:null});
+ assert.deepEqual(readSeasonTotals({appearances:0,minutesPlayed:0,goals:0,assists:0}),{apps:0,minutes:0,goals:0,assists:0});
 });

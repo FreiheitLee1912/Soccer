@@ -30,4 +30,5 @@ function selectSeason(tournaments,league,seasonYear){return tournaments.flatMap(
   return t.seasons.filter(s=>String(s.year)===seasonYear).map(s=>({tournament:u,season:s}));
 })}
 function readRating(stat){return typeof stat?.rating==='number'&&Number.isFinite(stat.rating)&&stat.rating>0&&stat.rating<=10&&Number.isInteger(stat.countRating)&&stat.countRating>0?{rating:stat.rating,rated_matches:stat.countRating}:null}
-module.exports={normalize,resolvePlayer,selectSeason,readRating};
+function readSeasonTotals(stat){const value=k=>typeof stat?.[k]==='number'&&Number.isInteger(stat[k])&&stat[k]>=0?stat[k]:null;return{apps:value('appearances'),minutes:value('minutesPlayed'),goals:value('goals'),assists:value('assists')}}
+module.exports={normalize,resolvePlayer,selectSeason,readRating,readSeasonTotals};

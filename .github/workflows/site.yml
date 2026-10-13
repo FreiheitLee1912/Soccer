@@ -90,10 +90,14 @@ jobs:
         if: github.event_name != 'push'
         run: node refresh-sofascore.cjs || echo "::warning::Sofascore unavailable; preserving last verified season ratings"
 
+      - name: Refresh published league season totals
+        if: github.event_name != 'push'
+        run: node refresh-season-totals.cjs || echo "::warning::Season stats unavailable; preserving last verified totals"
+
       - name: Commit updated fixture snapshot
         if: github.event_name != 'push'
         run: |
-          git add fixtures.json fixture-venues.json sofascore-season.json japanese-players.html
+          git add fixtures.json fixture-venues.json sofascore-season.json season-totals.json japanese-players.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Japanese player fixtures, venues and season ratings"
             git push

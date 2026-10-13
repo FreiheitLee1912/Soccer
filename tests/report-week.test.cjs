@@ -70,3 +70,21 @@ test('fixture location shows actual city and stadium, with an honest missing-ven
   assert.equal(vm.runInContext("fixtureVenue({match_id:'5836864'})",ctx),'Burnley / Turf Moor');
   assert.equal(vm.runInContext("fixtureVenue({match_id:'unknown',venue_timezone:'Europe/London'})",ctx),'Venue TBC');
 });
+test('summary uses published season totals and keeps them unchanged across report weeks',()=>{
+ vm.runInContext(`sofascoreData={season:'26/27',updated_at:'2026-10-13',rows:[{player_id:'fm-1053679',club_id:10252,league:'Premier League',season:'26/27',rating:6.86,rated_matches:5,apps:6,minutes:450,goals:0,assists:0,source_url:'https://www.sofascore.com/football/player/suzuki-zion/905351'}]};totalsData={rows:sofascoreData.rows}`,ctx);
+ elements.search.value='Zion Suzuki';elements.week.value='2026-W42';vm.runInContext('render()',ctx);
+ assert.ok(elements.summary.innerHTML.includes('>450</td>'));
+ assert.ok(elements.summary.innerHTML.includes('>6</td>'));
+ assert.ok(elements.summary.innerHTML.includes('>0</td>'));
+ assert.ok(elements.summary.innerHTML.includes('Season stats available'));
+ elements.week.value='2026-W41';vm.runInContext('render()',ctx);
+ assert.ok(elements.summary.innerHTML.includes('>450</td>'));
+ assert.ok(elements.summary.innerHTML.includes('>6</td>'));
+ elements.search.value='';
+});
+test('season appearances filter works in a future report week without weekly appearances',()=>{
+ elements.search.value='Zion Suzuki';elements.week.value='2026-W42';vm.runInContext("mode='appeared'",ctx);
+ assert.equal(vm.runInContext('filtered().length',ctx),1);
+ assert.equal(vm.runInContext('filtered()[0].ps.length',ctx),0);
+ vm.runInContext("mode='all'",ctx);elements.search.value='';
+});
