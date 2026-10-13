@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T02:33:32.156Z",
-  "coverage_from": "2026-10-05T02:33:32.156Z",
-  "coverage_to": "2026-11-10T02:33:32.156Z",
+  "updated_at": "2026-10-13T14:19:09.454Z",
+  "coverage_from": "2026-10-05T14:19:09.454Z",
+  "coverage_to": "2026-11-10T14:19:09.454Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -93,7 +93,7 @@
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_local": "2026-10-13T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-charlton-athletic/2agfba#5836864",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -109,7 +109,7 @@
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_local": "2026-10-13T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-blackburn-rovers/2evge6#5836863",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -125,7 +125,7 @@
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_local": "2026-10-13T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-wolverhampton-wanderers/2fog1z#5836868",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -141,7 +141,7 @@
       "kickoff_utc": "2026-10-13T18:45:00.000Z",
       "kickoff_local": "2026-10-13T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-blackburn-rovers/2evge6#5836863",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -189,7 +189,7 @@
       "kickoff_utc": "2026-10-13T19:00:00.000Z",
       "kickoff_local": "2026-10-13T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-birmingham-city/2eqp3x#5836862",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -211,22 +211,6 @@
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
     },
     {
-      "match_id": "6419859",
-      "club_id": 6019,
-      "home": "FK Pohronie",
-      "home_id": 291155,
-      "away": "Slovan Bratislava",
-      "away_id": 6019,
-      "competition": "FA Cup",
-      "kickoff_utc": "2026-10-14T12:30:00.000Z",
-      "kickoff_local": "2026-10-14T14:30:00",
-      "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-fk-pohronie/ka9jrz4#6419859",
-      "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
-    },
-    {
       "match_id": "6276979",
       "club_id": 969268,
       "home": "Považská Bystrica",
@@ -237,7 +221,7 @@
       "kickoff_utc": "2026-10-14T12:30:00.000Z",
       "kickoff_local": "2026-10-14T14:30:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kosice-vs-povazska-bystrica/z9tyev04#6276979",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -285,7 +269,7 @@
       "kickoff_utc": "2026-10-14T18:45:00.000Z",
       "kickoff_local": "2026-10-14T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-norwich-city/2rvm2w#5836871",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -301,7 +285,7 @@
       "kickoff_utc": "2026-10-14T18:45:00.000Z",
       "kickoff_local": "2026-10-14T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/derby-county-vs-queens-park-rangers/3f6zl5#5836873",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
@@ -349,7 +333,7 @@
       "kickoff_utc": "2026-10-15T14:00:00.000Z",
       "kickoff_local": "2026-10-15T17:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rfs-vs-sk-super-nova/9njmm9j5#5162040",
       "team_source_url": "https://www.fotmob.com/teams/981193/fixtures/team"
@@ -589,7 +573,7 @@
       "kickoff_utc": "2026-10-16T15:00:00.000Z",
       "kickoff_local": "2026-10-16T19:00:00",
       "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sumqayt-vs-araz-pfk/34hrqx16#5987537",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
@@ -605,7 +589,7 @@
       "kickoff_utc": "2026-10-16T15:00:00.000Z",
       "kickoff_local": "2026-10-16T17:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/radnicki-nis-vs-fk-radnik-surdulica/1epn4no2#1000015151",
       "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
@@ -621,7 +605,7 @@
       "kickoff_utc": "2026-10-16T16:30:00.000Z",
       "kickoff_local": "2026-10-16T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-hertha-bsc/27d4bx#5881694",
       "team_source_url": "https://www.fotmob.com/teams/8150/fixtures/team"
@@ -637,7 +621,7 @@
       "kickoff_utc": "2026-10-16T18:00:00.000Z",
       "kickoff_local": "2026-10-16T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/vvv-venlo-vs-jong-az-alkmaar/31oz6i7b#5832908",
       "team_source_url": "https://www.fotmob.com/teams/681217/fixtures/team"
@@ -653,7 +637,7 @@
       "kickoff_utc": "2026-10-16T18:15:00.000Z",
       "kickoff_local": "2026-10-16T20:15:00",
       "venue_timezone": "Europe/Zurich",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/stade-nyonnais-vs-basel/19kzde#6062255",
       "team_source_url": "https://www.fotmob.com/teams/9931/fixtures/team"
@@ -669,7 +653,7 @@
       "kickoff_utc": "2026-10-16T18:30:00.000Z",
       "kickoff_local": "2026-10-16T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-eintracht-frankfurt/2u8wss#5881191",
       "team_source_url": "https://www.fotmob.com/teams/9810/fixtures/team"
@@ -685,7 +669,7 @@
       "kickoff_utc": "2026-10-16T18:30:00.000Z",
       "kickoff_local": "2026-10-16T20:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/westerlo-vs-patro-eisden/ilpcgi3#6361401",
       "team_source_url": "https://www.fotmob.com/teams/10001/fixtures/team"
@@ -701,7 +685,7 @@
       "kickoff_utc": "2026-10-16T18:30:00.000Z",
       "kickoff_local": "2026-10-16T20:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/westerlo-vs-patro-eisden/ilpcgi3#6361401",
       "team_source_url": "https://www.fotmob.com/teams/274583/fixtures/team"
@@ -717,7 +701,7 @@
       "kickoff_utc": "2026-10-16T19:00:00.000Z",
       "kickoff_local": "2026-10-16T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-wolverhampton-wanderers/2byja7#5836876",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -733,7 +717,7 @@
       "kickoff_utc": "2026-10-17T11:00:00.000Z",
       "kickoff_local": "2026-10-17T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-eintracht-braunschweig/2pw4l3#5881692",
       "team_source_url": "https://www.fotmob.com/teams/8357/fixtures/team"
@@ -749,7 +733,7 @@
       "kickoff_utc": "2026-10-17T11:00:00.000Z",
       "kickoff_local": "2026-10-17T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-fc-heidenheim/2guq9fk#5881698",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
@@ -765,7 +749,7 @@
       "kickoff_utc": "2026-10-17T11:00:00.000Z",
       "kickoff_local": "2026-10-17T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kaiserslautern-vs-bochum/2ra1z2#5881695",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
@@ -781,7 +765,7 @@
       "kickoff_utc": "2026-10-17T11:00:00.000Z",
       "kickoff_local": "2026-10-17T14:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/grobina-vs-ogre-united/15vxda8vt#5162077",
       "team_source_url": "https://www.fotmob.com/teams/662738/fixtures/team"
@@ -797,7 +781,7 @@
       "kickoff_utc": "2026-10-17T12:00:00.000Z",
       "kickoff_local": "2026-10-17T14:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/almeria-vs-real-sociedad-b/6riu52m#5868500",
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
@@ -813,7 +797,7 @@
       "kickoff_utc": "2026-10-17T13:00:00.000Z",
       "kickoff_local": "2026-10-17T17:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-van/7j3cdxjx#5972986",
       "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
@@ -829,7 +813,7 @@
       "kickoff_utc": "2026-10-17T13:30:00.000Z",
       "kickoff_local": "2026-10-17T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mainz-05-vs-schalke-04/3c7ieq#5881194",
       "team_source_url": "https://www.fotmob.com/teams/9905/fixtures/team"
@@ -845,7 +829,7 @@
       "kickoff_utc": "2026-10-17T13:30:00.000Z",
       "kickoff_local": "2026-10-17T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mainz-05-vs-schalke-04/3c7ieq#5881194",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
@@ -861,7 +845,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-sheffield-united/2ew6rb#5836875",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -877,7 +861,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-bolton-wanderers/2eam9c#5836881",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -893,7 +877,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-bolton-wanderers/2eam9c#5836881",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -909,7 +893,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-brentford/2uusjv#5795476",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
@@ -925,7 +909,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-west-bromwich-albion/2h8z52#5836884",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -941,7 +925,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-queens-park-rangers/2xk7i3#5836874",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -957,7 +941,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-fulham/2ueh4i#5795479",
       "team_source_url": "https://www.fotmob.com/teams/8667/fixtures/team"
@@ -973,7 +957,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-florgrade/eyqeltsu#6383743",
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
@@ -989,7 +973,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-ipswich-town/2sc4e3#5795481",
       "team_source_url": "https://www.fotmob.com/teams/9902/fixtures/team"
@@ -1005,7 +989,7 @@
       "kickoff_utc": "2026-10-17T14:00:00.000Z",
       "kickoff_local": "2026-10-17T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-queens-park-rangers/2xk7i3#5836874",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
@@ -1021,7 +1005,7 @@
       "kickoff_utc": "2026-10-17T14:30:00.000Z",
       "kickoff_local": "2026-10-17T16:30:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-ado-den-haag/2xv42l#5781776",
       "team_source_url": "https://www.fotmob.com/teams/8640/fixtures/team"
@@ -1037,7 +1021,7 @@
       "kickoff_utc": "2026-10-17T15:30:00.000Z",
       "kickoff_local": "2026-10-17T17:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-francs-borains/28ll9b2#6361392",
       "team_source_url": "https://www.fotmob.com/teams/1773/fixtures/team"
@@ -1053,7 +1037,7 @@
       "kickoff_utc": "2026-10-17T15:30:00.000Z",
       "kickoff_local": "2026-10-17T17:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-renaissance-mons/291k2q86#6361394",
       "team_source_url": "https://www.fotmob.com/teams/9986/fixtures/team"
@@ -1069,7 +1053,7 @@
       "kickoff_utc": "2026-10-17T15:30:00.000Z",
       "kickoff_local": "2026-10-17T17:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-ksk-heist/arx2e0s#6361390",
       "team_source_url": "https://www.fotmob.com/teams/9988/fixtures/team"
@@ -1085,7 +1069,7 @@
       "kickoff_utc": "2026-10-17T16:00:00.000Z",
       "kickoff_local": "2026-10-17T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/spartak-trnava-vs-slovan-bratislava/xyuk8#5772199",
       "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
@@ -1101,7 +1085,7 @@
       "kickoff_utc": "2026-10-17T16:30:00.000Z",
       "kickoff_local": "2026-10-17T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-rb-leipzig/856w9cm#5881189",
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
@@ -1117,7 +1101,7 @@
       "kickoff_utc": "2026-10-17T16:30:00.000Z",
       "kickoff_local": "2026-10-17T17:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/aston-villa-vs-newcastle-united/3h9v0m#5795482",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
@@ -1133,7 +1117,7 @@
       "kickoff_utc": "2026-10-17T18:00:00.000Z",
       "kickoff_local": "2026-10-17T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/telstar-vs-feyenoord/2aivnf#5781774",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
@@ -1149,7 +1133,7 @@
       "kickoff_utc": "2026-10-17T18:15:00.000Z",
       "kickoff_local": "2026-10-17T20:15:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cracovia-vs-legia-warszawa/z3zw3#5804004",
       "team_source_url": "https://www.fotmob.com/teams/8673/fixtures/team"
@@ -1165,7 +1149,7 @@
       "kickoff_utc": "2026-10-17T18:30:00.000Z",
       "kickoff_local": "2026-10-17T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-hannover-96/2p29lg#5881693",
       "team_source_url": "https://www.fotmob.com/teams/8152/fixtures/team"
@@ -1181,7 +1165,7 @@
       "kickoff_utc": "2026-10-17T18:30:00.000Z",
       "kickoff_local": "2026-10-17T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-hannover-96/2p29lg#5881693",
       "team_source_url": "https://www.fotmob.com/teams/9904/fixtures/team"
@@ -1197,7 +1181,7 @@
       "kickoff_utc": "2026-10-17T18:45:00.000Z",
       "kickoff_local": "2026-10-17T20:45:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/brest-vs-lille/2fo2ub#5802958",
       "team_source_url": "https://www.fotmob.com/teams/8639/fixtures/team"
@@ -1213,7 +1197,7 @@
       "kickoff_utc": "2026-10-17T18:45:00.000Z",
       "kickoff_local": "2026-10-17T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/virton-vs-genk/2q70to#6361399",
       "team_source_url": "https://www.fotmob.com/teams/9987/fixtures/team"
@@ -1229,7 +1213,7 @@
       "kickoff_utc": "2026-10-17T19:00:00.000Z",
       "kickoff_local": "2026-10-17T20:00:00",
       "venue_timezone": "Atlantic/Canary",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-castellon/2utylz#5868499",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
@@ -1245,7 +1229,7 @@
       "kickoff_utc": "2026-10-17T19:00:00.000Z",
       "kickoff_local": "2026-10-17T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dundee-fc-vs-rangers/2ccl6s#5793948",
       "team_source_url": "https://www.fotmob.com/teams/8548/fixtures/team"
@@ -1261,7 +1245,7 @@
       "kickoff_utc": "2026-10-17T19:00:00.000Z",
       "kickoff_local": "2026-10-17T21:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/willem-ii-vs-sparta-rotterdam/2fgcxg#5781768",
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
@@ -1277,7 +1261,7 @@
       "kickoff_utc": "2026-10-17T19:00:00.000Z",
       "kickoff_local": "2026-10-17T21:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/athletic-club-vs-valencia/2usrlk#5868099",
       "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
@@ -1293,7 +1277,7 @@
       "kickoff_utc": "2026-10-18T11:30:00.000Z",
       "kickoff_local": "2026-10-18T13:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-kfc-nijlen/hllz76h7#6361395",
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
@@ -1309,7 +1293,7 @@
       "kickoff_utc": "2026-10-18T11:30:00.000Z",
       "kickoff_local": "2026-10-18T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-karlsruher-sc/29m6gi#5881696",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
@@ -1325,7 +1309,7 @@
       "kickoff_utc": "2026-10-18T11:30:00.000Z",
       "kickoff_local": "2026-10-18T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-karlsruher-sc/29m6gi#5881696",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
@@ -1341,7 +1325,7 @@
       "kickoff_utc": "2026-10-18T12:30:00.000Z",
       "kickoff_local": "2026-10-18T14:30:00",
       "venue_timezone": "Europe/Vienna",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/altach-vs-salzburg/3bc4ok#5846001",
       "team_source_url": "https://www.fotmob.com/teams/10013/fixtures/team"
@@ -1357,7 +1341,7 @@
       "kickoff_utc": "2026-10-18T12:30:00.000Z",
       "kickoff_local": "2026-10-18T14:30:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cambuur-vs-az-alkmaar/2on56l#5781771",
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
@@ -1373,7 +1357,7 @@
       "kickoff_utc": "2026-10-18T12:45:00.000Z",
       "kickoff_local": "2026-10-18T14:45:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-zagebie-lubin/tn8pw#5804012",
       "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
@@ -1389,7 +1373,7 @@
       "kickoff_utc": "2026-10-18T13:00:00.000Z",
       "kickoff_local": "2026-10-18T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-manchester-united/2wd539#5795480",
       "team_source_url": "https://www.fotmob.com/teams/8463/fixtures/team"
@@ -1405,7 +1389,7 @@
       "kickoff_utc": "2026-10-18T13:00:00.000Z",
       "kickoff_local": "2026-10-18T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#5795477",
       "team_source_url": "https://www.fotmob.com/teams/9826/fixtures/team"
@@ -1421,7 +1405,7 @@
       "kickoff_utc": "2026-10-18T13:00:00.000Z",
       "kickoff_local": "2026-10-18T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-brighton-hove-albion/3bfzlv#5795477",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
@@ -1437,7 +1421,7 @@
       "kickoff_utc": "2026-10-18T13:00:00.000Z",
       "kickoff_local": "2026-10-18T14:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/arouca-vs-cf-os-belenenses/di83fqxa#6315950",
       "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
@@ -1453,7 +1437,7 @@
       "kickoff_utc": "2026-10-18T13:00:00.000Z",
       "kickoff_local": "2026-10-18T16:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/riga-fc-vs-sk-super-nova/ggj275ew#5162080",
       "team_source_url": "https://www.fotmob.com/teams/981193/fixtures/team"
@@ -1469,7 +1453,7 @@
       "kickoff_utc": "2026-10-18T13:30:00.000Z",
       "kickoff_local": "2026-10-18T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-freiburg/29eqdu#5881188",
       "team_source_url": "https://www.fotmob.com/teams/8358/fixtures/team"
@@ -1485,7 +1469,7 @@
       "kickoff_utc": "2026-10-18T13:30:00.000Z",
       "kickoff_local": "2026-10-18T15:30:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/zemplin-michalovce-vs-fc-kosice/64855ohn#5772198",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -1501,7 +1485,7 @@
       "kickoff_utc": "2026-10-18T14:00:00.000Z",
       "kickoff_local": "2026-10-18T16:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ob-vs-brondby-if/2e4s70#5739524",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
@@ -1517,7 +1501,7 @@
       "kickoff_utc": "2026-10-18T14:00:00.000Z",
       "kickoff_local": "2026-10-18T16:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mladost-lucani-vs-fk-crvena-zvezda/wd80u#1000015149",
       "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
@@ -1533,7 +1517,7 @@
       "kickoff_utc": "2026-10-18T15:15:00.000Z",
       "kickoff_local": "2026-10-18T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/auxerre-vs-le-havre/2s0psn#5802956",
       "team_source_url": "https://www.fotmob.com/teams/9746/fixtures/team"
@@ -1549,7 +1533,7 @@
       "kickoff_utc": "2026-10-18T15:15:00.000Z",
       "kickoff_local": "2026-10-18T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lorient-vs-monaco/2u3coy#5802959",
       "team_source_url": "https://www.fotmob.com/teams/9829/fixtures/team"
@@ -1565,7 +1549,7 @@
       "kickoff_utc": "2026-10-18T15:15:00.000Z",
       "kickoff_local": "2026-10-18T18:15:00",
       "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cfr-cluj-vs-uta-arad/295iag1u#5853527",
       "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
@@ -1581,7 +1565,7 @@
       "kickoff_utc": "2026-10-18T15:30:00.000Z",
       "kickoff_local": "2026-10-18T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-borussia-monchengladbach/2om10t#5881190",
       "team_source_url": "https://www.fotmob.com/teams/8226/fixtures/team"
@@ -1597,7 +1581,7 @@
       "kickoff_utc": "2026-10-18T15:30:00.000Z",
       "kickoff_local": "2026-10-18T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-borussia-monchengladbach/2om10t#5881190",
       "team_source_url": "https://www.fotmob.com/teams/9788/fixtures/team"
@@ -1613,7 +1597,7 @@
       "kickoff_utc": "2026-10-18T16:00:00.000Z",
       "kickoff_local": "2026-10-18T18:00:00",
       "venue_timezone": "Europe/Zagreb",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/slaven-vs-dinamo-zagreb/150gsy#5765943",
       "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
@@ -1629,7 +1613,7 @@
       "kickoff_utc": "2026-10-18T16:00:00.000Z",
       "kickoff_local": "2026-10-18T18:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/agf-vs-fc-kobenhavn/28okb4#5739526",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
@@ -1645,7 +1629,7 @@
       "kickoff_utc": "2026-10-18T16:00:00.000Z",
       "kickoff_local": "2026-10-18T18:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-beerschot/28n1bth7#6361386",
       "team_source_url": "https://www.fotmob.com/teams/583877/fixtures/team"
@@ -1661,7 +1645,7 @@
       "kickoff_utc": "2026-10-18T16:00:00.000Z",
       "kickoff_local": "2026-10-18T20:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/pyunik-vs-fc-noah/4uua2smb#5972985",
       "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
@@ -1677,7 +1661,7 @@
       "kickoff_utc": "2026-10-18T16:30:00.000Z",
       "kickoff_local": "2026-10-18T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-malaga/2t24ys#5868096",
       "team_source_url": "https://www.fotmob.com/teams/8560/fixtures/team"
@@ -1693,7 +1677,7 @@
       "kickoff_utc": "2026-10-18T16:30:00.000Z",
       "kickoff_local": "2026-10-18T18:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lommel-vs-sttruiden/2b0tpz#6361397",
       "team_source_url": "https://www.fotmob.com/teams/9997/fixtures/team"
@@ -1709,7 +1693,7 @@
       "kickoff_utc": "2026-10-18T16:30:00.000Z",
       "kickoff_local": "2026-10-18T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/eldense-vs-real-valladolid/2unl8t#5868502",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
@@ -1725,7 +1709,7 @@
       "kickoff_utc": "2026-10-18T18:45:00.000Z",
       "kickoff_local": "2026-10-18T20:45:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lyon-vs-nice/364jld#5802960",
       "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
@@ -1741,7 +1725,7 @@
       "kickoff_utc": "2026-10-19T16:00:00.000Z",
       "kickoff_local": "2026-10-19T19:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-tukums-2000-vs-rfs/19ubxksu#5162078",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
@@ -1757,7 +1741,7 @@
       "kickoff_utc": "2026-10-19T16:30:00.000Z",
       "kickoff_local": "2026-10-19T18:30:00",
       "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/monza-vs-cagliari/1va8au#5749706",
       "team_source_url": "https://www.fotmob.com/teams/8529/fixtures/team"
@@ -1773,7 +1757,7 @@
       "kickoff_utc": "2026-10-19T19:00:00.000Z",
       "kickoff_local": "2026-10-19T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-coventry-city/2gn495#5795484",
       "team_source_url": "https://www.fotmob.com/teams/8669/fixtures/team"
@@ -2125,7 +2109,7 @@
       "kickoff_utc": "2026-10-23T15:00:00.000Z",
       "kickoff_local": "2026-10-23T19:00:00",
       "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sumqayt-vs-zira/3zxr8h7k#5987544",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
@@ -2141,7 +2125,7 @@
       "kickoff_utc": "2026-10-23T16:30:00.000Z",
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-darmstadt/287ndj#5881701",
       "team_source_url": "https://www.fotmob.com/teams/8152/fixtures/team"
@@ -2157,7 +2141,7 @@
       "kickoff_utc": "2026-10-23T16:30:00.000Z",
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-darmstadt/287ndj#5881701",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
@@ -2173,7 +2157,7 @@
       "kickoff_utc": "2026-10-23T16:30:00.000Z",
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-bochum/2vcqpn#5881699",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
@@ -2189,7 +2173,7 @@
       "kickoff_utc": "2026-10-23T16:30:00.000Z",
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-bochum/2vcqpn#5881699",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
@@ -2205,7 +2189,7 @@
       "kickoff_utc": "2026-10-23T17:00:00.000Z",
       "kickoff_local": "2026-10-23T19:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/randers-fc-vs-brondby-if/2e3bpa#5739531",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
@@ -2221,7 +2205,7 @@
       "kickoff_utc": "2026-10-23T18:00:00.000Z",
       "kickoff_local": "2026-10-23T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/helmond-sport-vs-jong-az-alkmaar/30lz4m98#5832920",
       "team_source_url": "https://www.fotmob.com/teams/681217/fixtures/team"
@@ -2237,7 +2221,7 @@
       "kickoff_utc": "2026-10-23T18:30:00.000Z",
       "kickoff_local": "2026-10-23T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-vfb-stuttgart/3brl5t#5881205",
       "team_source_url": "https://www.fotmob.com/teams/9788/fixtures/team"
@@ -2253,7 +2237,7 @@
       "kickoff_utc": "2026-10-23T18:30:00.000Z",
       "kickoff_local": "2026-10-23T20:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/granada-vs-real-valladolid/2q6766#5868510",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
@@ -2269,7 +2253,7 @@
       "kickoff_utc": "2026-10-23T18:45:00.000Z",
       "kickoff_local": "2026-10-23T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
       "team_source_url": "https://www.fotmob.com/teams/8571/fixtures/team"
@@ -2285,7 +2269,7 @@
       "kickoff_utc": "2026-10-23T19:00:00.000Z",
       "kickoff_local": "2026-10-23T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/middlesbrough-vs-bolton-wanderers/2f4za9#5836887",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -2301,7 +2285,7 @@
       "kickoff_utc": "2026-10-23T19:00:00.000Z",
       "kickoff_local": "2026-10-23T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ipswich-town-vs-nottingham-forest/3cc90b#5795491",
       "team_source_url": "https://www.fotmob.com/teams/9902/fixtures/team"
@@ -2317,7 +2301,7 @@
       "kickoff_utc": "2026-10-24T00:00:00.000Z",
       "kickoff_local": "2026-10-24T02:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-ofk-beograd/2hx56y#1000015161",
       "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
@@ -2333,7 +2317,7 @@
       "kickoff_utc": "2026-10-24T00:00:00.000Z",
       "kickoff_local": "2026-10-24T02:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-radnicki-1923-vs-fk-radnik-surdulica/1dp1gndp#1000015159",
       "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
@@ -2349,7 +2333,7 @@
       "kickoff_utc": "2026-10-24T10:00:00.000Z",
       "kickoff_local": "2026-10-24T11:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-sporting-cp-b/rtsvry0#5888087",
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
@@ -2365,7 +2349,7 @@
       "kickoff_utc": "2026-10-24T10:00:00.000Z",
       "kickoff_local": "2026-10-24T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-fk-tukums-2000/9qiqju9#5162038",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
@@ -2381,7 +2365,7 @@
       "kickoff_utc": "2026-10-24T11:00:00.000Z",
       "kickoff_local": "2026-10-24T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-karlsruher-sc/28vz5p#5881705",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
@@ -2397,7 +2381,7 @@
       "kickoff_utc": "2026-10-24T11:30:00.000Z",
       "kickoff_local": "2026-10-24T15:30:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-sardarapat/se5c0ydx#5972989",
       "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
@@ -2413,7 +2397,7 @@
       "kickoff_utc": "2026-10-24T11:30:00.000Z",
       "kickoff_local": "2026-10-24T12:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-aston-villa/2w74gq#5795486",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
@@ -2429,7 +2413,7 @@
       "kickoff_utc": "2026-10-24T13:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-bologna/2sn5ak#5749711",
       "team_source_url": "https://www.fotmob.com/teams/8529/fixtures/team"
@@ -2445,7 +2429,7 @@
       "kickoff_utc": "2026-10-24T13:30:00.000Z",
       "kickoff_local": "2026-10-24T15:30:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dukla-banska-bystrica-vs-slovan-bratislava/jypah#5772204",
       "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
@@ -2461,7 +2445,7 @@
       "kickoff_utc": "2026-10-24T13:30:00.000Z",
       "kickoff_local": "2026-10-24T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/werder-bremen-vs-mainz-05/2v0rqw#5881202",
       "team_source_url": "https://www.fotmob.com/teams/9905/fixtures/team"
@@ -2477,7 +2461,7 @@
       "kickoff_utc": "2026-10-24T13:30:00.000Z",
       "kickoff_local": "2026-10-24T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-schalke-04/2ygyzm#5881199",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
@@ -2493,7 +2477,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-lincoln-city/2a8xsp#5836890",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -2509,7 +2493,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-stoke-city/2v8bgu#5836895",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -2525,7 +2509,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-west-ham-united/2f9dtq#5836896",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -2541,7 +2525,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-johnstone-vs-rangers/2e6yx4#5793956",
       "team_source_url": "https://www.fotmob.com/teams/8548/fixtures/team"
@@ -2557,7 +2541,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-wrexham/2tumj5#5836886",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -2573,7 +2557,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cardiff-city-vs-birmingham-city/2e28e1#5836888",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -2589,7 +2573,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/coventry-city-vs-fulham/2uf9qx#5795488",
       "team_source_url": "https://www.fotmob.com/teams/8669/fixtures/team"
@@ -2605,7 +2589,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-royal-antwerp/3arzfd#5811782",
       "team_source_url": "https://www.fotmob.com/teams/9986/fixtures/team"
@@ -2621,7 +2605,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-royal-antwerp/3arzfd#5811782",
       "team_source_url": "https://www.fotmob.com/teams/9988/fixtures/team"
@@ -2637,7 +2621,7 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/swansea-city-vs-queens-park-rangers/3d6h1w#5836893",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
@@ -2653,26 +2637,10 @@
       "kickoff_utc": "2026-10-24T14:00:00.000Z",
       "kickoff_local": "2026-10-24T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/club-brugge-nxt-vs-genk-u23/15jcl5gao#1000015489",
       "team_source_url": "https://www.fotmob.com/teams/1378463/fixtures/team"
-    },
-    {
-      "match_id": "5765948",
-      "club_id": 1581,
-      "home": "NK Varaždin",
-      "home_id": 10165,
-      "away": "Slaven",
-      "away_id": 1581,
-      "competition": "HNL",
-      "kickoff_utc": "2026-10-24T15:00:00.000Z",
-      "kickoff_local": "2026-10-24T17:00:00",
-      "venue_timezone": "Europe/Zagreb",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-varazdin/152qcg#5765948",
-      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5853532",
@@ -2685,10 +2653,26 @@
       "kickoff_utc": "2026-10-24T15:00:00.000Z",
       "kickoff_local": "2026-10-24T18:00:00",
       "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-arges-pitesti-vs-uta-arad/295in6ou#5853532",
       "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
+    },
+    {
+      "match_id": "5765948",
+      "club_id": 1581,
+      "home": "NK Varaždin",
+      "home_id": 10165,
+      "away": "Slaven",
+      "away_id": 1581,
+      "competition": "HNL",
+      "kickoff_utc": "2026-10-24T16:00:00.000Z",
+      "kickoff_local": "2026-10-24T18:00:00",
+      "venue_timezone": "Europe/Zagreb",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-varazdin/152qcg#5765948",
+      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5811787",
@@ -2701,7 +2685,7 @@
       "kickoff_utc": "2026-10-24T16:15:00.000Z",
       "kickoff_local": "2026-10-24T18:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-lommel/ldyy0#5811787",
       "team_source_url": "https://www.fotmob.com/teams/1773/fixtures/team"
@@ -2717,7 +2701,7 @@
       "kickoff_utc": "2026-10-24T16:30:00.000Z",
       "kickoff_local": "2026-10-24T17:30:00",
       "venue_timezone": "Atlantic/Canary",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-sociedad-b/6n49uz9#5868512",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
@@ -2733,7 +2717,7 @@
       "kickoff_utc": "2026-10-24T16:30:00.000Z",
       "kickoff_local": "2026-10-24T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-eintracht-frankfurt/36cxvu#5881198",
       "team_source_url": "https://www.fotmob.com/teams/9810/fixtures/team"
@@ -2749,7 +2733,7 @@
       "kickoff_utc": "2026-10-24T16:30:00.000Z",
       "kickoff_local": "2026-10-24T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/villarreal-vs-valencia/3grupj#5868110",
       "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
@@ -2765,7 +2749,7 @@
       "kickoff_utc": "2026-10-24T16:30:00.000Z",
       "kickoff_local": "2026-10-24T17:30:00",
       "venue_timezone": "Atlantic/Canary",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-sociedad-b/6n49uz9#5868512",
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
@@ -2781,7 +2765,7 @@
       "kickoff_utc": "2026-10-24T17:00:00.000Z",
       "kickoff_local": "2026-10-24T18:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/alverca-vs-arouca/6h0h889#5887654",
       "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
@@ -2797,7 +2781,7 @@
       "kickoff_utc": "2026-10-24T18:45:00.000Z",
       "kickoff_local": "2026-10-24T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sk-beveren-vs-westerlo/2tmo6x#5811790",
       "team_source_url": "https://www.fotmob.com/teams/10001/fixtures/team"
@@ -2813,7 +2797,7 @@
       "kickoff_utc": "2026-10-25T12:30:00.000Z",
       "kickoff_local": "2026-10-25T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-dynamo-dresden/2ac5al#5881704",
       "team_source_url": "https://www.fotmob.com/teams/8150/fixtures/team"
@@ -2829,7 +2813,7 @@
       "kickoff_utc": "2026-10-25T12:30:00.000Z",
       "kickoff_local": "2026-10-25T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-vfl-osnabruck/2pvqld#5881707",
       "team_source_url": "https://www.fotmob.com/teams/8357/fixtures/team"
@@ -2845,7 +2829,7 @@
       "kickoff_utc": "2026-10-25T12:30:00.000Z",
       "kickoff_local": "2026-10-25T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/eintracht-braunschweig-vs-hannover-96/37b1gg#5881700",
       "team_source_url": "https://www.fotmob.com/teams/9904/fixtures/team"
@@ -2861,7 +2845,7 @@
       "kickoff_utc": "2026-10-25T12:30:00.000Z",
       "kickoff_local": "2026-10-25T13:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/standard-liege-vs-genk/3ar4lp#5811784",
       "team_source_url": "https://www.fotmob.com/teams/9987/fixtures/team"
@@ -2877,7 +2861,7 @@
       "kickoff_utc": "2026-10-25T13:30:00.000Z",
       "kickoff_local": "2026-10-25T14:30:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-feyenoord/2y2e3u#5781783",
       "team_source_url": "https://www.fotmob.com/teams/8640/fixtures/team"
@@ -2893,7 +2877,7 @@
       "kickoff_utc": "2026-10-25T13:30:00.000Z",
       "kickoff_local": "2026-10-25T14:30:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-feyenoord/2y2e3u#5781783",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
@@ -2909,7 +2893,7 @@
       "kickoff_utc": "2026-10-25T13:45:00.000Z",
       "kickoff_local": "2026-10-25T14:45:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wisa-pock/uz96n#5804013",
       "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
@@ -2925,7 +2909,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T15:00:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lille-vs-monaco/2tjj7j#5802969",
       "team_source_url": "https://www.fotmob.com/teams/8639/fixtures/team"
@@ -2941,7 +2925,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-brighton-hove-albion/2xtwfj#5795492",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
@@ -2957,7 +2941,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-brentford/2v1khb#5795490",
       "team_source_url": "https://www.fotmob.com/teams/8667/fixtures/team"
@@ -2973,7 +2957,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-newcastle-united/3c4hty#5795489",
       "team_source_url": "https://www.fotmob.com/teams/9826/fixtures/team"
@@ -2989,7 +2973,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T15:00:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lille-vs-monaco/2tjj7j#5802969",
       "team_source_url": "https://www.fotmob.com/teams/9829/fixtures/team"
@@ -3005,7 +2989,7 @@
       "kickoff_utc": "2026-10-25T14:00:00.000Z",
       "kickoff_local": "2026-10-25T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-brighton-hove-albion/2xtwfj#5795492",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
@@ -3021,7 +3005,7 @@
       "kickoff_utc": "2026-10-25T14:30:00.000Z",
       "kickoff_local": "2026-10-25T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-hoffenheim/2844qc#5881201",
       "team_source_url": "https://www.fotmob.com/teams/8226/fixtures/team"
@@ -3037,7 +3021,7 @@
       "kickoff_utc": "2026-10-25T15:00:00.000Z",
       "kickoff_local": "2026-10-25T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/club-brugge-vs-sttruiden/2s4ngj#5811783",
       "team_source_url": "https://www.fotmob.com/teams/9997/fixtures/team"
@@ -3053,7 +3037,7 @@
       "kickoff_utc": "2026-10-25T15:00:00.000Z",
       "kickoff_local": "2026-10-25T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/eupen-vs-beerschot/280p5sgx#1000015492",
       "team_source_url": "https://www.fotmob.com/teams/583877/fixtures/team"
@@ -3069,7 +3053,7 @@
       "kickoff_utc": "2026-10-25T15:30:00.000Z",
       "kickoff_local": "2026-10-25T16:30:00",
       "venue_timezone": "Europe/Zurich",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/basel-vs-grasshopper/39qtfw#5804280",
       "team_source_url": "https://www.fotmob.com/teams/9931/fixtures/team"
@@ -3085,7 +3069,7 @@
       "kickoff_utc": "2026-10-25T15:45:00.000Z",
       "kickoff_local": "2026-10-25T16:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-sparta-rotterdam/2g5e0a#5781778",
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
@@ -3101,7 +3085,7 @@
       "kickoff_utc": "2026-10-25T16:00:00.000Z",
       "kickoff_local": "2026-10-25T17:00:00",
       "venue_timezone": "Europe/Vienna",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lask-vs-salzburg/3ayu46#5846007",
       "team_source_url": "https://www.fotmob.com/teams/10013/fixtures/team"
@@ -3117,7 +3101,7 @@
       "kickoff_utc": "2026-10-25T16:00:00.000Z",
       "kickoff_local": "2026-10-25T18:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rfs-vs-sk-super-nova/9njmm9j5#5162082",
       "team_source_url": "https://www.fotmob.com/teams/981193/fixtures/team"
@@ -3133,7 +3117,7 @@
       "kickoff_utc": "2026-10-25T16:15:00.000Z",
       "kickoff_local": "2026-10-25T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/marseille-vs-le-havre/2s4945#5802968",
       "team_source_url": "https://www.fotmob.com/teams/9746/fixtures/team"
@@ -3149,7 +3133,7 @@
       "kickoff_utc": "2026-10-25T16:30:00.000Z",
       "kickoff_local": "2026-10-25T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-bayern-munchen/2qet4e#5881200",
       "team_source_url": "https://www.fotmob.com/teams/8358/fixtures/team"
@@ -3165,7 +3149,7 @@
       "kickoff_utc": "2026-10-25T16:30:00.000Z",
       "kickoff_local": "2026-10-25T16:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-sunderland/2dduzo#5795494",
       "team_source_url": "https://www.fotmob.com/teams/8463/fixtures/team"
@@ -3181,7 +3165,7 @@
       "kickoff_utc": "2026-10-25T16:30:00.000Z",
       "kickoff_local": "2026-10-25T17:30:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lech-poznan-vs-legia-warszawa/z32dp#5804015",
       "team_source_url": "https://www.fotmob.com/teams/8673/fixtures/team"
@@ -3197,7 +3181,7 @@
       "kickoff_utc": "2026-10-25T16:30:00.000Z",
       "kickoff_local": "2026-10-25T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-bayern-munchen/2qet4e#5881200",
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
@@ -3213,7 +3197,7 @@
       "kickoff_utc": "2026-10-25T17:00:00.000Z",
       "kickoff_local": "2026-10-25T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/zilina-vs-fc-kosice/62hi0w4j#5772208",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -3229,7 +3213,7 @@
       "kickoff_utc": "2026-10-25T17:30:00.000Z",
       "kickoff_local": "2026-10-25T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-levante/2fh3cs#5868108",
       "team_source_url": "https://www.fotmob.com/teams/8560/fixtures/team"
@@ -3245,7 +3229,7 @@
       "kickoff_utc": "2026-10-25T18:15:00.000Z",
       "kickoff_local": "2026-10-25T19:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-cercle-brugge/2o1zev#5811789",
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
@@ -3261,7 +3245,7 @@
       "kickoff_utc": "2026-10-25T18:15:00.000Z",
       "kickoff_local": "2026-10-25T19:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-liege-vs-patro-eisden/i4oq2uu#1000015493",
       "team_source_url": "https://www.fotmob.com/teams/274583/fixtures/team"
@@ -3277,7 +3261,7 @@
       "kickoff_utc": "2026-10-25T19:00:00.000Z",
       "kickoff_local": "2026-10-25T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-twente-vs-az-alkmaar/2xo8sv#5781782",
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
@@ -3293,7 +3277,7 @@
       "kickoff_utc": "2026-10-25T19:45:00.000Z",
       "kickoff_local": "2026-10-25T20:45:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
       "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
@@ -3309,7 +3293,7 @@
       "kickoff_utc": "2026-10-26T15:00:00.000Z",
       "kickoff_local": "2026-10-26T19:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ararat-armenia-vs-fc-noah/j584s9s5#5972987",
       "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
@@ -3325,7 +3309,7 @@
       "kickoff_utc": "2026-10-26T16:00:00.000Z",
       "kickoff_local": "2026-10-26T18:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/riga-fc-vs-grobina/akurty0b#5162084",
       "team_source_url": "https://www.fotmob.com/teams/662738/fixtures/team"
@@ -3341,7 +3325,7 @@
       "kickoff_utc": "2026-10-26T18:00:00.000Z",
       "kickoff_local": "2026-10-26T19:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-ob/2c2uot#5739530",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
@@ -3357,7 +3341,7 @@
       "kickoff_utc": "2026-10-27T17:00:00.000Z",
       "kickoff_local": "2026-10-27T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#6162745",
       "team_source_url": "https://www.fotmob.com/teams/9810/fixtures/team"
@@ -3373,7 +3357,7 @@
       "kickoff_utc": "2026-10-27T17:00:00.000Z",
       "kickoff_local": "2026-10-27T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mainz-05-vs-bochum/38wlu3#6162739",
       "team_source_url": "https://www.fotmob.com/teams/9905/fixtures/team"
@@ -3389,10 +3373,26 @@
       "kickoff_utc": "2026-10-27T17:00:00.000Z",
       "kickoff_local": "2026-10-27T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mainz-05-vs-bochum/38wlu3#6162739",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
+    },
+    {
+      "match_id": "6093727",
+      "club_id": 584663,
+      "home": "UTA Arad",
+      "home_id": 584663,
+      "away": "Botoșani",
+      "away_id": 188191,
+      "competition": "Cup Grp. A",
+      "kickoff_utc": "2026-10-27T17:00:00.000Z",
+      "kickoff_local": "2026-10-27T19:00:00",
+      "venue_timezone": "Europe/Bucharest",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/botosani-vs-uta-arad/3t7627b8#6093727",
+      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
     },
     {
       "match_id": "6298360",
@@ -3405,7 +3405,7 @@
       "kickoff_utc": "2026-10-27T18:30:00.000Z",
       "kickoff_local": "2026-10-27T19:30:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/brondby-if-vs-ab/2ssny5#6298360",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
@@ -3421,7 +3421,7 @@
       "kickoff_utc": "2026-10-27T19:00:00.000Z",
       "kickoff_local": "2026-10-27T20:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-rsd-alcala/2a9aj9#6386079",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
@@ -3437,7 +3437,7 @@
       "kickoff_utc": "2026-10-27T19:45:00.000Z",
       "kickoff_local": "2026-10-27T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/elversberg-vs-darmstadt/28zv33#6162741",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
@@ -3453,7 +3453,7 @@
       "kickoff_utc": "2026-10-27T19:45:00.000Z",
       "kickoff_local": "2026-10-27T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-borussia-monchengladbach/2pcpyq#6162736",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
@@ -3469,7 +3469,7 @@
       "kickoff_utc": "2026-10-27T19:45:00.000Z",
       "kickoff_local": "2026-10-27T20:45:00",
       "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-roma/2g8cb2#5749721",
       "team_source_url": "https://www.fotmob.com/teams/8529/fixtures/team"
@@ -3485,26 +3485,10 @@
       "kickoff_utc": "2026-10-27T19:45:00.000Z",
       "kickoff_local": "2026-10-27T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-borussia-monchengladbach/2pcpyq#6162736",
       "team_source_url": "https://www.fotmob.com/teams/9788/fixtures/team"
-    },
-    {
-      "match_id": "6093727",
-      "club_id": 584663,
-      "home": "UTA Arad",
-      "home_id": 584663,
-      "away": "Botoșani",
-      "away_id": 188191,
-      "competition": "Cup Grp. A",
-      "kickoff_utc": "2026-10-28T13:00:00.000Z",
-      "kickoff_local": "2026-10-28T15:00:00",
-      "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/botosani-vs-uta-arad/3t7627b8#6093727",
-      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
     },
     {
       "match_id": "5772151",
@@ -3517,7 +3501,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-trencin/1ams8m#5772151",
       "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
@@ -3533,7 +3517,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-wolfsburg/2eucwl#6162743",
       "team_source_url": "https://www.fotmob.com/teams/8358/fixtures/team"
@@ -3549,7 +3533,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-wolfsburg/2eucwl#6162743",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
@@ -3565,7 +3549,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Vienna",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/salzburg-vs-sw-bregenz/1vxbo5r#6171133",
       "team_source_url": "https://www.fotmob.com/teams/10013/fixtures/team"
@@ -3581,7 +3565,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-schalke-04/2vri2z#6162751",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
@@ -3597,7 +3581,7 @@
       "kickoff_utc": "2026-10-28T17:00:00.000Z",
       "kickoff_local": "2026-10-28T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dac-1904-dunajska-streda-vs-fc-kosice/7ce32stj#5772154",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -3613,7 +3597,7 @@
       "kickoff_utc": "2026-10-28T17:45:00.000Z",
       "kickoff_local": "2026-10-28T18:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-sparta-rotterdam/1vb764#6321641",
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
@@ -3629,7 +3613,7 @@
       "kickoff_utc": "2026-10-28T19:00:00.000Z",
       "kickoff_local": "2026-10-28T20:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/real-valladolid-vs-cd-covadonga/96dq7wk#6386055",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
@@ -3645,7 +3629,7 @@
       "kickoff_utc": "2026-10-28T19:30:00.000Z",
       "kickoff_local": "2026-10-28T20:30:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-lechia-gdansk/tp61w#6280513",
       "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
@@ -3661,7 +3645,7 @@
       "kickoff_utc": "2026-10-28T19:30:00.000Z",
       "kickoff_local": "2026-10-28T19:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#6275368",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
@@ -3677,7 +3661,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-hoffenheim/27uam6#6162747",
       "team_source_url": "https://www.fotmob.com/teams/8150/fixtures/team"
@@ -3693,7 +3677,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-hoffenheim/27uam6#6162747",
       "team_source_url": "https://www.fotmob.com/teams/8226/fixtures/team"
@@ -3709,7 +3693,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-bayern-munchen/2okvcp#6162738",
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
@@ -3725,7 +3709,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-fulham/37llbg#6275373",
       "team_source_url": "https://www.fotmob.com/teams/9826/fixtures/team"
@@ -3741,7 +3725,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T20:45:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kaiserslautern-vs-hannover-96/2r7bcp#6162746",
       "team_source_url": "https://www.fotmob.com/teams/9904/fixtures/team"
@@ -3757,7 +3741,7 @@
       "kickoff_utc": "2026-10-28T19:45:00.000Z",
       "kickoff_local": "2026-10-28T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-aston-villa/2yooch#6275374",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
@@ -3773,7 +3757,7 @@
       "kickoff_utc": "2026-10-28T20:00:00.000Z",
       "kickoff_local": "2026-10-28T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rangers-vs-heart-midlothian/2svtlk#5793961",
       "team_source_url": "https://www.fotmob.com/teams/8548/fixtures/team"
@@ -3789,7 +3773,7 @@
       "kickoff_utc": "2026-10-28T20:00:00.000Z",
       "kickoff_local": "2026-10-28T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/chelsea-vs-liverpool/2f3vr7#6275371",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
@@ -3805,7 +3789,7 @@
       "kickoff_utc": "2026-10-28T20:00:00.000Z",
       "kickoff_local": "2026-10-28T21:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-tavernes-de-la-valldigna/za1u0i9y#6386084",
       "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
@@ -3821,7 +3805,7 @@
       "kickoff_utc": "2026-10-29T12:30:00.000Z",
       "kickoff_local": "2026-10-29T13:30:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
@@ -3837,10 +3821,26 @@
       "kickoff_utc": "2026-10-30T15:00:00.000Z",
       "kickoff_local": "2026-10-30T19:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/pyunik-vs-urartu-fc/1p35gt#5972995",
       "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
+    },
+    {
+      "match_id": "5765953",
+      "club_id": 1581,
+      "home": "Slaven",
+      "home_id": 1581,
+      "away": "NK Istra 1961",
+      "away_id": 6038,
+      "competition": "HNL",
+      "kickoff_utc": "2026-10-30T17:00:00.000Z",
+      "kickoff_local": "2026-10-30T18:00:00",
+      "venue_timezone": "Europe/Zagreb",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
+      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5881709",
@@ -3853,7 +3853,7 @@
       "kickoff_utc": "2026-10-30T17:30:00.000Z",
       "kickoff_local": "2026-10-30T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/energie-cottbus-vs-bochum/2rsv7q#5881709",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
@@ -3869,7 +3869,7 @@
       "kickoff_utc": "2026-10-30T18:00:00.000Z",
       "kickoff_local": "2026-10-30T19:00:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
       "team_source_url": "https://www.fotmob.com/teams/9746/fixtures/team"
@@ -3885,7 +3885,7 @@
       "kickoff_utc": "2026-10-30T19:00:00.000Z",
       "kickoff_local": "2026-10-30T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/roda-jc-kerkrade-vs-jong-az-alkmaar/31okdant#5832928",
       "team_source_url": "https://www.fotmob.com/teams/681217/fixtures/team"
@@ -3901,7 +3901,7 @@
       "kickoff_utc": "2026-10-30T19:30:00.000Z",
       "kickoff_local": "2026-10-30T20:30:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/gornik-zabrze-vs-legia-warszawa/2ayneg#5804024",
       "team_source_url": "https://www.fotmob.com/teams/8673/fixtures/team"
@@ -3917,7 +3917,7 @@
       "kickoff_utc": "2026-10-30T19:30:00.000Z",
       "kickoff_local": "2026-10-30T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/elversberg-vs-mainz-05/2pxonq#5881211",
       "team_source_url": "https://www.fotmob.com/teams/9905/fixtures/team"
@@ -3933,7 +3933,7 @@
       "kickoff_utc": "2026-10-30T20:05:00.000Z",
       "kickoff_local": "2026-10-30T21:05:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lens-vs-lille/2gcrq9#5802974",
       "team_source_url": "https://www.fotmob.com/teams/8639/fixtures/team"
@@ -3949,7 +3949,7 @@
       "kickoff_utc": "2026-10-31T12:00:00.000Z",
       "kickoff_local": "2026-10-31T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
@@ -3965,7 +3965,7 @@
       "kickoff_utc": "2026-10-31T12:00:00.000Z",
       "kickoff_local": "2026-10-31T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-vfl-osnabruck/2tumhb#5881716",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
@@ -3981,7 +3981,7 @@
       "kickoff_utc": "2026-10-31T12:30:00.000Z",
       "kickoff_local": "2026-10-31T12:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -3997,7 +3997,7 @@
       "kickoff_utc": "2026-10-31T13:00:00.000Z",
       "kickoff_local": "2026-10-31T14:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/girona-vs-real-sociedad-b/6li9a2m#5868522",
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
@@ -4013,7 +4013,7 @@
       "kickoff_utc": "2026-10-31T13:45:00.000Z",
       "kickoff_local": "2026-10-31T14:45:00",
       "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wieczysta-krakow/alk45uwn#5804028",
       "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
@@ -4029,7 +4029,7 @@
       "kickoff_utc": "2026-10-31T14:00:00.000Z",
       "kickoff_local": "2026-10-31T14:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-torreense/bdopenu#5888095",
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
@@ -4045,7 +4045,7 @@
       "kickoff_utc": "2026-10-31T14:30:00.000Z",
       "kickoff_local": "2026-10-31T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-werder-bremen/2d9ier#5881214",
       "team_source_url": "https://www.fotmob.com/teams/8226/fixtures/team"
@@ -4061,7 +4061,7 @@
       "kickoff_utc": "2026-10-31T14:30:00.000Z",
       "kickoff_local": "2026-10-31T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
       "team_source_url": "https://www.fotmob.com/teams/8358/fixtures/team"
@@ -4077,7 +4077,7 @@
       "kickoff_utc": "2026-10-31T14:30:00.000Z",
       "kickoff_local": "2026-10-31T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
       "team_source_url": "https://www.fotmob.com/teams/9788/fixtures/team"
@@ -4093,7 +4093,7 @@
       "kickoff_utc": "2026-10-31T14:30:00.000Z",
       "kickoff_local": "2026-10-31T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/schalke-04-vs-rb-leipzig/86c2g1z#5881212",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
@@ -4109,7 +4109,7 @@
       "kickoff_utc": "2026-10-31T14:30:00.000Z",
       "kickoff_local": "2026-10-31T15:30:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/trencin-vs-fc-kosice/62p5bq9y#5772212",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -4125,7 +4125,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-portsmouth/2akcmh#5836899",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -4141,7 +4141,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -4157,7 +4157,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-afc-bournemouth/2fh3fh#5795495",
       "team_source_url": "https://www.fotmob.com/teams/8463/fixtures/team"
@@ -4173,7 +4173,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -4189,7 +4189,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -4205,7 +4205,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-swansea-city/2vn3sy#5836907",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -4221,7 +4221,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
       "team_source_url": "https://www.fotmob.com/teams/8667/fixtures/team"
@@ -4237,7 +4237,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
       "team_source_url": "https://www.fotmob.com/teams/8669/fixtures/team"
@@ -4253,7 +4253,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
       "team_source_url": "https://www.fotmob.com/teams/9902/fixtures/team"
@@ -4269,7 +4269,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-genk/2qibjg#5811795",
       "team_source_url": "https://www.fotmob.com/teams/9987/fixtures/team"
@@ -4285,7 +4285,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
@@ -4301,7 +4301,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#5795502",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
@@ -4317,7 +4317,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
       "team_source_url": "https://www.fotmob.com/teams/274583/fixtures/team"
@@ -4333,7 +4333,7 @@
       "kickoff_utc": "2026-10-31T15:00:00.000Z",
       "kickoff_local": "2026-10-31T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
       "team_source_url": "https://www.fotmob.com/teams/583877/fixtures/team"
@@ -4349,26 +4349,10 @@
       "kickoff_utc": "2026-10-31T15:30:00.000Z",
       "kickoff_local": "2026-10-31T16:30:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
-    },
-    {
-      "match_id": "5765953",
-      "club_id": 1581,
-      "home": "Slaven",
-      "home_id": 1581,
-      "away": "NK Istra 1961",
-      "away_id": 6038,
-      "competition": "HNL",
-      "kickoff_utc": "2026-10-31T16:00:00.000Z",
-      "kickoff_local": "2026-10-31T17:00:00",
-      "venue_timezone": "Europe/Zagreb",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
-      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5987549",
@@ -4381,7 +4365,7 @@
       "kickoff_utc": "2026-10-31T16:00:00.000Z",
       "kickoff_local": "2026-10-31T20:00:00",
       "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
@@ -4397,7 +4381,7 @@
       "kickoff_utc": "2026-10-31T17:00:00.000Z",
       "kickoff_local": "2026-10-31T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/zeleziarne-podbrezova-vs-slovan-bratislava/laiav#5772210",
       "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
@@ -4413,7 +4397,7 @@
       "kickoff_utc": "2026-10-31T17:15:00.000Z",
       "kickoff_local": "2026-10-31T18:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-standard-liege/2uigcn#5811797",
       "team_source_url": "https://www.fotmob.com/teams/8571/fixtures/team"
@@ -4429,7 +4413,7 @@
       "kickoff_utc": "2026-10-31T17:30:00.000Z",
       "kickoff_local": "2026-10-31T17:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/aberdeen-vs-rangers/2edjdd#6241190",
       "team_source_url": "https://www.fotmob.com/teams/8548/fixtures/team"
@@ -4445,7 +4429,7 @@
       "kickoff_utc": "2026-10-31T17:30:00.000Z",
       "kickoff_local": "2026-10-31T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-bayern-munchen/36iek5#5881208",
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
@@ -4461,7 +4445,7 @@
       "kickoff_utc": "2026-10-31T17:30:00.000Z",
       "kickoff_local": "2026-10-31T17:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
       "team_source_url": "https://www.fotmob.com/teams/9826/fixtures/team"
@@ -4477,7 +4461,7 @@
       "kickoff_utc": "2026-10-31T17:45:00.000Z",
       "kickoff_local": "2026-10-31T18:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
       "team_source_url": "https://www.fotmob.com/teams/8640/fixtures/team"
@@ -4493,7 +4477,7 @@
       "kickoff_utc": "2026-10-31T19:30:00.000Z",
       "kickoff_local": "2026-10-31T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-fc-heidenheim/2g4hqih#5881714",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
@@ -4509,7 +4493,7 @@
       "kickoff_utc": "2026-10-31T19:45:00.000Z",
       "kickoff_local": "2026-10-31T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-sk-beveren/28le2y#5811792",
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
@@ -4525,7 +4509,7 @@
       "kickoff_utc": "2026-10-31T19:45:00.000Z",
       "kickoff_local": "2026-10-31T20:45:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/angers-vs-lyon/2n29lb#5802976",
       "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
@@ -4541,7 +4525,7 @@
       "kickoff_utc": "2026-10-31T19:45:00.000Z",
       "kickoff_local": "2026-10-31T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
       "team_source_url": "https://www.fotmob.com/teams/10001/fixtures/team"
@@ -4557,7 +4541,7 @@
       "kickoff_utc": "2026-10-31T20:00:00.000Z",
       "kickoff_local": "2026-10-31T21:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-az-alkmaar/2xgz8m#5781786",
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
@@ -4573,7 +4557,7 @@
       "kickoff_utc": "2026-10-31T20:00:00.000Z",
       "kickoff_local": "2026-10-31T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fulham-vs-aston-villa/3cnglp#5795496",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
@@ -4589,7 +4573,7 @@
       "kickoff_utc": "2026-11-01T00:00:00.000Z",
       "kickoff_local": "2026-11-01T01:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-macva-sabac/2349c8ll#1000015162",
       "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
@@ -4605,7 +4589,7 @@
       "kickoff_utc": "2026-11-01T00:00:00.000Z",
       "kickoff_local": "2026-11-01T01:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mladost-lucani-vs-fk-radnik-surdulica/1dpj6qnx#1000015164",
       "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
@@ -4621,7 +4605,7 @@
       "kickoff_utc": "2026-11-01T11:00:00.000Z",
       "kickoff_local": "2026-11-01T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-fk-tukums-2000/zyzn2vf#5162088",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
@@ -4637,7 +4621,7 @@
       "kickoff_utc": "2026-11-01T11:00:00.000Z",
       "kickoff_local": "2026-11-01T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rfs-vs-grobina/5avvuusn#5162091",
       "team_source_url": "https://www.fotmob.com/teams/662738/fixtures/team"
@@ -4653,7 +4637,7 @@
       "kickoff_utc": "2026-11-01T11:00:00.000Z",
       "kickoff_local": "2026-11-01T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-sk-super-nova/68rly80e#5162089",
       "team_source_url": "https://www.fotmob.com/teams/981193/fixtures/team"
@@ -4669,7 +4653,7 @@
       "kickoff_utc": "2026-11-01T11:30:00.000Z",
       "kickoff_local": "2026-11-01T15:30:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/syunik-vs-fc-noah/4uxig2xf#5972998",
       "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
@@ -4685,7 +4669,7 @@
       "kickoff_utc": "2026-11-01T12:30:00.000Z",
       "kickoff_local": "2026-11-01T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
       "team_source_url": "https://www.fotmob.com/teams/8150/fixtures/team"
@@ -4701,7 +4685,7 @@
       "kickoff_utc": "2026-11-01T12:30:00.000Z",
       "kickoff_local": "2026-11-01T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
       "team_source_url": "https://www.fotmob.com/teams/8152/fixtures/team"
@@ -4717,7 +4701,7 @@
       "kickoff_utc": "2026-11-01T12:30:00.000Z",
       "kickoff_local": "2026-11-01T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
       "team_source_url": "https://www.fotmob.com/teams/8357/fixtures/team"
@@ -4733,7 +4717,7 @@
       "kickoff_utc": "2026-11-01T12:30:00.000Z",
       "kickoff_local": "2026-11-01T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-hannover-96/2smcyg#5881712",
       "team_source_url": "https://www.fotmob.com/teams/9904/fixtures/team"
@@ -4749,7 +4733,7 @@
       "kickoff_utc": "2026-11-01T12:30:00.000Z",
       "kickoff_local": "2026-11-01T13:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
       "team_source_url": "https://www.fotmob.com/teams/9988/fixtures/team"
@@ -4765,7 +4749,7 @@
       "kickoff_utc": "2026-11-01T13:30:00.000Z",
       "kickoff_local": "2026-11-01T14:30:00",
       "venue_timezone": "Europe/Vienna",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
       "team_source_url": "https://www.fotmob.com/teams/10013/fixtures/team"
@@ -4781,7 +4765,7 @@
       "kickoff_utc": "2026-11-01T14:00:00.000Z",
       "kickoff_local": "2026-11-01T15:00:00",
       "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-lazio/2ersjb#5749736",
       "team_source_url": "https://www.fotmob.com/teams/8529/fixtures/team"
@@ -4797,7 +4781,7 @@
       "kickoff_utc": "2026-11-01T15:00:00.000Z",
       "kickoff_local": "2026-11-01T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
       "team_source_url": "https://www.fotmob.com/teams/1773/fixtures/team"
@@ -4813,7 +4797,7 @@
       "kickoff_utc": "2026-11-01T15:00:00.000Z",
       "kickoff_local": "2026-11-01T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
       "team_source_url": "https://www.fotmob.com/teams/9997/fixtures/team"
@@ -4829,7 +4813,7 @@
       "kickoff_utc": "2026-11-01T15:00:00.000Z",
       "kickoff_local": "2026-11-01T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fcv-dender-eh-vs-genk-u23/c9iai636#1000015496",
       "team_source_url": "https://www.fotmob.com/teams/1378463/fixtures/team"
@@ -4845,7 +4829,7 @@
       "kickoff_utc": "2026-11-01T15:30:00.000Z",
       "kickoff_local": "2026-11-01T16:30:00",
       "venue_timezone": "Europe/Zurich",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lugano-vs-basel/2mm7b5#5804288",
       "team_source_url": "https://www.fotmob.com/teams/9931/fixtures/team"
@@ -4861,7 +4845,7 @@
       "kickoff_utc": "2026-11-01T15:30:00.000Z",
       "kickoff_local": "2026-11-01T15:30:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/nacional-vs-arouca/6i7zxjr#5887664",
       "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
@@ -4877,7 +4861,7 @@
       "kickoff_utc": "2026-11-01T15:45:00.000Z",
       "kickoff_local": "2026-11-01T16:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-fc-groningen/2gzc1y#5781789",
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
@@ -4893,7 +4877,7 @@
       "kickoff_utc": "2026-11-01T16:15:00.000Z",
       "kickoff_local": "2026-11-01T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/paris-fc-vs-monaco/267nv1#5802979",
       "team_source_url": "https://www.fotmob.com/teams/9829/fixtures/team"
@@ -4909,7 +4893,7 @@
       "kickoff_utc": "2026-11-01T16:30:00.000Z",
       "kickoff_local": "2026-11-01T16:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-arsenal/2tmaz7#5795501",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
@@ -4925,7 +4909,7 @@
       "kickoff_utc": "2026-11-01T16:30:00.000Z",
       "kickoff_local": "2026-11-01T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#5881210",
       "team_source_url": "https://www.fotmob.com/teams/9810/fixtures/team"
@@ -4941,7 +4925,7 @@
       "kickoff_utc": "2026-11-01T17:00:00.000Z",
       "kickoff_local": "2026-11-01T18:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/agf-vs-brondby-if/2aozua#5739539",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
@@ -4957,7 +4941,7 @@
       "kickoff_utc": "2026-11-01T17:30:00.000Z",
       "kickoff_local": "2026-11-01T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-elche/3hjjfk#5868114",
       "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
@@ -4973,7 +4957,7 @@
       "kickoff_utc": "2026-11-01T18:15:00.000Z",
       "kickoff_local": "2026-11-01T19:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-raal-la-louviere/9mx28cak#5811794",
       "team_source_url": "https://www.fotmob.com/teams/9986/fixtures/team"
@@ -4989,7 +4973,7 @@
       "kickoff_utc": "2026-11-01T19:00:00.000Z",
       "kickoff_local": "2026-11-01T21:00:00",
       "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dinamo-bucuresti-vs-uta-arad/29attgjo#5853537",
       "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
@@ -5005,7 +4989,7 @@
       "kickoff_utc": "2026-11-01T20:00:00.000Z",
       "kickoff_local": "2026-11-01T21:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/athletic-club-vs-real-sociedad/2cs4ea#5868111",
       "team_source_url": "https://www.fotmob.com/teams/8560/fixtures/team"
@@ -5021,7 +5005,7 @@
       "kickoff_utc": "2026-11-02T15:15:00.000Z",
       "kickoff_local": "2026-11-02T16:15:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
@@ -5037,7 +5021,7 @@
       "kickoff_utc": "2026-11-02T17:30:00.000Z",
       "kickoff_local": "2026-11-02T18:30:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/leganes-vs-real-valladolid/2pwv36#5868524",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
@@ -5053,7 +5037,7 @@
       "kickoff_utc": "2026-11-02T18:00:00.000Z",
       "kickoff_local": "2026-11-02T19:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#5739537",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
@@ -5069,7 +5053,7 @@
       "kickoff_utc": "2026-11-03T13:00:00.000Z",
       "kickoff_local": "2026-11-03T14:00:00",
       "venue_timezone": "Europe/Zagreb",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/slaven-vs-mladost-zdralovi/25cgw6nn#1000021076",
       "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
@@ -5085,7 +5069,7 @@
       "kickoff_utc": "2026-11-03T19:45:00.000Z",
       "kickoff_local": "2026-11-03T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -5101,7 +5085,7 @@
       "kickoff_utc": "2026-11-03T19:45:00.000Z",
       "kickoff_local": "2026-11-03T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/charlton-athletic-vs-bolton-wanderers/2e55ai#5836920",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -5117,7 +5101,7 @@
       "kickoff_utc": "2026-11-03T19:45:00.000Z",
       "kickoff_local": "2026-11-03T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -5133,7 +5117,7 @@
       "kickoff_utc": "2026-11-03T19:45:00.000Z",
       "kickoff_local": "2026-11-03T19:45:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
@@ -5165,7 +5149,7 @@
       "kickoff_utc": "2026-11-03T20:00:00.000Z",
       "kickoff_local": "2026-11-03T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-west-bromwich-albion/2fb7w2#5836917",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -5197,7 +5181,7 @@
       "kickoff_utc": "2026-11-03T20:00:00.000Z",
       "kickoff_local": "2026-11-03T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -5277,7 +5261,7 @@
       "kickoff_utc": "2026-11-04T20:00:00.000Z",
       "kickoff_local": "2026-11-04T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-wolverhampton-wanderers/2ec2uh#5836918",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -5533,7 +5517,7 @@
       "kickoff_utc": "2026-11-06T16:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-ararat-armenia/4vhuld3l#5973003",
       "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
@@ -5549,7 +5533,7 @@
       "kickoff_utc": "2026-11-06T16:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/shirak-vs-fc-noah/4t6rt3aq#5973001",
       "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
@@ -5565,7 +5549,7 @@
       "kickoff_utc": "2026-11-06T17:30:00.000Z",
       "kickoff_local": "2026-11-06T18:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-dynamo-dresden/2cee33#5881724",
       "team_source_url": "https://www.fotmob.com/teams/8357/fixtures/team"
@@ -5581,7 +5565,7 @@
       "kickoff_utc": "2026-11-06T19:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-hasselt-vs-patro-eisden/hls36cw#1000015501",
       "team_source_url": "https://www.fotmob.com/teams/274583/fixtures/team"
@@ -5597,7 +5581,7 @@
       "kickoff_utc": "2026-11-06T19:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/almere-city-fc-vs-jong-az-alkmaar/2zvuobc8#5832939",
       "team_source_url": "https://www.fotmob.com/teams/681217/fixtures/team"
@@ -5613,7 +5597,7 @@
       "kickoff_utc": "2026-11-06T19:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/genk-u23-vs-gent-u23/1cirgidrm#1000015503",
       "team_source_url": "https://www.fotmob.com/teams/1378463/fixtures/team"
@@ -5629,7 +5613,7 @@
       "kickoff_utc": "2026-11-06T19:30:00.000Z",
       "kickoff_local": "2026-11-06T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-hamburger-sv/3644gd#5881218",
       "team_source_url": "https://www.fotmob.com/teams/9788/fixtures/team"
@@ -5645,7 +5629,7 @@
       "kickoff_utc": "2026-11-06T20:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-derby-county/2wfjv0#5836927",
       "team_source_url": "https://www.fotmob.com/teams/8559/fixtures/team"
@@ -5661,7 +5645,7 @@
       "kickoff_utc": "2026-11-06T20:00:00.000Z",
       "kickoff_local": "2026-11-06T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/everton-vs-coventry-city/2hhimq#5795508",
       "team_source_url": "https://www.fotmob.com/teams/8669/fixtures/team"
@@ -5677,7 +5661,7 @@
       "kickoff_utc": "2026-11-06T20:45:00.000Z",
       "kickoff_local": "2026-11-06T20:45:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/famalicao-vs-arouca/5uy3d72#5887675",
       "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
@@ -5693,7 +5677,7 @@
       "kickoff_utc": "2026-11-07T00:00:00.000Z",
       "kickoff_local": "2026-11-07T01:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/vojvodina-vs-fk-crvena-zvezda/1vtlt2#1000015175",
       "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
@@ -5709,7 +5693,7 @@
       "kickoff_utc": "2026-11-07T00:00:00.000Z",
       "kickoff_local": "2026-11-07T01:00:00",
       "venue_timezone": "Europe/Belgrade",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/ofk-beograd-vs-fk-radnik-surdulica/1f7f2heh#1000015174",
       "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
@@ -5725,7 +5709,7 @@
       "kickoff_utc": "2026-11-07T12:00:00.000Z",
       "kickoff_local": "2026-11-07T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-arminia-bielefeld/2p4l7l#5881721",
       "team_source_url": "https://www.fotmob.com/teams/8150/fixtures/team"
@@ -5741,7 +5725,7 @@
       "kickoff_utc": "2026-11-07T12:00:00.000Z",
       "kickoff_local": "2026-11-07T13:00:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/1-fc-nurnberg-vs-darmstadt/28c83c#5881723",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
@@ -5757,7 +5741,7 @@
       "kickoff_utc": "2026-11-07T12:30:00.000Z",
       "kickoff_local": "2026-11-07T12:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-norwich-city/2rgbh5#5836924",
       "team_source_url": "https://www.fotmob.com/teams/8427/fixtures/team"
@@ -5773,10 +5757,26 @@
       "kickoff_utc": "2026-11-07T12:30:00.000Z",
       "kickoff_local": "2026-11-07T12:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-tottenham-hotspur/2ejdsf#5795511",
       "team_source_url": "https://www.fotmob.com/teams/8463/fixtures/team"
+    },
+    {
+      "match_id": "5765954",
+      "club_id": 1581,
+      "home": "HNK Gorica",
+      "home_id": 206560,
+      "away": "Slaven",
+      "away_id": 1581,
+      "competition": "HNL",
+      "kickoff_utc": "2026-11-07T14:00:00.000Z",
+      "kickoff_local": "2026-11-07T15:00:00",
+      "venue_timezone": "Europe/Zagreb",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-hnk-gorica/9y8sb0b#5765954",
+      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5749741",
@@ -5789,7 +5789,7 @@
       "kickoff_utc": "2026-11-07T14:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-frosinone/2t0k4l#5749741",
       "team_source_url": "https://www.fotmob.com/teams/8529/fixtures/team"
@@ -5805,7 +5805,7 @@
       "kickoff_utc": "2026-11-07T14:30:00.000Z",
       "kickoff_local": "2026-11-07T15:30:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-trencin/1ams8m#5772217",
       "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
@@ -5821,7 +5821,7 @@
       "kickoff_utc": "2026-11-07T14:30:00.000Z",
       "kickoff_local": "2026-11-07T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-eintracht-frankfurt/2rdkqr#5881221",
       "team_source_url": "https://www.fotmob.com/teams/9810/fixtures/team"
@@ -5837,7 +5837,7 @@
       "kickoff_utc": "2026-11-07T14:30:00.000Z",
       "kickoff_local": "2026-11-07T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-mainz-05/37vb95#5881220",
       "team_source_url": "https://www.fotmob.com/teams/9823/fixtures/team"
@@ -5853,7 +5853,7 @@
       "kickoff_utc": "2026-11-07T14:30:00.000Z",
       "kickoff_local": "2026-11-07T15:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-mainz-05/37vb95#5881220",
       "team_source_url": "https://www.fotmob.com/teams/9905/fixtures/team"
@@ -5869,7 +5869,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-cardiff-city/29edm4#5836925",
       "team_source_url": "https://www.fotmob.com/teams/8191/fixtures/team"
@@ -5885,7 +5885,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-southampton/2csud9#5836929",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
@@ -5901,7 +5901,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/west-ham-united-vs-blackburn-rovers/2h74ci#5836923",
       "team_source_url": "https://www.fotmob.com/teams/8655/fixtures/team"
@@ -5917,7 +5917,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-swansea-city/2vob01#5836922",
       "team_source_url": "https://www.fotmob.com/teams/8658/fixtures/team"
@@ -5933,7 +5933,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-arsenal/2tt1fr#5795505",
       "team_source_url": "https://www.fotmob.com/teams/8667/fixtures/team"
@@ -5949,7 +5949,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-westerlo/3axjuo#5811808",
       "team_source_url": "https://www.fotmob.com/teams/9986/fixtures/team"
@@ -5965,7 +5965,7 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-westerlo/3axjuo#5811808",
       "team_source_url": "https://www.fotmob.com/teams/10001/fixtures/team"
@@ -5981,26 +5981,10 @@
       "kickoff_utc": "2026-11-07T15:00:00.000Z",
       "kickoff_local": "2026-11-07T15:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-queens-park-rangers/2v0qlx#5836930",
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
-    },
-    {
-      "match_id": "5765954",
-      "club_id": 1581,
-      "home": "HNK Gorica",
-      "home_id": 206560,
-      "away": "Slaven",
-      "away_id": 1581,
-      "competition": "HNL",
-      "kickoff_utc": "2026-11-07T16:00:00.000Z",
-      "kickoff_local": "2026-11-07T17:00:00",
-      "venue_timezone": "Europe/Zagreb",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-hnk-gorica/9y8sb0b#5765954",
-      "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
       "match_id": "5987551",
@@ -6013,42 +5997,10 @@
       "kickoff_utc": "2026-11-07T16:00:00.000Z",
       "kickoff_local": "2026-11-07T20:00:00",
       "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sumqayt-vs-imisli-fk/pisq6kmd#5987551",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
-    },
-    {
-      "match_id": "5804032",
-      "club_id": 1957,
-      "home": "Jagiellonia Białystok",
-      "home_id": 1957,
-      "away": "GKS Katowice",
-      "away_id": 4023,
-      "competition": "Ekstraklasa",
-      "kickoff_utc": "2026-11-07T17:00:00.000Z",
-      "kickoff_local": "2026-11-07T18:00:00",
-      "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-gks-katowice/andv1#5804032",
-      "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
-    },
-    {
-      "match_id": "5804035",
-      "club_id": 8673,
-      "home": "Legia Warszawa",
-      "home_id": 8673,
-      "away": "Raków Częstochowa",
-      "away_id": 4024,
-      "competition": "Ekstraklasa",
-      "kickoff_utc": "2026-11-07T17:00:00.000Z",
-      "kickoff_local": "2026-11-07T18:00:00",
-      "venue_timezone": "Europe/Warsaw",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/rakow-czestochowa-vs-legia-warszawa/1c009y#5804035",
-      "team_source_url": "https://www.fotmob.com/teams/8673/fixtures/team"
     },
     {
       "match_id": "5853551",
@@ -6061,7 +6013,7 @@
       "kickoff_utc": "2026-11-07T17:00:00.000Z",
       "kickoff_local": "2026-11-07T19:00:00",
       "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/petrolul-ploiesti-vs-uta-arad/3t747xyq#5853551",
       "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
@@ -6077,7 +6029,7 @@
       "kickoff_utc": "2026-11-07T17:00:00.000Z",
       "kickoff_local": "2026-11-07T18:00:00",
       "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/dac-1904-dunajska-streda-vs-fc-kosice/7ce32stj#5772220",
       "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
@@ -6093,7 +6045,7 @@
       "kickoff_utc": "2026-11-07T17:15:00.000Z",
       "kickoff_local": "2026-11-07T18:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-kv-mechelen/tmtgn#5811803",
       "team_source_url": "https://www.fotmob.com/teams/1773/fixtures/team"
@@ -6109,7 +6061,7 @@
       "kickoff_utc": "2026-11-07T17:45:00.000Z",
       "kickoff_local": "2026-11-07T18:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-ado-den-haag/2xklzy#5781799",
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
@@ -6125,7 +6077,7 @@
       "kickoff_utc": "2026-11-07T19:00:00.000Z",
       "kickoff_local": "2026-11-07T20:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/virton-vs-beerschot/28iirkkc#1000015505",
       "team_source_url": "https://www.fotmob.com/teams/583877/fixtures/team"
@@ -6141,7 +6093,7 @@
       "kickoff_utc": "2026-11-07T19:30:00.000Z",
       "kickoff_local": "2026-11-07T20:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hertha-bsc-vs-wolfsburg/2d0g7o#5881720",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
@@ -6157,7 +6109,7 @@
       "kickoff_utc": "2026-11-07T19:45:00.000Z",
       "kickoff_local": "2026-11-07T20:45:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lommel-vs-royal-antwerp/2axlrz#5811800",
       "team_source_url": "https://www.fotmob.com/teams/9988/fixtures/team"
@@ -6173,7 +6125,7 @@
       "kickoff_utc": "2026-11-07T20:00:00.000Z",
       "kickoff_local": "2026-11-07T20:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rangers-vs-st-mirren/2s86p2#5793974",
       "team_source_url": "https://www.fotmob.com/teams/8548/fixtures/team"
@@ -6189,7 +6141,7 @@
       "kickoff_utc": "2026-11-07T20:00:00.000Z",
       "kickoff_local": "2026-11-07T21:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/real-madrid-vs-valencia/2ycigb#5868129",
       "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
@@ -6205,7 +6157,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T12:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-brondby-if/2dwej6#5739543",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
@@ -6221,7 +6173,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T12:00:00",
       "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-brondby-if/2dwej6#5739543",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
@@ -6237,7 +6189,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T11:00:00",
       "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-fc-porto-b/rtti5no#5888104",
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
@@ -6253,7 +6205,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/auda-vs-fk-tukums-2000/96ooq26#5162096",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
@@ -6269,7 +6221,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-grobina/2vccvo2r#5162092",
       "team_source_url": "https://www.fotmob.com/teams/662738/fixtures/team"
@@ -6285,7 +6237,7 @@
       "kickoff_utc": "2026-11-08T11:00:00.000Z",
       "kickoff_local": "2026-11-08T13:00:00",
       "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-sk-super-nova/8vbi7hea#5162095",
       "team_source_url": "https://www.fotmob.com/teams/981193/fixtures/team"
@@ -6301,7 +6253,7 @@
       "kickoff_utc": "2026-11-08T11:15:00.000Z",
       "kickoff_local": "2026-11-08T12:15:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sc-heerenveen-vs-feyenoord/3gnwjn#5781797",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
@@ -6317,7 +6269,7 @@
       "kickoff_utc": "2026-11-08T12:30:00.000Z",
       "kickoff_local": "2026-11-08T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-magdeburg/27ho6m#5881722",
       "team_source_url": "https://www.fotmob.com/teams/8152/fixtures/team"
@@ -6333,7 +6285,7 @@
       "kickoff_utc": "2026-11-08T12:30:00.000Z",
       "kickoff_local": "2026-11-08T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-bochum/2qok5k#5881717",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
@@ -6349,7 +6301,7 @@
       "kickoff_utc": "2026-11-08T12:30:00.000Z",
       "kickoff_local": "2026-11-08T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hannover-96-vs-fc-heidenheim/2iw3s4d#5881719",
       "team_source_url": "https://www.fotmob.com/teams/9904/fixtures/team"
@@ -6365,10 +6317,26 @@
       "kickoff_utc": "2026-11-08T12:30:00.000Z",
       "kickoff_local": "2026-11-08T13:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-bochum/2qok5k#5881717",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
+    },
+    {
+      "match_id": "5804032",
+      "club_id": 1957,
+      "home": "Jagiellonia Białystok",
+      "home_id": 1957,
+      "away": "GKS Katowice",
+      "away_id": 4023,
+      "competition": "Ekstraklasa",
+      "kickoff_utc": "2026-11-08T13:45:00.000Z",
+      "kickoff_local": "2026-11-08T14:45:00",
+      "venue_timezone": "Europe/Warsaw",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-gks-katowice/andv1#5804032",
+      "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
     },
     {
       "match_id": "5868533",
@@ -6381,7 +6349,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T14:00:00",
       "venue_timezone": "Atlantic/Canary",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
@@ -6397,7 +6365,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T15:00:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lille-vs-rennes/2ts8x6#5802988",
       "team_source_url": "https://www.fotmob.com/teams/8639/fixtures/team"
@@ -6413,7 +6381,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-crystal-palace/2tmp8g#5795507",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
@@ -6429,7 +6397,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-crystal-palace/2tmp8g#5795507",
       "team_source_url": "https://www.fotmob.com/teams/9826/fixtures/team"
@@ -6445,7 +6413,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-ipswich-town/2us05c#5795510",
       "team_source_url": "https://www.fotmob.com/teams/9902/fixtures/team"
@@ -6461,7 +6429,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T14:00:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/brentford-vs-brighton-hove-albion/3crs0s#5795506",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
@@ -6477,7 +6445,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T15:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
@@ -6493,7 +6461,7 @@
       "kickoff_utc": "2026-11-08T14:00:00.000Z",
       "kickoff_local": "2026-11-08T15:00:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
@@ -6509,7 +6477,7 @@
       "kickoff_utc": "2026-11-08T15:00:00.000Z",
       "kickoff_local": "2026-11-08T16:00:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-gent/2ukua2#5811802",
       "team_source_url": "https://www.fotmob.com/teams/8571/fixtures/team"
@@ -6525,7 +6493,7 @@
       "kickoff_utc": "2026-11-08T15:15:00.000Z",
       "kickoff_local": "2026-11-08T16:15:00",
       "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/rayo-vallecano-vs-real-sociedad/2dc1qb#5868127",
       "team_source_url": "https://www.fotmob.com/teams/8560/fixtures/team"
@@ -6541,7 +6509,7 @@
       "kickoff_utc": "2026-11-08T15:30:00.000Z",
       "kickoff_local": "2026-11-08T16:30:00",
       "venue_timezone": "Europe/Zurich",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/basel-vs-thun/3cjkve#5804296",
       "team_source_url": "https://www.fotmob.com/teams/9931/fixtures/team"
@@ -6557,7 +6525,7 @@
       "kickoff_utc": "2026-11-08T15:45:00.000Z",
       "kickoff_local": "2026-11-08T16:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cambuur-vs-psv-eindhoven/28cl26#5781796",
       "team_source_url": "https://www.fotmob.com/teams/8640/fixtures/team"
@@ -6573,7 +6541,7 @@
       "kickoff_utc": "2026-11-08T15:45:00.000Z",
       "kickoff_local": "2026-11-08T16:45:00",
       "venue_timezone": "Europe/Amsterdam",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-groningen-vs-az-alkmaar/2ydq8m#5781798",
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
@@ -6589,7 +6557,7 @@
       "kickoff_utc": "2026-11-08T16:00:00.000Z",
       "kickoff_local": "2026-11-08T17:00:00",
       "venue_timezone": "Europe/Vienna",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/salzburg-vs-sturm-graz/3bepe0#5846021",
       "team_source_url": "https://www.fotmob.com/teams/10013/fixtures/team"
@@ -6605,7 +6573,7 @@
       "kickoff_utc": "2026-11-08T16:15:00.000Z",
       "kickoff_local": "2026-11-08T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lorient-vs-le-havre/2t6haw#5802985",
       "team_source_url": "https://www.fotmob.com/teams/9746/fixtures/team"
@@ -6621,7 +6589,7 @@
       "kickoff_utc": "2026-11-08T16:15:00.000Z",
       "kickoff_local": "2026-11-08T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/brest-vs-lyon/2rd6lj#5802984",
       "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
@@ -6637,7 +6605,7 @@
       "kickoff_utc": "2026-11-08T16:15:00.000Z",
       "kickoff_local": "2026-11-08T17:15:00",
       "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/le-mans-vs-monaco/2u0kot#5802986",
       "team_source_url": "https://www.fotmob.com/teams/9829/fixtures/team"
@@ -6653,10 +6621,26 @@
       "kickoff_utc": "2026-11-08T16:30:00.000Z",
       "kickoff_local": "2026-11-08T17:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-berlin-vs-freiburg/294gog#5881217",
       "team_source_url": "https://www.fotmob.com/teams/8358/fixtures/team"
+    },
+    {
+      "match_id": "5804035",
+      "club_id": 8673,
+      "home": "Legia Warszawa",
+      "home_id": 8673,
+      "away": "Raków Częstochowa",
+      "away_id": 4024,
+      "competition": "Ekstraklasa",
+      "kickoff_utc": "2026-11-08T16:30:00.000Z",
+      "kickoff_local": "2026-11-08T17:30:00",
+      "venue_timezone": "Europe/Warsaw",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/rakow-czestochowa-vs-legia-warszawa/1c009y#5804035",
+      "team_source_url": "https://www.fotmob.com/teams/8673/fixtures/team"
     },
     {
       "match_id": "5795512",
@@ -6669,7 +6653,7 @@
       "kickoff_utc": "2026-11-08T16:30:00.000Z",
       "kickoff_local": "2026-11-08T16:30:00",
       "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/aston-villa-vs-manchester-united/3h9f6s#5795512",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
@@ -6685,7 +6669,7 @@
       "kickoff_utc": "2026-11-08T17:30:00.000Z",
       "kickoff_local": "2026-11-08T18:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-genk/2o34zy#5811805",
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
@@ -6701,7 +6685,7 @@
       "kickoff_utc": "2026-11-08T17:30:00.000Z",
       "kickoff_local": "2026-11-08T18:30:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-genk/2o34zy#5811805",
       "team_source_url": "https://www.fotmob.com/teams/9987/fixtures/team"
@@ -6717,7 +6701,7 @@
       "kickoff_utc": "2026-11-08T18:15:00.000Z",
       "kickoff_local": "2026-11-08T19:15:00",
       "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sttruiden-vs-zulte-waregem/3b1u4g#5811807",
       "team_source_url": "https://www.fotmob.com/teams/9997/fixtures/team"
@@ -6733,7 +6717,7 @@
       "kickoff_utc": "2026-11-08T18:30:00.000Z",
       "kickoff_local": "2026-11-08T19:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-schalke-04/2syjsa#5881219",
       "team_source_url": "https://www.fotmob.com/teams/8226/fixtures/team"
@@ -6749,7 +6733,7 @@
       "kickoff_utc": "2026-11-08T18:30:00.000Z",
       "kickoff_local": "2026-11-08T19:30:00",
       "venue_timezone": "Europe/Berlin",
-      "timezone_basis": "Home club country",
+      "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-schalke-04/2syjsa#5881219",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
