@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T12:01:35.392Z",
-  "coverage_from": "2026-10-06T12:01:35.392Z",
-  "coverage_to": "2026-11-11T12:01:35.392Z",
+  "updated_at": "2026-10-14T17:18:23.124Z",
+  "coverage_from": "2026-10-06T17:18:23.124Z",
+  "coverage_to": "2026-11-11T17:18:23.124Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -83,22 +83,6 @@
   ],
   "fixtures": [
     {
-      "match_id": "6276979",
-      "club_id": 969268,
-      "home": "Považská Bystrica",
-      "home_id": 1381964,
-      "away": "FC Košice",
-      "away_id": 969268,
-      "competition": "FA Cup",
-      "kickoff_utc": "2026-10-14T12:30:00.000Z",
-      "kickoff_local": "2026-10-14T14:30:00",
-      "venue_timezone": "Europe/Bratislava",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/fc-kosice-vs-povazska-bystrica/z9tyev04#6276979",
-      "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
-    },
-    {
       "match_id": "6106405",
       "club_id": 8650,
       "home": "LASK",
@@ -110,7 +94,7 @@
       "kickoff_local": "2026-10-14T18:45:00",
       "venue_timezone": "Europe/Vienna",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-lask/2vaqvz#6106405",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
     },
@@ -126,7 +110,7 @@
       "kickoff_local": "2026-10-14T18:45:00",
       "venue_timezone": "Europe/Amsterdam",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/como-vs-feyenoord/3fyxs8#6106309",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
     },
