@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T17:17:49.713Z",
-  "checked_matches": 68,
+  "updated_at": "2026-10-14T21:46:31.509Z",
+  "checked_matches": 70,
   "records": [
     {
       "week": "2026-W41",
@@ -30,7 +30,7 @@
       "rating": 7.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-eintracht-braunschweig/2no4sl#5881682",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -62,7 +62,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-eintracht-braunschweig/2no4sl#5881682",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -94,7 +94,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-eintracht-braunschweig/2no4sl#5881682",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -126,7 +126,7 @@
       "rating": 7.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-sc-heerenveen/2xzk6a#5781762",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -158,7 +158,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-den-bosch-vs-jong-az-alkmaar/31oxj9bd#5832901",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -190,7 +190,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/west-ham-united-vs-queens-park-rangers/2xildx#5836861",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -222,7 +222,7 @@
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lens-vs-lyon/2s3gtg#5802947",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -254,7 +254,7 @@
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-charlton-athletic/2ct7do#5836852",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -286,7 +286,7 @@
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-west-bromwich-albion/2ha382#5836860",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -318,7 +318,7 @@
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-arsenal/2rkmmx#5795465",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -350,7 +350,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-west-bromwich-albion/2ha382#5836860",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -382,7 +382,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-hannover-96/2pg7ny#5881686",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -414,7 +414,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-energie-cottbus/2amujk#5881683",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -446,7 +446,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-energie-cottbus/2amujk#5881683",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -478,7 +478,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-tukums-2000-vs-riga-fc/4bi3sg9f#5162072",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -510,7 +510,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-tukums-2000-vs-riga-fc/4bi3sg9f#5162072",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -542,7 +542,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brentford-vs-aston-villa/3dciw4#5795466",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -574,7 +574,7 @@
       "rating": 7.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cardiff-city-vs-blackburn-rovers/2e1517#5836850",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -606,7 +606,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-stoke-city/2wp6xc#5836851",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -638,7 +638,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fulham-vs-ipswich-town/38hr4t#5795471",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -670,7 +670,7 @@
       "rating": 8.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-watford/2ojpnp#5836859",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -702,7 +702,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sunderland-vs-brighton-hove-albion/2vuaxm#5795474",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -734,7 +734,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cardiff-city-vs-blackburn-rovers/2e1517#5836850",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -766,7 +766,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/rangers-vs-kilmarnock/2fika2#5793945",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -798,7 +798,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-radnik-surdulica-vs-fk-imt-beograd/6snaz2zu#1000015143",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -830,7 +830,7 @@
       "rating": 7.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-mainz-05/2pcq1z#5881184",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -862,7 +862,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-mainz-05/2pcq1z#5881184",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -894,7 +894,7 @@
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-hamburger-sv/2omstq#5881183",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -926,7 +926,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/augsburg-vs-bayern-munchen/2qxjee#5881179",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -958,7 +958,7 @@
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-skalica/20dcgc37#5772261",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -990,7 +990,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/komarno-vs-fc-kosice/fyayya3s#5772196",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1022,7 +1022,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/grobina-vs-sk-super-nova/h8rb5jlv#5162073",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1054,7 +1054,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/grobina-vs-sk-super-nova/h8rb5jlv#5162073",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1086,7 +1086,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/go-ahead-eagles-vs-sparta-rotterdam/1vequa#5781765",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1118,7 +1118,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/grazer-ak-vs-salzburg/3bduhe#5845995",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1150,7 +1150,7 @@
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/grazer-ak-vs-salzburg/3bduhe#5845995",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1182,7 +1182,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lille-vs-le-havre/2smr0r#5802948",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1214,7 +1214,7 @@
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lille-vs-le-havre/2smr0r#5802948",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1246,7 +1246,7 @@
       "rating": 5.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lille-vs-le-havre/2smr0r#5802948",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1278,7 +1278,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lille-vs-le-havre/2smr0r#5802948",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1310,7 +1310,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/botosani-vs-uta-arad/3t7627b8#5853516",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1342,7 +1342,7 @@
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/eintracht-frankfurt-vs-rb-leipzig/855fslx#5881186",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1374,7 +1374,7 @@
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/eintracht-frankfurt-vs-rb-leipzig/855fslx#5881186",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1406,7 +1406,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-feyenoord/3gocc3#5781759",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1438,7 +1438,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-feyenoord/3gocc3#5781759",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1470,7 +1470,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-feyenoord/3gocc3#5781759",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1502,7 +1502,7 @@
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-radnicki-1923-vs-fk-crvena-zvezda/vyypq#1000015145",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1534,7 +1534,7 @@
       "rating": 8.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-liege-vs-beerschot/280tdlm3#1000015485",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1566,7 +1566,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-liege-vs-beerschot/280tdlm3#1000015485",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1598,7 +1598,7 @@
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-liege-vs-beerschot/280tdlm3#1000015485",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1630,7 +1630,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-gornik-zabrze/tn10p#5803996",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1662,7 +1662,7 @@
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-nurnberg-vs-wolfsburg/2cw3su#5881687",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1694,7 +1694,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-genk/2uj8zo#5811775",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1726,7 +1726,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-genk/2uj8zo#5811775",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1758,7 +1758,7 @@
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-genk/2uj8zo#5811775",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1790,7 +1790,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/monaco-vs-toulouse/38d3b8#5802950",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1822,7 +1822,7 @@
       "rating": 5.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/celta-fortuna-vs-real-sociedad-b/o1bb94w#5868485",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1854,7 +1854,7 @@
       "rating": 5.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/portsmouth-vs-southampton/2dbbj6#5836857",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1886,7 +1886,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/standard-liege-vs-sporting-charleroi/3aqp6w#5811779",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1918,7 +1918,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-karlsruher-sc/28j9s7#5881688",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1950,7 +1950,7 @@
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bochum-vs-arminia-bielefeld/38zkw0#5881681",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -1982,7 +1982,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-karlsruher-sc/28j9s7#5881688",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2014,7 +2014,7 @@
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hertha-bsc-vs-greuther-furth/29e0v6#5881685",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2046,7 +2046,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-karlsruher-sc/28j9s7#5881688",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2078,7 +2078,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-karlsruher-sc/28j9s7#5881688",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2110,7 +2110,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-karlsruher-sc/28j9s7#5881688",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2142,7 +2142,7 @@
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-nottingham-forest/3bfk5h#5795469",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2174,7 +2174,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-everton/2hgrvk#5795470",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2206,7 +2206,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-nottingham-forest/3bfk5h#5795469",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2238,7 +2238,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-borussia-monchengladbach/2u06dh#5881181",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2270,7 +2270,7 @@
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-borussia-monchengladbach/2u06dh#5881181",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2302,7 +2302,7 @@
       "rating": 5.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-borussia-monchengladbach/2u06dh#5881181",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2334,7 +2334,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-borussia-monchengladbach/2u06dh#5881181",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2366,7 +2366,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-union-stgilloise/sb8se#5811778",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2398,7 +2398,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-union-stgilloise/sb8se#5811778",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2430,7 +2430,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-union-stgilloise/sb8se#5811778",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2462,7 +2462,7 @@
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/patro-eisden-vs-genk-u23/hfnst8mc#1000015481",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2494,7 +2494,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brondby-if-vs-lyngby/2tx088#5739520",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2526,7 +2526,7 @@
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/patro-eisden-vs-genk-u23/hfnst8mc#1000015481",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2558,7 +2558,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/patro-eisden-vs-genk-u23/hfnst8mc#1000015481",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2590,7 +2590,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-deportivo-coruna/2s67wj#5868090",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2622,7 +2622,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-liverpool/2f48yd#5795472",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2651,10 +2651,10 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
-      "rating": 6.5,
+      "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-vaduz-vs-basel/386qkd#5804279",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2686,7 +2686,7 @@
       "rating": 5.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-schalke-04/2ueu9g#5881182",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2718,7 +2718,7 @@
       "rating": 5.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-schalke-04/2ueu9g#5881182",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2750,7 +2750,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-schalke-04/2ueu9g#5881182",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2782,7 +2782,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-schalke-04/2ueu9g#5881182",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2814,7 +2814,7 @@
       "rating": 7.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/slaven-vs-rijeka/151z5p#5765938",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2846,7 +2846,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-midtjylland-vs-fc-kobenhavn/293ehv#5739519",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2878,7 +2878,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2910,7 +2910,7 @@
       "rating": 4.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2942,7 +2942,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -2974,7 +2974,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3006,7 +3006,7 @@
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3038,7 +3038,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/royal-antwerp-vs-westerlo/3ayep7#5811781",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3070,7 +3070,7 @@
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-mallorca/2dphox#5868488",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3102,7 +3102,7 @@
       "rating": 5.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3134,7 +3134,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3166,7 +3166,7 @@
       "rating": 4.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3198,7 +3198,7 @@
       "rating": 5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3230,7 +3230,7 @@
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3262,7 +3262,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3294,7 +3294,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3326,7 +3326,7 @@
       "rating": 5.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-sttruiden/2qm7y1#5811776",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3358,7 +3358,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/legia-warszawa-vs-wisa-krakow/2yrx80#5803997",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3390,7 +3390,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/arouca-vs-estrela-da-amadora/9ova6rn0#5887646",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3422,7 +3422,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-juventus/2sy6uu#5749691",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3454,7 +3454,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/racing-santander-vs-valencia/2z22t2#5868087",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3486,7 +3486,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/albacete-vs-real-valladolid/2vti1w#5868491",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3518,7 +3518,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/coventry-city-vs-newcastle-united/2yooc8#5795468",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3550,7 +3550,7 @@
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-blackburn-rovers/2evge6#5836863",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3582,7 +3582,7 @@
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-wolverhampton-wanderers/2fog1z#5836868",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3614,7 +3614,7 @@
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-blackburn-rovers/2evge6#5836863",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3646,7 +3646,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-charlton-athletic/2agfba#5836864",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3678,7 +3678,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-blackburn-rovers/2evge6#5836863",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3710,7 +3710,7 @@
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-birmingham-city/2eqp3x#5836862",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -3742,7 +3742,71 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-birmingham-city/2eqp3x#5836862",
-      "verified_at": "2026-10-14T17:17:49.713Z",
+      "verified_at": "2026-10-14T21:46:31.509Z",
+      "verification_status": "Verified final match and lineup",
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+    },
+    {
+      "week": "2026-W42",
+      "day_sheet": "2026-W42-Wed",
+      "match_id": "5836871",
+      "player_id": "fm-1336906",
+      "name_ja": "松木玖生",
+      "name_en": "Kuryu Matsuki",
+      "league": "EFL Championship",
+      "club": "Southampton",
+      "club_id": 8466,
+      "home": "Norwich City",
+      "home_id": 9850,
+      "away": "Southampton",
+      "away_id": 8466,
+      "home_goals": 0,
+      "away_goals": 1,
+      "kickoff_local": "2026-10-14T19:45:00",
+      "kickoff_jst": "2026-10-15T03:45:00+09:00",
+      "status": "Started",
+      "minutes": 90,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": null,
+      "yellow_cards": null,
+      "red_cards": null,
+      "rating": 8,
+      "rating_provider": "FotMob",
+      "source_url": "https://www.fotmob.com/matches/southampton-vs-norwich-city/2rvm2w#5836871",
+      "verified_at": "2026-10-14T21:46:31.509Z",
+      "verification_status": "Verified final match and lineup",
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+    },
+    {
+      "week": "2026-W42",
+      "day_sheet": "2026-W42-Wed",
+      "match_id": "5836873",
+      "player_id": "jp-016",
+      "name_ja": "斉藤光毅",
+      "name_en": "Koki Saito",
+      "league": "EFL Championship",
+      "club": "Queens Park Rangers",
+      "club_id": 10172,
+      "home": "Queens Park Rangers",
+      "home_id": 10172,
+      "away": "Derby County",
+      "away_id": 10170,
+      "home_goals": 4,
+      "away_goals": 1,
+      "kickoff_local": "2026-10-14T19:45:00",
+      "kickoff_jst": "2026-10-15T03:45:00+09:00",
+      "status": "Not in match squad",
+      "minutes": null,
+      "goals": null,
+      "assists": null,
+      "own_goals": null,
+      "yellow_cards": null,
+      "red_cards": null,
+      "rating": null,
+      "rating_provider": "FotMob",
+      "source_url": "https://www.fotmob.com/matches/derby-county-vs-queens-park-rangers/3f6zl5#5836873",
+      "verified_at": "2026-10-14T21:46:31.509Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
