@@ -76,7 +76,11 @@ jobs:
           node-version: "24"
 
       - name: Verify Sunday-centred report
-        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs
+        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs
+
+      - name: Refresh completed league matches and player records
+        if: github.event_name != 'push'
+        run: node refresh-completed-matches.cjs || echo "::warning::Completed-match source unavailable; preserving last verified results"
 
       - name: Refresh Japanese player scheduled fixtures
         if: github.event_name != 'push'
@@ -97,7 +101,7 @@ jobs:
       - name: Commit updated fixture snapshot
         if: github.event_name != 'push'
         run: |
-          git add fixtures.json fixture-venues.json sofascore-season.json season-totals.json japanese-players.html
+          git add fixtures.json fixture-venues.json sofascore-season.json season-totals.json weekly-records.json japanese-players.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Japanese player fixtures, venues and season ratings"
             git push

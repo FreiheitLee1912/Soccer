@@ -88,3 +88,7 @@ test('season appearances filter works in a future report week without weekly app
  assert.equal(vm.runInContext('filtered()[0].ps.length',ctx),0);
  vm.runInContext("mode='all'",ctx);elements.search.value='';
 });
+test('completed-match feed survives CSV refresh and replaces duplicate archived records',()=>{
+ const result=JSON.parse(vm.runInContext(`JSON.stringify(mergeMatchRecords([{match_id:'5836864',player_id:'jp-017',league:'EFL Championship',kickoff_local:'2026-10-13T19:45:00',minutes:null}], [{match_id:'5836864',player_id:'jp-017',league:'EFL Championship',kickoff_local:'2026-10-13T19:45:00',minutes:90,rating:7.1}]))`,ctx));
+ assert.equal(result.length,1);assert.equal(result[0].minutes,90);assert.equal(result[0].week,'2026-W42');
+});

@@ -1,0 +1,12 @@
+const {test}=require('node:test');const assert=require('node:assert/strict');
+const {parseCompletedMatch}=require('../completed-matches.cjs');
+const seed={leagues:[['EFL Championship',48]],players:[{player_id:'jp-017',name_en:'Reo Hatate',name_ja:'旗手怜央',club_id:8191,club:'Burnley',league:'EFL Championship'}]};
+function match(){return{general:{matchId:'5836864',leagueId:48,matchTimeUTCDate:'2026-10-13T18:45:00Z',finished:true},header:{teams:[{id:8191,name:'Burnley',score:2},{id:8451,name:'Charlton',score:2}],status:{finished:true}},content:{lineup:{homeTeam:{id:8191,starters:[{id:980792,name:'Reo Hatate'}],subs:[]},awayTeam:{id:8451,starters:[],subs:[]}},playerStats:{980792:{id:980792,name:'Reo Hatate',teamId:8191,stats:[{stats:{Minutes:{key:'minutes_played',stat:{value:90}},Goals:{key:'goals',stat:{value:0}},Assists:{key:'assists',stat:{value:0}},Rating:{key:'rating_title',stat:{value:7.05}}}}]}}}}}
+test('finished EFL match produces W42 player record using local date, not old CSV week',()=>{
+ const rows=parseCompletedMatch(match(),seed,'Europe/London','https://www.fotmob.com/matches/burnley-vs-charlton-athletic/2agfba#5836864','2026-10-14');
+ assert.equal(rows.length,1);assert.equal(rows[0].week,'2026-W42');assert.equal(rows[0].status,'Started');assert.equal(rows[0].minutes,90);assert.equal(rows[0].goals,0);assert.equal(rows[0].assists,0);assert.equal(rows[0].rating,7.05);assert.equal(rows[0].home_goals,2);
+});
+test('scheduled matches never create appearances or ratings',()=>{const d=match();d.general.finished=false;d.header.status.finished=false;assert.deepEqual(parseCompletedMatch(d,seed,'Europe/London','https://www.fotmob.com/matches/test#5836864','2026-10-14'),[])});
+test('cups are not silently counted as domestic league records',()=>{const d=match();d.general.leagueId=133;assert.deepEqual(parseCompletedMatch(d,seed,'Europe/London','https://www.fotmob.com/matches/test#5836864','2026-10-14'),[])});
+test('league stage IDs are resolved through the published parent league',()=>{const d=match();d.general.leagueId=937988;d.general.parentLeagueId=48;assert.equal(parseCompletedMatch(d,seed,'Europe/London','https://www.fotmob.com/matches/test#5836864','2026-10-14').length,1)});
+test('missing provider values stay unknown',()=>{const d=match();delete d.content.playerStats[980792];const r=parseCompletedMatch(d,seed,'Europe/London','https://www.fotmob.com/matches/test#5836864','2026-10-14')[0];assert.equal(r.minutes,null);assert.equal(r.rating,null);assert.equal(r.goals,null)});
