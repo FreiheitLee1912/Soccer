@@ -76,7 +76,7 @@ jobs:
           node-version: "24"
 
       - name: Verify Sunday-centred report
-        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs tests/uefa-registration.test.cjs tests/player-database.test.cjs tests/fotmob-season-totals.test.cjs
+        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs tests/uefa-registration.test.cjs tests/player-database.test.cjs tests/fotmob-season-totals.test.cjs tests/summary-sort.test.cjs tests/market-values.test.cjs
 
       - name: Refresh UEFA competition registration
         if: github.event_name != 'push'
@@ -102,6 +102,10 @@ jobs:
         if: github.event_name != 'push'
         run: node refresh-sofascore.cjs || echo "::warning::Sofascore unavailable; preserving last verified season ratings"
 
+      - name: Refresh published player market valuations
+        if: github.event_name != 'push'
+        run: node refresh-market-values.cjs || echo "::warning::Market valuations unavailable; preserving verified values"
+
       - name: Refresh published league season totals
         if: github.event_name != 'push'
         run: node refresh-season-totals.cjs || echo "::warning::Season stats unavailable; preserving last verified totals"
@@ -109,7 +113,7 @@ jobs:
       - name: Commit updated fixture snapshot
         if: github.event_name != 'push'
         run: |
-          git add team-locations.json fixtures.json fixture-venues.json sofascore-season.json season-totals.json weekly-records.json japanese-players.html
+          git add market-values.json team-locations.json fixtures.json fixture-venues.json sofascore-season.json season-totals.json weekly-records.json japanese-players.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Japanese player fixtures, venues and season ratings"
             git push

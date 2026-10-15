@@ -1,0 +1,7 @@
+const {test}=require('node:test'),assert=require('node:assert/strict');
+const {readMarketValue}=require('../player-market-values.cjs');
+const expected={id:1336906,name:'Kuryu Matsuki',clubs:[8466]};
+const player=()=>({id:1336906,name:'Kuryu Matsuki',primaryTeam:{teamId:8466},playerInformation:[{translationKey:'country_sentencecase',countryCode:'JPN'}],marketValues:{values:[{date:'2026-09-01',value:2000000,currency:'EUR',source:'scisports',teamId:8466},{date:'2026-10-01',value:2523301,currency:'EUR',source:'scisports',teamId:8466}]}});
+test('market value comes from the latest published dated EUR valuation',()=>{assert.deepEqual(readMarketValue(player(),expected,'2026-10-15'),{value:2523301,currency:'EUR',valuation_date:'2026-10-01',valuation_provider:'SciSports',club_id:8466})});
+test('missing valuation, zero and future dated values do not fabricate a current market value',()=>{const p=player();p.marketValues.values=[{date:'2026-11-01',value:3000000,currency:'EUR'},{date:'2026-10-01',value:0,currency:'EUR'}];assert.equal(readMarketValue(p,expected,'2026-10-15'),null);delete p.marketValues;assert.equal(readMarketValue(p,expected,'2026-10-15'),null)});
+test('wrong identity, nationality and current club are rejected',()=>{for(const change of [{id:1},{name:'Other Person'},{clubs:[1]}])assert.throws(()=>readMarketValue(player(),{...expected,...change},'2026-10-15'));const p=player();p.playerInformation[0].countryCode='USA';assert.throws(()=>readMarketValue(p,expected,'2026-10-15'))});
