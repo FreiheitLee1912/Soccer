@@ -1,0 +1,3 @@
+# Player database map
+
+User-confirmed navigation: European map league logos -> geographic team logos -> corresponding Japanese players. Use existing source-backed player affiliations and published stadium coordinates. Keep reserve/first-team affiliations separate per club, deduplicate players within each team. League and club lists provide accessible navigation even without coordinates. Player detail reuses published season totals, UEFA registration evidence, roster sources and the existing weekly report. Missing details remain unknown. Country geometry is Natural Earth public-domain data; avoid external map/tile dependencies.
