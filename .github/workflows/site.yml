@@ -76,7 +76,7 @@ jobs:
           node-version: "24"
 
       - name: Verify Sunday-centred report
-        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs tests/uefa-registration.test.cjs tests/player-database.test.cjs
+        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs tests/uefa-registration.test.cjs tests/player-database.test.cjs tests/fotmob-season-totals.test.cjs
 
       - name: Refresh UEFA competition registration
         if: github.event_name != 'push'
