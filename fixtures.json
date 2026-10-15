@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T04:49:24.858Z",
-  "coverage_from": "2026-10-07T04:49:24.858Z",
-  "coverage_to": "2026-11-12T04:49:24.858Z",
+  "updated_at": "2026-10-15T11:39:20.681Z",
+  "coverage_from": "2026-10-07T11:39:20.681Z",
+  "coverage_to": "2026-11-12T11:39:20.681Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -547,22 +547,6 @@
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
     },
     {
-      "match_id": "5972986",
-      "club_id": 7979,
-      "home": "Urartu FC",
-      "home_id": 7979,
-      "away": "Van",
-      "away_id": 1078400,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-10-17T13:00:00.000Z",
-      "kickoff_local": "2026-10-17T17:00:00",
-      "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-van/7j3cdxjx#5972986",
-      "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
-    },
-    {
       "match_id": "5881194",
       "club_id": 9905,
       "home": "Schalke 04",
@@ -593,6 +577,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/mainz-05-vs-schalke-04/3c7ieq#5881194",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
+    },
+    {
+      "match_id": "5972986",
+      "club_id": 7979,
+      "home": "Urartu FC",
+      "home_id": 7979,
+      "away": "Van",
+      "away_id": 1078400,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-10-17T14:00:00.000Z",
+      "kickoff_local": "2026-10-17T18:00:00",
+      "venue_timezone": "Asia/Yerevan",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-van/7j3cdxjx#5972986",
+      "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
     },
     {
       "match_id": "5836875",
@@ -6099,22 +6099,6 @@
       "team_source_url": "https://www.fotmob.com/teams/1957/fixtures/team"
     },
     {
-      "match_id": "5868533",
-      "club_id": 8306,
-      "home": "Las Palmas",
-      "home_id": 8306,
-      "away": "Eldense",
-      "away_id": 8288,
-      "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-08T14:00:00.000Z",
-      "kickoff_local": "2026-11-08T14:00:00",
-      "venue_timezone": "Atlantic/Canary",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
-      "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
-    },
-    {
       "match_id": "5802988",
       "club_id": 8639,
       "home": "Rennes",
@@ -6193,38 +6177,6 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/brentford-vs-brighton-hove-albion/3crs0s#5795506",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
-    },
-    {
-      "match_id": "5868535",
-      "club_id": 10281,
-      "home": "Sporting Gijón",
-      "home_id": 9869,
-      "away": "Real Valladolid",
-      "away_id": 10281,
-      "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-08T14:00:00.000Z",
-      "kickoff_local": "2026-11-08T15:00:00",
-      "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
-      "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
-    },
-    {
-      "match_id": "5868534",
-      "club_id": 161744,
-      "home": "Sabadell",
-      "home_id": 4033,
-      "away": "Real Sociedad B",
-      "away_id": 161744,
-      "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-08T14:00:00.000Z",
-      "kickoff_local": "2026-11-08T15:00:00",
-      "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
-      "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
     },
     {
       "match_id": "5811802",
@@ -6435,6 +6387,22 @@
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
     },
     {
+      "match_id": "5868533",
+      "club_id": 8306,
+      "home": "Las Palmas",
+      "home_id": 8306,
+      "away": "Eldense",
+      "away_id": 8288,
+      "competition": "LaLiga2",
+      "kickoff_utc": "2026-11-08T17:30:00.000Z",
+      "kickoff_local": "2026-11-08T17:30:00",
+      "venue_timezone": "Atlantic/Canary",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
+      "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
+    },
+    {
       "match_id": "5811805",
       "club_id": 9987,
       "home": "Union St.Gilloise",
@@ -6449,6 +6417,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-genk/2o34zy#5811805",
       "team_source_url": "https://www.fotmob.com/teams/9987/fixtures/team"
+    },
+    {
+      "match_id": "5868535",
+      "club_id": 10281,
+      "home": "Sporting Gijón",
+      "home_id": 9869,
+      "away": "Real Valladolid",
+      "away_id": 10281,
+      "competition": "LaLiga2",
+      "kickoff_utc": "2026-11-08T17:30:00.000Z",
+      "kickoff_local": "2026-11-08T18:30:00",
+      "venue_timezone": "Europe/Madrid",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
+      "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
     },
     {
       "match_id": "5811807",
@@ -6497,6 +6481,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-schalke-04/2syjsa#5881219",
       "team_source_url": "https://www.fotmob.com/teams/10189/fixtures/team"
+    },
+    {
+      "match_id": "5868534",
+      "club_id": 161744,
+      "home": "Sabadell",
+      "home_id": 4033,
+      "away": "Real Sociedad B",
+      "away_id": 161744,
+      "competition": "LaLiga2",
+      "kickoff_utc": "2026-11-09T19:30:00.000Z",
+      "kickoff_local": "2026-11-09T20:30:00",
+      "venue_timezone": "Europe/Madrid",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
+      "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
     }
   ]
 }
