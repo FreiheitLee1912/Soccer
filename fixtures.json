@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T04:40:24.425Z",
-  "coverage_from": "2026-10-08T04:40:24.425Z",
-  "coverage_to": "2026-11-13T04:40:24.425Z",
+  "updated_at": "2026-10-16T11:33:04.736Z",
+  "coverage_from": "2026-10-08T11:33:04.736Z",
+  "coverage_to": "2026-11-13T11:33:04.736Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -931,22 +931,6 @@
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
     },
     {
-      "match_id": "6315950",
-      "club_id": 158085,
-      "home": "CF Os Belenenses",
-      "home_id": 1296841,
-      "away": "Arouca",
-      "away_id": 158085,
-      "competition": "Taca de Portugal",
-      "kickoff_utc": "2026-10-18T13:00:00.000Z",
-      "kickoff_local": "2026-10-18T14:00:00",
-      "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/arouca-vs-cf-os-belenenses/di83fqxa#6315950",
-      "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
-    },
-    {
       "match_id": "5162080",
       "club_id": 981193,
       "home": "Riga FC",
@@ -1233,6 +1217,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/lyon-vs-nice/364jld#5802960",
       "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
+    },
+    {
+      "match_id": "6315950",
+      "club_id": 158085,
+      "home": "CF Os Belenenses",
+      "home_id": 1296841,
+      "away": "Arouca",
+      "away_id": 158085,
+      "competition": "Taca de Portugal",
+      "kickoff_utc": "2026-10-18T18:45:00.000Z",
+      "kickoff_local": "2026-10-18T19:45:00",
+      "venue_timezone": "Europe/Lisbon",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/arouca-vs-cf-os-belenenses/di83fqxa#6315950",
+      "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
     },
     {
       "match_id": "5162078",
@@ -4490,8 +4490,8 @@
       "away": "UTA Arad",
       "away_id": 584663,
       "competition": "Superliga",
-      "kickoff_utc": "2026-11-01T19:00:00.000Z",
-      "kickoff_local": "2026-11-01T21:00:00",
+      "kickoff_utc": "2026-11-01T18:30:00.000Z",
+      "kickoff_local": "2026-11-01T20:30:00",
       "venue_timezone": "Europe/Bucharest",
       "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
