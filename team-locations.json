@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:42:28.783Z",
+  "updated_at": "2026-10-17T20:42:43.586Z",
   "teams": [
     {
       "club_id": 8463,
@@ -10,7 +10,7 @@
       "latitude": 53.777833534,
       "longitude": -1.572278738,
       "source_url": "https://www.fotmob.com/teams/8463/overview/team",
-      "checked_at": "2026-10-17T15:42:08.242Z"
+      "checked_at": "2026-10-17T20:42:23.280Z"
     },
     {
       "club_id": 9902,
@@ -21,7 +21,7 @@
       "latitude": 52.054949657,
       "longitude": 1.145263016,
       "source_url": "https://www.fotmob.com/teams/9902/overview/team",
-      "checked_at": "2026-10-17T15:42:08.395Z"
+      "checked_at": "2026-10-17T20:42:23.881Z"
     },
     {
       "club_id": 8667,
@@ -32,7 +32,7 @@
       "latitude": 53.746239635,
       "longitude": -0.367639661,
       "source_url": "https://www.fotmob.com/teams/8667/overview/team",
-      "checked_at": "2026-10-17T15:42:09.065Z"
+      "checked_at": "2026-10-17T20:42:23.937Z"
     },
     {
       "club_id": 10252,
@@ -43,7 +43,7 @@
       "latitude": 52.509090736,
       "longitude": -1.884841919,
       "source_url": "https://www.fotmob.com/teams/10252/overview/team",
-      "checked_at": "2026-10-17T15:42:09.572Z"
+      "checked_at": "2026-10-17T20:42:23.116Z"
     },
     {
       "club_id": 9826,
@@ -54,7 +54,7 @@
       "latitude": 51.398278578,
       "longitude": -0.085503459,
       "source_url": "https://www.fotmob.com/teams/9826/overview/team",
-      "checked_at": "2026-10-17T15:42:08.474Z"
+      "checked_at": "2026-10-17T20:42:23.394Z"
     },
     {
       "club_id": 8669,
@@ -65,7 +65,7 @@
       "latitude": 52.448111389,
       "longitude": -1.495629251,
       "source_url": "https://www.fotmob.com/teams/8669/overview/team",
-      "checked_at": "2026-10-17T15:42:09.911Z"
+      "checked_at": "2026-10-17T20:42:24.558Z"
     },
     {
       "club_id": 10204,
@@ -76,7 +76,7 @@
       "latitude": 50.861579551,
       "longitude": -0.083642006,
       "source_url": "https://www.fotmob.com/teams/10204/overview/team",
-      "checked_at": "2026-10-17T15:42:09.687Z"
+      "checked_at": "2026-10-17T20:42:25.071Z"
     },
     {
       "club_id": 8650,
@@ -87,7 +87,7 @@
       "latitude": 53.430827885,
       "longitude": -2.960852981,
       "source_url": "https://www.fotmob.com/teams/8650/overview/team",
-      "checked_at": "2026-10-17T15:42:10.110Z"
+      "checked_at": "2026-10-17T20:42:25.217Z"
     },
     {
       "club_id": 8655,
@@ -98,7 +98,7 @@
       "latitude": 53.728578814,
       "longitude": -2.489207983,
       "source_url": "https://www.fotmob.com/teams/8655/overview/team",
-      "checked_at": "2026-10-17T15:42:11.380Z"
+      "checked_at": "2026-10-17T20:42:25.734Z"
     },
     {
       "club_id": 8658,
@@ -109,7 +109,7 @@
       "latitude": 52.47573289,
       "longitude": -1.868104935,
       "source_url": "https://www.fotmob.com/teams/8658/overview/team",
-      "checked_at": "2026-10-17T15:42:11.013Z"
+      "checked_at": "2026-10-17T20:42:25.469Z"
     },
     {
       "club_id": 8466,
@@ -120,7 +120,7 @@
       "latitude": 50.905894751,
       "longitude": -1.391047239,
       "source_url": "https://www.fotmob.com/teams/8466/overview/team",
-      "checked_at": "2026-10-17T15:42:10.974Z"
+      "checked_at": "2026-10-17T20:42:26.229Z"
     },
     {
       "club_id": 10172,
@@ -131,7 +131,7 @@
       "latitude": 51.509264976,
       "longitude": -0.232138485,
       "source_url": "https://www.fotmob.com/teams/10172/overview/team",
-      "checked_at": "2026-10-17T15:42:11.356Z"
+      "checked_at": "2026-10-17T20:42:27.105Z"
     },
     {
       "club_id": 8427,
@@ -142,7 +142,7 @@
       "latitude": 51.440122578,
       "longitude": -2.62027815,
       "source_url": "https://www.fotmob.com/teams/8427/overview/team",
-      "checked_at": "2026-10-17T15:42:11.119Z"
+      "checked_at": "2026-10-17T20:42:26.282Z"
     },
     {
       "club_id": 8191,
@@ -153,7 +153,7 @@
       "latitude": 53.788983867,
       "longitude": -2.230224609,
       "source_url": "https://www.fotmob.com/teams/8191/overview/team",
-      "checked_at": "2026-10-17T15:42:12.566Z"
+      "checked_at": "2026-10-17T20:42:26.930Z"
     },
     {
       "club_id": 8559,
@@ -164,7 +164,7 @@
       "latitude": 53.580584154,
       "longitude": -2.535661161,
       "source_url": "https://www.fotmob.com/teams/8559/overview/team",
-      "checked_at": "2026-10-17T15:42:12.581Z"
+      "checked_at": "2026-10-17T20:42:27.178Z"
     },
     {
       "club_id": 8560,
@@ -175,7 +175,7 @@
       "latitude": 43.301375816,
       "longitude": -1.97360158,
       "source_url": "https://www.fotmob.com/teams/8560/overview/team",
-      "checked_at": "2026-10-17T15:42:12.922Z"
+      "checked_at": "2026-10-17T20:42:27.405Z"
     },
     {
       "club_id": 9810,
@@ -186,7 +186,7 @@
       "latitude": 50.06857736,
       "longitude": 8.645448312,
       "source_url": "https://www.fotmob.com/teams/9810/overview/team",
-      "checked_at": "2026-10-17T15:42:12.874Z"
+      "checked_at": "2026-10-17T20:42:28.631Z"
     },
     {
       "club_id": 10267,
@@ -197,7 +197,7 @@
       "latitude": 39.474601503,
       "longitude": -0.358257294,
       "source_url": "https://www.fotmob.com/teams/10267/overview/team",
-      "checked_at": "2026-10-17T15:42:12.946Z"
+      "checked_at": "2026-10-17T20:42:27.313Z"
     },
     {
       "club_id": 9788,
@@ -208,7 +208,7 @@
       "latitude": 51.174648171,
       "longitude": 6.385320425,
       "source_url": "https://www.fotmob.com/teams/9788/overview/team",
-      "checked_at": "2026-10-17T15:42:13.699Z"
+      "checked_at": "2026-10-17T20:42:28.696Z"
     },
     {
       "club_id": 9905,
@@ -219,7 +219,7 @@
       "latitude": 49.984627,
       "longitude": 8.224125,
       "source_url": "https://www.fotmob.com/teams/9905/overview/team",
-      "checked_at": "2026-10-17T15:42:14.252Z"
+      "checked_at": "2026-10-17T20:42:28.591Z"
     },
     {
       "club_id": 10189,
@@ -230,7 +230,7 @@
       "latitude": 51.554580973,
       "longitude": 7.06738472,
       "source_url": "https://www.fotmob.com/teams/10189/overview/team",
-      "checked_at": "2026-10-17T15:42:14.019Z"
+      "checked_at": "2026-10-17T20:42:28.855Z"
     },
     {
       "club_id": 8358,
@@ -241,7 +241,7 @@
       "latitude": 48.021617675,
       "longitude": 7.829695355,
       "source_url": "https://www.fotmob.com/teams/8358/overview/team",
-      "checked_at": "2026-10-17T15:42:14.660Z"
+      "checked_at": "2026-10-17T20:42:28.783Z"
     },
     {
       "club_id": 8226,
@@ -252,7 +252,7 @@
       "latitude": 49.23800529,
       "longitude": 8.88774097,
       "source_url": "https://www.fotmob.com/teams/8226/overview/team",
-      "checked_at": "2026-10-17T15:42:13.007Z"
+      "checked_at": "2026-10-17T20:42:28.671Z"
     },
     {
       "club_id": 8529,
@@ -263,7 +263,7 @@
       "latitude": 39.199802357,
       "longitude": 9.137473349,
       "source_url": "https://www.fotmob.com/teams/8529/overview/team",
-      "checked_at": "2026-10-17T15:42:15.273Z"
+      "checked_at": "2026-10-17T20:42:30.166Z"
     },
     {
       "club_id": 9823,
@@ -274,7 +274,7 @@
       "latitude": 48.218779054,
       "longitude": 11.624743491,
       "source_url": "https://www.fotmob.com/teams/9823/overview/team",
-      "checked_at": "2026-10-17T15:42:14.323Z"
+      "checked_at": "2026-10-17T20:42:29.828Z"
     },
     {
       "club_id": 9746,
@@ -285,7 +285,7 @@
       "latitude": 49.498869432,
       "longitude": 0.169708751,
       "source_url": "https://www.fotmob.com/teams/9746/overview/team",
-      "checked_at": "2026-10-17T15:42:15.869Z"
+      "checked_at": "2026-10-17T20:42:30.206Z"
     },
     {
       "club_id": 9829,
@@ -296,7 +296,7 @@
       "latitude": 43.727563789,
       "longitude": 7.415542156,
       "source_url": "https://www.fotmob.com/teams/9829/overview/team",
-      "checked_at": "2026-10-17T15:42:15.877Z"
+      "checked_at": "2026-10-17T20:42:30.994Z"
     },
     {
       "club_id": 9748,
@@ -307,7 +307,7 @@
       "latitude": 45.765310356,
       "longitude": 4.982063884,
       "source_url": "https://www.fotmob.com/teams/9748/overview/team",
-      "checked_at": "2026-10-17T15:42:14.393Z"
+      "checked_at": "2026-10-17T20:42:28.925Z"
     },
     {
       "club_id": 8639,
@@ -318,7 +318,7 @@
       "latitude": 50.611965136,
       "longitude": 3.13048391,
       "source_url": "https://www.fotmob.com/teams/8639/overview/team",
-      "checked_at": "2026-10-17T15:42:15.890Z"
+      "checked_at": "2026-10-17T20:42:31.298Z"
     },
     {
       "club_id": 9997,
@@ -329,7 +329,7 @@
       "latitude": 50.813514239,
       "longitude": 5.166256428,
       "source_url": "https://www.fotmob.com/teams/9997/overview/team",
-      "checked_at": "2026-10-17T15:42:16.352Z"
+      "checked_at": "2026-10-17T20:42:31.428Z"
     },
     {
       "club_id": 9988,
@@ -340,7 +340,7 @@
       "latitude": 51.232405431,
       "longitude": 4.472100735,
       "source_url": "https://www.fotmob.com/teams/9988/overview/team",
-      "checked_at": "2026-10-17T15:42:16.723Z"
+      "checked_at": "2026-10-17T20:42:31.497Z"
     },
     {
       "club_id": 9987,
@@ -351,7 +351,7 @@
       "latitude": 51.005019498,
       "longitude": 5.533246994,
       "source_url": "https://www.fotmob.com/teams/9987/overview/team",
-      "checked_at": "2026-10-17T15:42:17.558Z"
+      "checked_at": "2026-10-17T20:42:32.540Z"
     },
     {
       "club_id": 10001,
@@ -362,7 +362,7 @@
       "latitude": 51.09477675,
       "longitude": 4.928827286,
       "source_url": "https://www.fotmob.com/teams/10001/overview/team",
-      "checked_at": "2026-10-17T15:42:17.713Z"
+      "checked_at": "2026-10-17T20:42:31.825Z"
     },
     {
       "club_id": 8571,
@@ -373,7 +373,7 @@
       "latitude": 50.830363736,
       "longitude": 3.248949051,
       "source_url": "https://www.fotmob.com/teams/8571/overview/team",
-      "checked_at": "2026-10-17T15:42:17.860Z"
+      "checked_at": "2026-10-17T20:42:32.649Z"
     },
     {
       "club_id": 7978,
@@ -384,7 +384,7 @@
       "latitude": 50.817764464,
       "longitude": 4.329294562,
       "source_url": "https://www.fotmob.com/teams/7978/overview/team",
-      "checked_at": "2026-10-17T15:42:16.412Z"
+      "checked_at": "2026-10-17T20:42:31.490Z"
     },
     {
       "club_id": 1773,
@@ -395,7 +395,7 @@
       "latitude": 50.86829689,
       "longitude": 4.694391489,
       "source_url": "https://www.fotmob.com/teams/1773/overview/team",
-      "checked_at": "2026-10-17T15:42:18.169Z"
+      "checked_at": "2026-10-17T20:42:32.596Z"
     },
     {
       "club_id": 9986,
@@ -406,7 +406,7 @@
       "latitude": 50.41460943,
       "longitude": 4.453781247,
       "source_url": "https://www.fotmob.com/teams/9986/overview/team",
-      "checked_at": "2026-10-17T15:42:18.477Z"
+      "checked_at": "2026-10-17T20:42:33.151Z"
     },
     {
       "club_id": 158085,
@@ -417,7 +417,7 @@
       "latitude": 40.932887309,
       "longitude": -8.250399828,
       "source_url": "https://www.fotmob.com/teams/158085/overview/team",
-      "checked_at": "2026-10-17T15:42:18.835Z"
+      "checked_at": "2026-10-17T20:42:33.358Z"
     },
     {
       "club_id": 10229,
@@ -428,7 +428,7 @@
       "latitude": 52.612735728,
       "longitude": 4.742102623,
       "source_url": "https://www.fotmob.com/teams/10229/overview/team",
-      "checked_at": "2026-10-17T15:42:17.780Z"
+      "checked_at": "2026-10-17T20:42:32.614Z"
     },
     {
       "club_id": 681217,
@@ -439,7 +439,7 @@
       "latitude": 52.612735728,
       "longitude": 4.742102623,
       "source_url": "https://www.fotmob.com/teams/681217/overview/team",
-      "checked_at": "2026-10-17T15:42:18.916Z"
+      "checked_at": "2026-10-17T20:42:34.335Z"
     },
     {
       "club_id": 8640,
@@ -450,7 +450,7 @@
       "latitude": 51.441630196,
       "longitude": 5.467452407,
       "source_url": "https://www.fotmob.com/teams/8640/overview/team",
-      "checked_at": "2026-10-17T15:42:20.344Z"
+      "checked_at": "2026-10-17T20:42:33.829Z"
     },
     {
       "club_id": 8548,
@@ -461,7 +461,7 @@
       "latitude": 55.853210923,
       "longitude": -4.309282601,
       "source_url": "https://www.fotmob.com/teams/8548/overview/team",
-      "checked_at": "2026-10-17T15:42:20.173Z"
+      "checked_at": "2026-10-17T20:42:34.631Z"
     },
     {
       "club_id": 8614,
@@ -472,7 +472,7 @@
       "latitude": 51.919430733,
       "longitude": 4.4336164,
       "source_url": "https://www.fotmob.com/teams/8614/overview/team",
-      "checked_at": "2026-10-17T15:42:19.599Z"
+      "checked_at": "2026-10-17T20:42:34.214Z"
     },
     {
       "club_id": 10235,
@@ -483,7 +483,7 @@
       "latitude": 51.89385454,
       "longitude": 4.523191452,
       "source_url": "https://www.fotmob.com/teams/10235/overview/team",
-      "checked_at": "2026-10-17T15:42:19.352Z"
+      "checked_at": "2026-10-17T20:42:33.880Z"
     },
     {
       "club_id": 10013,
@@ -494,7 +494,7 @@
       "latitude": 47.816293982,
       "longitude": 12.99818337,
       "source_url": "https://www.fotmob.com/teams/10013/overview/team",
-      "checked_at": "2026-10-17T15:42:19.002Z"
+      "checked_at": "2026-10-17T20:42:33.903Z"
     },
     {
       "club_id": 8391,
@@ -505,7 +505,7 @@
       "latitude": 55.702717828,
       "longitude": 12.572290823,
       "source_url": "https://www.fotmob.com/teams/8391/overview/team",
-      "checked_at": "2026-10-17T15:42:20.538Z"
+      "checked_at": "2026-10-17T20:42:35.549Z"
     },
     {
       "club_id": 9931,
@@ -516,7 +516,7 @@
       "latitude": 47.541586612,
       "longitude": 7.620060593,
       "source_url": "https://www.fotmob.com/teams/9931/overview/team",
-      "checked_at": "2026-10-17T15:42:20.362Z"
+      "checked_at": "2026-10-17T20:42:35.238Z"
     },
     {
       "club_id": 8595,
@@ -527,7 +527,7 @@
       "latitude": 55.648982012,
       "longitude": 12.418624386,
       "source_url": "https://www.fotmob.com/teams/8595/overview/team",
-      "checked_at": "2026-10-17T15:42:20.982Z"
+      "checked_at": "2026-10-17T20:42:35.698Z"
     },
     {
       "club_id": 1957,
@@ -538,7 +538,7 @@
       "latitude": 53.106005818,
       "longitude": 23.149094582,
       "source_url": "https://www.fotmob.com/teams/1957/overview/team",
-      "checked_at": "2026-10-17T15:42:20.261Z"
+      "checked_at": "2026-10-17T20:42:34.411Z"
     },
     {
       "club_id": 8673,
@@ -549,7 +549,7 @@
       "latitude": 52.220497698,
       "longitude": 21.040513515,
       "source_url": "https://www.fotmob.com/teams/8673/overview/team",
-      "checked_at": "2026-10-17T15:42:22.032Z"
+      "checked_at": "2026-10-17T20:42:36.148Z"
     },
     {
       "club_id": 9904,
@@ -560,7 +560,7 @@
       "latitude": 52.359990781,
       "longitude": 9.731213897,
       "source_url": "https://www.fotmob.com/teams/9904/overview/team",
-      "checked_at": "2026-10-17T15:42:22.385Z"
+      "checked_at": "2026-10-17T20:42:37.122Z"
     },
     {
       "club_id": 8262,
@@ -571,7 +571,7 @@
       "latitude": 49.857681931,
       "longitude": 8.672399819,
       "source_url": "https://www.fotmob.com/teams/8262/overview/team",
-      "checked_at": "2026-10-17T15:42:21.918Z"
+      "checked_at": "2026-10-17T20:42:36.720Z"
     },
     {
       "club_id": 8150,
@@ -582,7 +582,7 @@
       "latitude": 54.349132768,
       "longitude": 10.123657286,
       "source_url": "https://www.fotmob.com/teams/8150/overview/team",
-      "checked_at": "2026-10-17T15:42:21.765Z"
+      "checked_at": "2026-10-17T20:42:36.528Z"
     },
     {
       "club_id": 9911,
@@ -593,7 +593,7 @@
       "latitude": 51.489881081,
       "longitude": 7.23653689,
       "source_url": "https://www.fotmob.com/teams/9911/overview/team",
-      "checked_at": "2026-10-17T15:42:22.842Z"
+      "checked_at": "2026-10-17T20:42:37.623Z"
     },
     {
       "club_id": 8721,
@@ -604,7 +604,7 @@
       "latitude": 52.432820127,
       "longitude": 10.803530216,
       "source_url": "https://www.fotmob.com/teams/8721/overview/team",
-      "checked_at": "2026-10-17T15:42:22.622Z"
+      "checked_at": "2026-10-17T20:42:37.730Z"
     },
     {
       "club_id": 8152,
@@ -615,7 +615,7 @@
       "latitude": 53.554577759,
       "longitude": 9.967689514,
       "source_url": "https://www.fotmob.com/teams/8152/overview/team",
-      "checked_at": "2026-10-17T15:42:23.465Z"
+      "checked_at": "2026-10-17T20:42:38.308Z"
     },
     {
       "club_id": 8357,
@@ -626,7 +626,7 @@
       "latitude": 49.48696673,
       "longitude": 10.999256372,
       "source_url": "https://www.fotmob.com/teams/8357/overview/team",
-      "checked_at": "2026-10-17T15:42:24.382Z"
+      "checked_at": "2026-10-17T20:42:38.320Z"
     },
     {
       "club_id": 8295,
@@ -637,7 +637,7 @@
       "latitude": 49.020016197,
       "longitude": 8.413024164,
       "source_url": "https://www.fotmob.com/teams/8295/overview/team",
-      "checked_at": "2026-10-17T15:42:23.507Z"
+      "checked_at": "2026-10-17T20:42:38.656Z"
     },
     {
       "club_id": 8306,
@@ -648,7 +648,7 @@
       "latitude": 28.100362345,
       "longitude": -15.456706882,
       "source_url": "https://www.fotmob.com/teams/8306/overview/team",
-      "checked_at": "2026-10-17T15:42:24.070Z"
+      "checked_at": "2026-10-17T20:42:39.054Z"
     },
     {
       "club_id": 161744,
@@ -659,7 +659,7 @@
       "latitude": 43.257764342,
       "longitude": -2.025990486,
       "source_url": "https://www.fotmob.com/teams/161744/overview/team",
-      "checked_at": "2026-10-17T15:42:24.829Z"
+      "checked_at": "2026-10-17T20:42:39.297Z"
     },
     {
       "club_id": 274583,
@@ -670,7 +670,7 @@
       "latitude": 50.994408861,
       "longitude": 5.703749657,
       "source_url": "https://www.fotmob.com/teams/274583/overview/team",
-      "checked_at": "2026-10-17T15:42:25.358Z"
+      "checked_at": "2026-10-17T20:42:40.334Z"
     },
     {
       "club_id": 10281,
@@ -681,7 +681,7 @@
       "latitude": 41.644580345,
       "longitude": -4.761264324,
       "source_url": "https://www.fotmob.com/teams/10281/overview/team",
-      "checked_at": "2026-10-17T15:42:24.702Z"
+      "checked_at": "2026-10-17T20:42:39.864Z"
     },
     {
       "club_id": 583877,
@@ -692,7 +692,7 @@
       "latitude": 51.185025882,
       "longitude": 4.381989241,
       "source_url": "https://www.fotmob.com/teams/583877/overview/team",
-      "checked_at": "2026-10-17T15:42:25.072Z"
+      "checked_at": "2026-10-17T20:42:39.871Z"
     },
     {
       "club_id": 1378463,
@@ -703,7 +703,7 @@
       "latitude": 51.170307739,
       "longitude": 4.968355,
       "source_url": "https://www.fotmob.com/teams/1378463/overview/team",
-      "checked_at": "2026-10-17T15:42:25.828Z"
+      "checked_at": "2026-10-17T20:42:40.375Z"
     },
     {
       "club_id": 9765,
@@ -714,7 +714,7 @@
       "latitude": 37.135700417,
       "longitude": -8.539837003,
       "source_url": "https://www.fotmob.com/teams/9765/overview/team",
-      "checked_at": "2026-10-17T15:42:26.066Z"
+      "checked_at": "2026-10-17T20:42:40.225Z"
     },
     {
       "club_id": 1581,
@@ -725,7 +725,7 @@
       "latitude": 46.166189777,
       "longitude": 16.834831238,
       "source_url": "https://www.fotmob.com/teams/1581/overview/team",
-      "checked_at": "2026-10-17T15:42:25.994Z"
+      "checked_at": "2026-10-17T20:42:41.182Z"
     },
     {
       "club_id": 8687,
@@ -736,7 +736,7 @@
       "latitude": 44.783190545,
       "longitude": 20.464900732,
       "source_url": "https://www.fotmob.com/teams/8687/overview/team",
-      "checked_at": "2026-10-17T15:42:27.234Z"
+      "checked_at": "2026-10-17T20:42:41.170Z"
     },
     {
       "club_id": 463461,
@@ -747,7 +747,7 @@
       "latitude": 42.692372234,
       "longitude": 22.165367603,
       "source_url": "https://www.fotmob.com/teams/463461/overview/team",
-      "checked_at": "2026-10-17T15:42:26.438Z"
+      "checked_at": "2026-10-17T20:42:41.200Z"
     },
     {
       "club_id": 584663,
@@ -758,7 +758,7 @@
       "latitude": 46.192606,
       "longitude": 21.311942,
       "source_url": "https://www.fotmob.com/teams/584663/overview/team",
-      "checked_at": "2026-10-17T15:42:26.710Z"
+      "checked_at": "2026-10-17T20:42:41.957Z"
     },
     {
       "club_id": 213987,
@@ -769,7 +769,7 @@
       "latitude": 40.603192822,
       "longitude": 49.673057199,
       "source_url": "https://www.fotmob.com/teams/213987/overview/team",
-      "checked_at": "2026-10-17T15:42:27.274Z"
+      "checked_at": "2026-10-17T20:42:41.406Z"
     },
     {
       "club_id": 866111,
@@ -780,7 +780,7 @@
       "latitude": 40.268491358,
       "longitude": 44.635428786,
       "source_url": "https://www.fotmob.com/teams/866111/overview/team",
-      "checked_at": "2026-10-17T15:42:27.504Z"
+      "checked_at": "2026-10-17T20:42:42.405Z"
     },
     {
       "club_id": 197870,
@@ -791,7 +791,7 @@
       "latitude": 56.965114245,
       "longitude": 23.139428484,
       "source_url": "https://www.fotmob.com/teams/197870/overview/team",
-      "checked_at": "2026-10-17T15:42:27.818Z"
+      "checked_at": "2026-10-17T20:42:42.483Z"
     },
     {
       "club_id": 7979,
@@ -802,7 +802,7 @@
       "latitude": 40.171388862,
       "longitude": 44.449996948,
       "source_url": "https://www.fotmob.com/teams/7979/overview/team",
-      "checked_at": "2026-10-17T15:42:27.195Z"
+      "checked_at": "2026-10-17T20:42:42.189Z"
     },
     {
       "club_id": 981193,
@@ -813,7 +813,7 @@
       "latitude": 56.949585257,
       "longitude": 23.610187769,
       "source_url": "https://www.fotmob.com/teams/981193/overview/team",
-      "checked_at": "2026-10-17T15:42:28.209Z"
+      "checked_at": "2026-10-17T20:42:42.276Z"
     },
     {
       "club_id": 662738,
@@ -824,7 +824,7 @@
       "latitude": 56.538369506,
       "longitude": 21.170868874,
       "source_url": "https://www.fotmob.com/teams/662738/overview/team",
-      "checked_at": "2026-10-17T15:42:28.333Z"
+      "checked_at": "2026-10-17T20:42:42.994Z"
     },
     {
       "club_id": 969268,
@@ -835,7 +835,7 @@
       "latitude": 48.696780843,
       "longitude": 21.245129694,
       "source_url": "https://www.fotmob.com/teams/969268/overview/team",
-      "checked_at": "2026-10-17T15:42:28.578Z"
+      "checked_at": "2026-10-17T20:42:43.329Z"
     },
     {
       "club_id": 6019,
@@ -846,7 +846,7 @@
       "latitude": 48.163494936,
       "longitude": 17.136697769,
       "source_url": "https://www.fotmob.com/teams/6019/overview/team",
-      "checked_at": "2026-10-17T15:42:28.783Z"
+      "checked_at": "2026-10-17T20:42:43.586Z"
     }
   ],
   "errors": []
