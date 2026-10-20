@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T04:59:22.452Z",
-  "coverage_from": "2026-10-12T04:59:22.452Z",
-  "coverage_to": "2026-11-17T04:59:22.452Z",
+  "updated_at": "2026-10-20T11:48:08.588Z",
+  "coverage_from": "2026-10-12T11:48:08.588Z",
+  "coverage_to": "2026-11-17T11:48:08.588Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -5059,20 +5059,36 @@
       "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
     },
     {
-      "match_id": "5868540",
-      "club_id": 8306,
-      "home": "Granada",
-      "home_id": 7878,
-      "away": "Las Palmas",
-      "away_id": 8306,
+      "match_id": "5868546",
+      "club_id": 10281,
+      "home": "Real Valladolid",
+      "home_id": 10281,
+      "away": "Castellón",
+      "away_id": 10279,
       "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-15T14:00:00.000Z",
-      "kickoff_local": "2026-11-15T15:00:00",
+      "kickoff_utc": "2026-11-14T13:00:00.000Z",
+      "kickoff_local": "2026-11-14T14:00:00",
       "venue_timezone": "Europe/Madrid",
       "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
+      "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
+      "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
+    },
+    {
+      "match_id": "5868544",
+      "club_id": 161744,
+      "home": "Real Sociedad B",
+      "home_id": 161744,
+      "away": "Sporting Gijón",
+      "away_id": 9869,
+      "competition": "LaLiga2",
+      "kickoff_utc": "2026-11-14T15:15:00.000Z",
+      "kickoff_local": "2026-11-14T16:15:00",
+      "venue_timezone": "Europe/Madrid",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
+      "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
     },
     {
       "match_id": "5888113",
@@ -5091,36 +5107,20 @@
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
     },
     {
-      "match_id": "5868546",
-      "club_id": 10281,
-      "home": "Real Valladolid",
-      "home_id": 10281,
-      "away": "Castellón",
-      "away_id": 10279,
+      "match_id": "5868540",
+      "club_id": 8306,
+      "home": "Granada",
+      "home_id": 7878,
+      "away": "Las Palmas",
+      "away_id": 8306,
       "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-15T14:00:00.000Z",
-      "kickoff_local": "2026-11-15T15:00:00",
+      "kickoff_utc": "2026-11-15T15:15:00.000Z",
+      "kickoff_local": "2026-11-15T16:15:00",
       "venue_timezone": "Europe/Madrid",
       "timezone_basis": "Domestic competition country",
       "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
-    },
-    {
-      "match_id": "5868544",
-      "club_id": 161744,
-      "home": "Real Sociedad B",
-      "home_id": 161744,
-      "away": "Sporting Gijón",
-      "away_id": 9869,
-      "competition": "LaLiga2",
-      "kickoff_utc": "2026-11-15T14:00:00.000Z",
-      "kickoff_local": "2026-11-15T15:00:00",
-      "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "team_source_url": "https://www.fotmob.com/teams/161744/fixtures/team"
+      "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
+      "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
     }
   ]
 }
