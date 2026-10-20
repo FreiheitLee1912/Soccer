@@ -106,21 +106,27 @@ test('UEFA previews require positive registration evidence regardless of matchda
 test('European nonparticipant score renders under its competition within the domestic club filter',()=>{const saved=vm.runInContext('records',ctx);try{vm.runInContext(`records=[{match_id:'uefa-result',player_id:'fm-1053679',league:'Champions League',domestic_league:'Premier League',week:'2026-W42',club:'Aston Villa',club_id:10252,home:'Aston Villa',home_id:10252,away:'Viking',away_id:123,home_goals:2,away_goals:1,status:'Not in match squad',kickoff_local:'2026-10-21T20:00:00',source_url:'https://www.fotmob.com/matches/result'}];league='Premier League';mode='all'`,ctx);elements.search.value='Zion Suzuki';elements.week.value='2026-W42';vm.runInContext('render()',ctx);assert.ok(elements.content.innerHTML.includes('Champions League'));assert.ok(elements.content.innerHTML.includes('Not in match squad'));assert.ok(elements.content.innerHTML.includes('2 – 1'));}finally{ctx.savedRecords=saved;vm.runInContext("records=savedRecords;league='All leagues'",ctx);elements.search.value='';}});
 
 test('Atsuki Ito season summary retains verified scoring totals across report weeks',()=>{vm.runInContext(`totalsData={rows:[{player_id:'fm-1227813',club_id:8559,league:'EFL Championship',season:'2026/2027',apps:4,minutes:157,goals:2,assists:0}]};league='EFL Championship';mode='all'`,ctx);elements.search.value='Atsuki Ito';elements.week.value='2026-W42';vm.runInContext('render()',ctx);assert.equal(vm.runInContext("seasonTotalValue(filtered()[0].p,'goals')",ctx),2);assert.ok(elements.summary.innerHTML.includes('>2</td>'));elements.week.value='2026-W43';vm.runInContext('render()',ctx);assert.equal(vm.runInContext("seasonTotalValue(filtered()[0].p,'goals')",ctx),2);elements.search.value='';vm.runInContext("league='All leagues'",ctx)});
-test('today schedule uses JST midnight and ignores report-week and player filters',()=>{
-  const saved=vm.runInContext('fixtureData',ctx);
-  const savedLeague=vm.runInContext('league',ctx),savedSearch=elements.search.value,savedWeek=elements.week.value;
+test('previous matchday uses JST and results ignore report-week and player filters',()=>{
+  const savedRecords=vm.runInContext('records',ctx),savedLeague=vm.runInContext('league',ctx),savedSearch=elements.search.value,savedWeek=elements.week.value;
   try {
-    vm.runInContext(`fixtureData={updated_at:'2026-10-20',fixtures:[
-      {match_id:'before-midnight',club_id:9826,kickoff_utc:'2026-10-19T14:59:00Z'},
-      {match_id:'at-midnight',club_id:9826,kickoff_utc:'2026-10-19T15:00:00Z'},
-      {match_id:'last-minute',club_id:9826,kickoff_utc:'2026-10-20T14:59:00Z'},
-      {match_id:'tomorrow',club_id:9826,kickoff_utc:'2026-10-20T15:00:00Z'}]};league='Nonexistent league'`,ctx);
+    vm.runInContext(`records=[{player_id:'sample',match_id:'final',kickoff_local:'2026-10-19T20:00:00',source_url:'https://www.fotmob.com/matches/example',home_goals:2,away_goals:1},{player_id:'sample',match_id:'future',kickoff_local:'2026-10-20T20:00:00',source_url:'https://www.fotmob.com/matches/example',home_goals:2,away_goals:1}];league='Nonexistent league'`,ctx);
     elements.search.value='nonexistent player';elements.week.value='2026-W01';
-    assert.equal(vm.runInContext("[...new Set(todayRows(new Date('2026-10-20T03:00:00Z')).map(x=>x.f.match_id))].join(',')",ctx),'at-midnight,last-minute');
+    assert.equal(vm.runInContext("previousMatchday(new Date('2026-10-19T23:00:00Z'))",ctx),'2026-10-19');
+    assert.equal(vm.runInContext("previousMatchday(new Date('2026-12-31T23:00:00Z'))",ctx),'2026-12-31');
+    assert.equal(vm.runInContext("latestResultRows(new Date('2026-10-20T03:00:00Z')).map(x=>x.match_id).join(',')",ctx),'final');
     assert.ok(html.indexOf('id="today-panel"')<html.indexOf('id="stats"'));
+    assert.match(html,/<details[^>]*id="database-toggle"[^>]*>/);
+    assert.doesNotMatch(html,/<details[^>]*id="database-toggle"[^>]*\bopen(?:[\s=>])/);
   } finally {
-    ctx.savedFixtureData=saved;ctx.savedLeague=savedLeague;
-    vm.runInContext('fixtureData=savedFixtureData;league=savedLeague',ctx);
+    ctx.savedRecords=savedRecords;ctx.savedLeague=savedLeague;
+    vm.runInContext('records=savedRecords;league=savedLeague',ctx);
     elements.search.value=savedSearch;elements.week.value=savedWeek;
   }
+});
+test('latest results require final score and source, and deduplicate player/match records',()=>{
+  const savedRecords=vm.runInContext('records',ctx);
+  try {
+    vm.runInContext(`records=[{player_id:'sample',match_id:'final',kickoff_local:'2026-10-19T20:00:00',source_url:'https://www.fotmob.com/matches/example',home_goals:0,away_goals:0}];records.push({...records[0]},{...records[0],match_id:'unknown-score',home_goals:null},{...records[0],match_id:'unsourced',source_url:''})`,ctx);
+    assert.equal(vm.runInContext("latestResultRows(new Date('2026-10-20T03:00:00Z')).length",ctx),1);
+  } finally {ctx.savedRecords=savedRecords;vm.runInContext('records=savedRecords',ctx)}
 });
