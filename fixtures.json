@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T17:17:35.997Z",
-  "coverage_from": "2026-10-12T17:17:35.997Z",
-  "coverage_to": "2026-11-17T17:17:35.997Z",
+  "updated_at": "2026-10-20T21:44:07.777Z",
+  "coverage_from": "2026-10-12T21:44:07.777Z",
+  "coverage_to": "2026-11-17T21:44:07.777Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -82,54 +82,6 @@
     6019
   ],
   "fixtures": [
-    {
-      "match_id": "6106277",
-      "club_id": 6019,
-      "home": "Roma",
-      "home_id": 8686,
-      "away": "Slovan Bratislava",
-      "away_id": 6019,
-      "competition": "Champions League",
-      "kickoff_utc": "2026-10-20T19:00:00.000Z",
-      "kickoff_local": "2026-10-20T21:00:00",
-      "venue_timezone": "Europe/Rome",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-roma/1sdp5j#6106277",
-      "team_source_url": "https://www.fotmob.com/teams/6019/fixtures/team"
-    },
-    {
-      "match_id": "6106287",
-      "club_id": 8640,
-      "home": "FC Porto",
-      "home_id": 9773,
-      "away": "PSV Eindhoven",
-      "away_id": 8640,
-      "competition": "Champions League",
-      "kickoff_utc": "2026-10-20T19:00:00.000Z",
-      "kickoff_local": "2026-10-20T20:00:00",
-      "venue_timezone": "Europe/Lisbon",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-fc-porto/2sxsk8#6106287",
-      "team_source_url": "https://www.fotmob.com/teams/8640/fixtures/team"
-    },
-    {
-      "match_id": "6106248",
-      "club_id": 8650,
-      "home": "Liverpool",
-      "home_id": 8650,
-      "away": "Villarreal",
-      "away_id": 10205,
-      "competition": "Champions League",
-      "kickoff_utc": "2026-10-20T19:00:00.000Z",
-      "kickoff_local": "2026-10-20T20:00:00",
-      "venue_timezone": "Europe/London",
-      "timezone_basis": "Home club country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/liverpool-vs-villarreal/2xuaza#6106248",
-      "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
-    },
     {
       "match_id": "6106312",
       "club_id": 8639,
