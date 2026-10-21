@@ -1,29 +1,21 @@
 {
-  "updated_at": "2026-10-21T12:01:39.273Z",
+  "updated_at": "2026-10-21T17:21:17.784Z",
   "venues": [
     {
-      "match_id": "6106238",
-      "city": "München",
-      "stadium": "Allianz Arena",
+      "match_id": "6112289",
+      "city": "Düsseldorf",
+      "stadium": "Merkur Spiel-Arena",
       "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-arsenal/36xjup#6106238",
-      "checked_at": "2026-10-21T12:00:21.750Z"
+      "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-hapoel-beer-sheva/2llzus#6112289",
+      "checked_at": "2026-10-21T17:19:43.758Z"
     },
     {
-      "match_id": "6106312",
-      "city": "Villeneuve d'Ascq",
-      "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/galatasaray-vs-lille/2guw05#6106312",
-      "checked_at": "2026-10-21T12:00:21.802Z"
-    },
-    {
-      "match_id": "6106300",
-      "city": "Sevilla",
-      "stadium": "Estadio La Cartuja de Sevilla",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/real-betis-vs-feyenoord/2xnfq0#6106300",
-      "checked_at": "2026-10-21T12:00:21.882Z"
+      "match_id": "6106285",
+      "city": "Birmingham",
+      "stadium": "Villa Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/viking-vs-aston-villa/2wfy91#6106285",
+      "checked_at": "2026-10-21T17:19:44.332Z"
     },
     {
       "match_id": "5972989",
@@ -33,52 +25,28 @@
       "checked_at": "2026-10-13T02:52:09.891Z"
     },
     {
-      "match_id": "6112289",
-      "city": "Düsseldorf",
-      "stadium": "Merkur Spiel-Arena",
+      "match_id": "6106312",
+      "city": "Villeneuve d'Ascq",
+      "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/galatasaray-vs-lille/2guw05#6106312",
+      "checked_at": "2026-10-21T17:19:44.572Z"
+    },
+    {
+      "match_id": "6106300",
+      "city": "Sevilla",
+      "stadium": "Estadio La Cartuja de Sevilla",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/real-betis-vs-feyenoord/2xnfq0#6106300",
+      "checked_at": "2026-10-21T17:19:44.577Z"
+    },
+    {
+      "match_id": "6106238",
+      "city": "München",
+      "stadium": "Allianz Arena",
       "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-hapoel-beer-sheva/2llzus#6112289",
-      "checked_at": "2026-10-21T12:00:22.347Z"
-    },
-    {
-      "match_id": "6106285",
-      "city": "Birmingham",
-      "stadium": "Villa Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/viking-vs-aston-villa/2wfy91#6106285",
-      "checked_at": "2026-10-21T12:00:22.980Z"
-    },
-    {
-      "match_id": "6112526",
-      "city": "Jablonec nad Nisou",
-      "stadium": "Stadion Střelnice",
-      "country": "Czech Republic",
-      "source_url": "https://www.fotmob.com/matches/jablonec-vs-brighton-hove-albion/2o1xp1#6112526",
-      "checked_at": "2026-10-21T12:00:23.073Z"
-    },
-    {
-      "match_id": "6112382",
-      "city": "Yerevan",
-      "stadium": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
-      "country": "Armenia",
-      "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-ararat-armenia/4wef0szc#6112382",
-      "checked_at": "2026-10-21T12:00:23.744Z"
-    },
-    {
-      "match_id": "6112350",
-      "city": "Sinsheim",
-      "stadium": "SNP Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-lyon/2o6llt#6112350",
-      "checked_at": "2026-10-21T12:00:23.991Z"
-    },
-    {
-      "match_id": "6112339",
-      "city": "Białystok",
-      "stadium": "Chorten Arena",
-      "country": "Poland",
-      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-anderlecht/xem3v#6112339",
-      "checked_at": "2026-10-21T12:00:23.999Z"
+      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-arsenal/36xjup#6106238",
+      "checked_at": "2026-10-21T17:19:45.054Z"
     },
     {
       "match_id": "6112408",
@@ -86,31 +54,31 @@
       "stadium": "Stadion Rajko Mitić",
       "country": "Serbia",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-fk-crvena-zvezda/2etzp8#6112408",
-      "checked_at": "2026-10-21T12:00:24.174Z"
+      "checked_at": "2026-10-21T17:19:45.743Z"
     },
     {
-      "match_id": "6112374",
-      "city": "Kjeller",
-      "stadium": "Åråsen Stadion",
-      "country": "Norway",
-      "source_url": "https://www.fotmob.com/matches/lillestrom-vs-real-sociedad/2eemta#6112374",
-      "checked_at": "2026-10-21T12:00:24.900Z"
+      "match_id": "6112382",
+      "city": "Yerevan",
+      "stadium": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
+      "country": "Armenia",
+      "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-ararat-armenia/4wef0szc#6112382",
+      "checked_at": "2026-10-21T17:19:46.246Z"
     },
     {
-      "match_id": "6112335",
-      "city": "Celje",
-      "stadium": "Stadion Z'dežele",
-      "country": "Slovenia",
-      "source_url": "https://www.fotmob.com/matches/nk-celje-vs-salzburg/1rrlmo#6112335",
-      "checked_at": "2026-10-21T12:00:25.585Z"
+      "match_id": "6112526",
+      "city": "Jablonec nad Nisou",
+      "stadium": "Stadion Střelnice",
+      "country": "Czech Republic",
+      "source_url": "https://www.fotmob.com/matches/jablonec-vs-brighton-hove-albion/2o1xp1#6112526",
+      "checked_at": "2026-10-21T17:19:46.477Z"
     },
     {
-      "match_id": "6112356",
-      "city": "İstanbul",
-      "stadium": "Tüpraş Stadyumu",
-      "country": "Türkiye",
-      "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-besiktas/3b94ez#6112356",
-      "checked_at": "2026-10-21T12:00:25.604Z"
+      "match_id": "6112339",
+      "city": "Białystok",
+      "stadium": "Chorten Arena",
+      "country": "Poland",
+      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-anderlecht/xem3v#6112339",
+      "checked_at": "2026-10-21T17:19:46.956Z"
     },
     {
       "match_id": "6112399",
@@ -118,7 +86,31 @@
       "stadium": "Stade Louis-II",
       "country": "",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-monaco/2qh5bb#6112399",
-      "checked_at": "2026-10-21T12:00:25.618Z"
+      "checked_at": "2026-10-21T17:19:47.047Z"
+    },
+    {
+      "match_id": "6112350",
+      "city": "Sinsheim",
+      "stadium": "SNP Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-lyon/2o6llt#6112350",
+      "checked_at": "2026-10-21T17:19:47.612Z"
+    },
+    {
+      "match_id": "6112374",
+      "city": "Kjeller",
+      "stadium": "Åråsen Stadion",
+      "country": "Norway",
+      "source_url": "https://www.fotmob.com/matches/lillestrom-vs-real-sociedad/2eemta#6112374",
+      "checked_at": "2026-10-21T17:19:47.699Z"
+    },
+    {
+      "match_id": "6112356",
+      "city": "İstanbul",
+      "stadium": "Tüpraş Stadyumu",
+      "country": "Türkiye",
+      "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-besiktas/3b94ez#6112356",
+      "checked_at": "2026-10-21T17:19:48.396Z"
     },
     {
       "match_id": "6112406",
@@ -126,7 +118,7 @@
       "stadium": "MCH Arena",
       "country": "Denmark",
       "source_url": "https://www.fotmob.com/matches/fc-midtjylland-vs-sttruiden/2pn75a#6112406",
-      "checked_at": "2026-10-21T12:00:25.688Z"
+      "checked_at": "2026-10-21T17:19:48.625Z"
     },
     {
       "match_id": "5987544",
@@ -136,36 +128,12 @@
       "checked_at": "2026-10-13T02:51:58.484Z"
     },
     {
-      "match_id": "5881205",
-      "city": "Stuttgart",
-      "stadium": "MHPArena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-vfb-stuttgart/3brl5t#5881205",
-      "checked_at": "2026-10-21T12:00:26.074Z"
-    },
-    {
-      "match_id": "1000015159",
-      "city": "Kragujevac",
-      "stadium": "Stadion Čika Dača",
-      "country": "Serbia",
-      "source_url": "https://www.fotmob.com/matches/fk-radnicki-1923-vs-fk-radnik-surdulica/1dp1gndp#1000015159",
-      "checked_at": "2026-10-21T12:00:26.673Z"
-    },
-    {
-      "match_id": "5739531",
-      "city": "Randers",
-      "stadium": "Cepheus Park Randers",
-      "country": "Denmark",
-      "source_url": "https://www.fotmob.com/matches/randers-fc-vs-brondby-if/2e3bpa#5739531",
-      "checked_at": "2026-10-21T12:00:27.046Z"
-    },
-    {
-      "match_id": "5832920",
-      "city": "Wijdewormer",
-      "stadium": "AFAS Trainingscomplex",
-      "country": "Netherlands",
-      "source_url": "https://www.fotmob.com/matches/helmond-sport-vs-jong-az-alkmaar/30lz4m98#5832920",
-      "checked_at": "2026-10-21T12:00:27.213Z"
+      "match_id": "6112335",
+      "city": "Celje",
+      "stadium": "Stadion Z'dežele",
+      "country": "Slovenia",
+      "source_url": "https://www.fotmob.com/matches/nk-celje-vs-salzburg/1rrlmo#6112335",
+      "checked_at": "2026-10-21T17:19:49.172Z"
     },
     {
       "match_id": "5881701",
@@ -173,7 +141,7 @@
       "stadium": "Merck-Stadion am Böllenfalltor",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-darmstadt/287ndj#5881701",
-      "checked_at": "2026-10-21T12:00:27.277Z"
+      "checked_at": "2026-10-21T17:19:49.832Z"
     },
     {
       "match_id": "5881699",
@@ -181,7 +149,15 @@
       "stadium": "Ruhrstadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-bochum/2vcqpn#5881699",
-      "checked_at": "2026-10-21T12:00:27.414Z"
+      "checked_at": "2026-10-21T17:19:49.977Z"
+    },
+    {
+      "match_id": "1000015159",
+      "city": "Kragujevac",
+      "stadium": "Stadion Čika Dača",
+      "country": "Serbia",
+      "source_url": "https://www.fotmob.com/matches/fk-radnicki-1923-vs-fk-radnik-surdulica/1dp1gndp#1000015159",
+      "checked_at": "2026-10-21T17:19:50.544Z"
     },
     {
       "match_id": "5868510",
@@ -189,7 +165,31 @@
       "stadium": "Estadio Nuevo Los Cármenes",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/granada-vs-real-valladolid/2q6766#5868510",
-      "checked_at": "2026-10-21T12:00:27.793Z"
+      "checked_at": "2026-10-21T17:19:51.305Z"
+    },
+    {
+      "match_id": "5881205",
+      "city": "Stuttgart",
+      "stadium": "MHPArena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-vfb-stuttgart/3brl5t#5881205",
+      "checked_at": "2026-10-21T17:19:51.339Z"
+    },
+    {
+      "match_id": "5739531",
+      "city": "Randers",
+      "stadium": "Cepheus Park Randers",
+      "country": "Denmark",
+      "source_url": "https://www.fotmob.com/matches/randers-fc-vs-brondby-if/2e3bpa#5739531",
+      "checked_at": "2026-10-21T17:19:51.346Z"
+    },
+    {
+      "match_id": "5832920",
+      "city": "Wijdewormer",
+      "stadium": "AFAS Trainingscomplex",
+      "country": "Netherlands",
+      "source_url": "https://www.fotmob.com/matches/helmond-sport-vs-jong-az-alkmaar/30lz4m98#5832920",
+      "checked_at": "2026-10-21T17:19:51.610Z"
     },
     {
       "match_id": "5811786",
@@ -197,7 +197,31 @@
       "stadium": "Guldensporenstadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
-      "checked_at": "2026-10-21T12:00:28.713Z"
+      "checked_at": "2026-10-21T17:19:52.238Z"
+    },
+    {
+      "match_id": "5836887",
+      "city": "Bolton",
+      "stadium": "Toughsheet Community Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/middlesbrough-vs-bolton-wanderers/2f4za9#5836887",
+      "checked_at": "2026-10-21T17:19:52.635Z"
+    },
+    {
+      "match_id": "5162038",
+      "city": "Liepāja",
+      "stadium": "Stadions Daugava mākslīgas laukums",
+      "country": "Latvia",
+      "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-fk-tukums-2000/9qiqju9#5162038",
+      "checked_at": "2026-10-21T17:19:52.848Z"
+    },
+    {
+      "match_id": "5881705",
+      "city": "Magdeburg",
+      "stadium": "Avnet Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-karlsruher-sc/28vz5p#5881705",
+      "checked_at": "2026-10-21T17:19:53.516Z"
     },
     {
       "match_id": "5888087",
@@ -212,55 +236,7 @@
       "stadium": "Portman Road",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/ipswich-town-vs-nottingham-forest/3cc90b#5795491",
-      "checked_at": "2026-10-21T12:00:29.215Z"
-    },
-    {
-      "match_id": "5836887",
-      "city": "Bolton",
-      "stadium": "Toughsheet Community Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/middlesbrough-vs-bolton-wanderers/2f4za9#5836887",
-      "checked_at": "2026-10-21T12:00:29.224Z"
-    },
-    {
-      "match_id": "5881202",
-      "city": "Mainz",
-      "stadium": "MEWA ARENA",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/werder-bremen-vs-mainz-05/2v0rqw#5881202",
-      "checked_at": "2026-10-21T12:00:29.312Z"
-    },
-    {
-      "match_id": "5881705",
-      "city": "Magdeburg",
-      "stadium": "Avnet Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-karlsruher-sc/28vz5p#5881705",
-      "checked_at": "2026-10-21T12:00:29.672Z"
-    },
-    {
-      "match_id": "5162038",
-      "city": "Liepāja",
-      "stadium": "Stadions Daugava mākslīgas laukums",
-      "country": "Latvia",
-      "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-fk-tukums-2000/9qiqju9#5162038",
-      "checked_at": "2026-10-21T12:00:29.733Z"
-    },
-    {
-      "match_id": "5881199",
-      "city": "Köln",
-      "stadium": "RheinEnergieSTADION",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-schalke-04/2ygyzm#5881199",
-      "checked_at": "2026-10-21T12:00:30.617Z"
-    },
-    {
-      "match_id": "5795486",
-      "city": "Birmingham",
-      "stadium": "Villa Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/manchester-city-vs-aston-villa/2w74gq#5795486",
-      "checked_at": "2026-10-21T12:00:30.732Z"
+      "checked_at": "2026-10-21T17:19:53.943Z"
     },
     {
       "match_id": "5772204",
@@ -268,15 +244,7 @@
       "stadium": "Štadión Tehelné pole",
       "country": "Slovakia",
       "source_url": "https://www.fotmob.com/matches/dukla-banska-bystrica-vs-slovan-bratislava/jypah#5772204",
-      "checked_at": "2026-10-21T12:00:30.810Z"
-    },
-    {
-      "match_id": "5836890",
-      "city": "Lincoln, Lincolnshire",
-      "stadium": "ProAmpac Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/burnley-vs-lincoln-city/2a8xsp#5836890",
-      "checked_at": "2026-10-21T12:00:30.889Z"
+      "checked_at": "2026-10-21T17:19:54.505Z"
     },
     {
       "match_id": "5749711",
@@ -284,7 +252,31 @@
       "stadium": "Unipol Domus",
       "country": "Italy",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-bologna/2sn5ak#5749711",
-      "checked_at": "2026-10-21T12:00:31.314Z"
+      "checked_at": "2026-10-21T17:19:54.668Z"
+    },
+    {
+      "match_id": "5795486",
+      "city": "Birmingham",
+      "stadium": "Villa Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/manchester-city-vs-aston-villa/2w74gq#5795486",
+      "checked_at": "2026-10-21T17:19:54.849Z"
+    },
+    {
+      "match_id": "5881199",
+      "city": "Köln",
+      "stadium": "RheinEnergieSTADION",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-schalke-04/2ygyzm#5881199",
+      "checked_at": "2026-10-21T17:19:55.328Z"
+    },
+    {
+      "match_id": "5881202",
+      "city": "Mainz",
+      "stadium": "MEWA ARENA",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/werder-bremen-vs-mainz-05/2v0rqw#5881202",
+      "checked_at": "2026-10-21T17:19:56.258Z"
     },
     {
       "match_id": "5836895",
@@ -292,7 +284,15 @@
       "stadium": "bet365 Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-stoke-city/2v8bgu#5836895",
-      "checked_at": "2026-10-21T12:00:31.949Z"
+      "checked_at": "2026-10-21T17:19:56.368Z"
+    },
+    {
+      "match_id": "5836890",
+      "city": "Lincoln, Lincolnshire",
+      "stadium": "ProAmpac Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/burnley-vs-lincoln-city/2a8xsp#5836890",
+      "checked_at": "2026-10-21T17:19:56.415Z"
     },
     {
       "match_id": "5836896",
@@ -300,23 +300,7 @@
       "stadium": "London Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-west-ham-united/2f9dtq#5836896",
-      "checked_at": "2026-10-21T12:00:32.200Z"
-    },
-    {
-      "match_id": "5836886",
-      "city": "Blackburn, Lancashire",
-      "stadium": "Ewood Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-wrexham/2tumj5#5836886",
-      "checked_at": "2026-10-21T12:00:32.454Z"
-    },
-    {
-      "match_id": "5836888",
-      "city": "Cardiff (Caerdydd)",
-      "stadium": "Cardiff City Stadium",
-      "country": "Wales",
-      "source_url": "https://www.fotmob.com/matches/cardiff-city-vs-birmingham-city/2e28e1#5836888",
-      "checked_at": "2026-10-21T12:00:32.604Z"
+      "checked_at": "2026-10-21T17:19:56.497Z"
     },
     {
       "match_id": "5793956",
@@ -324,7 +308,15 @@
       "stadium": "Ibrox Stadium",
       "country": "Scotland",
       "source_url": "https://www.fotmob.com/matches/st-johnstone-vs-rangers/2e6yx4#5793956",
-      "checked_at": "2026-10-21T12:00:32.660Z"
+      "checked_at": "2026-10-21T17:19:56.676Z"
+    },
+    {
+      "match_id": "5836886",
+      "city": "Blackburn, Lancashire",
+      "stadium": "Ewood Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-wrexham/2tumj5#5836886",
+      "checked_at": "2026-10-21T17:19:57.682Z"
     },
     {
       "match_id": "5795488",
@@ -332,7 +324,7 @@
       "stadium": "Coventry Building Society Arena",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/coventry-city-vs-fulham/2uf9qx#5795488",
-      "checked_at": "2026-10-21T12:00:32.951Z"
+      "checked_at": "2026-10-21T17:19:58.379Z"
     },
     {
       "match_id": "5836893",
@@ -340,31 +332,7 @@
       "stadium": "MATRADE Loftus Road",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/swansea-city-vs-queens-park-rangers/3d6h1w#5836893",
-      "checked_at": "2026-10-21T12:00:33.409Z"
-    },
-    {
-      "match_id": "5811782",
-      "city": "Deurne",
-      "stadium": "Bosuilstadion",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-royal-antwerp/3arzfd#5811782",
-      "checked_at": "2026-10-21T12:00:33.760Z"
-    },
-    {
-      "match_id": "5853532",
-      "city": "Mioveni",
-      "stadium": "Stadionul Orăşenesc",
-      "country": "Romania",
-      "source_url": "https://www.fotmob.com/matches/fc-arges-pitesti-vs-uta-arad/295in6ou#5853532",
-      "checked_at": "2026-10-21T12:00:33.821Z"
-    },
-    {
-      "match_id": "5881198",
-      "city": "Dortmund",
-      "stadium": "SIGNAL IDUNA PARK",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-eintracht-frankfurt/36cxvu#5881198",
-      "checked_at": "2026-10-21T12:00:33.843Z"
+      "checked_at": "2026-10-21T17:19:58.406Z"
     },
     {
       "match_id": "1000015489",
@@ -372,23 +340,39 @@
       "stadium": "Stadion De Leunen",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/club-brugge-nxt-vs-genk-u23/15jcl5gao#1000015489",
-      "checked_at": "2026-10-21T12:00:34.521Z"
+      "checked_at": "2026-10-21T17:19:58.673Z"
     },
     {
-      "match_id": "5765948",
-      "city": "Varaždin",
-      "stadium": "Stadion Anđelko Herjavec",
-      "country": "Croatia",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-varazdin/152qcg#5765948",
-      "checked_at": "2026-10-21T12:00:34.624Z"
+      "match_id": "5811782",
+      "city": "Deurne",
+      "stadium": "Bosuilstadion",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-royal-antwerp/3arzfd#5811782",
+      "checked_at": "2026-10-21T17:19:58.723Z"
     },
     {
-      "match_id": "5868512",
-      "city": "Las Palmas de Gran Canaria",
-      "stadium": "Estadio de Gran Canaria",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-sociedad-b/6n49uz9#5868512",
-      "checked_at": "2026-10-21T12:00:34.700Z"
+      "match_id": "5836888",
+      "city": "Cardiff (Caerdydd)",
+      "stadium": "Cardiff City Stadium",
+      "country": "Wales",
+      "source_url": "https://www.fotmob.com/matches/cardiff-city-vs-birmingham-city/2e28e1#5836888",
+      "checked_at": "2026-10-21T17:19:58.832Z"
+    },
+    {
+      "match_id": "5853532",
+      "city": "Mioveni",
+      "stadium": "Stadionul Orăşenesc",
+      "country": "Romania",
+      "source_url": "https://www.fotmob.com/matches/fc-arges-pitesti-vs-uta-arad/295in6ou#5853532",
+      "checked_at": "2026-10-21T17:20:00.321Z"
+    },
+    {
+      "match_id": "5881198",
+      "city": "Dortmund",
+      "stadium": "SIGNAL IDUNA PARK",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-eintracht-frankfurt/36cxvu#5881198",
+      "checked_at": "2026-10-21T17:20:00.331Z"
     },
     {
       "match_id": "5811787",
@@ -396,7 +380,23 @@
       "stadium": "King Power at Den Dreef Stadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-lommel/ldyy0#5811787",
-      "checked_at": "2026-10-21T12:00:34.976Z"
+      "checked_at": "2026-10-21T17:20:00.371Z"
+    },
+    {
+      "match_id": "5868512",
+      "city": "Las Palmas de Gran Canaria",
+      "stadium": "Estadio de Gran Canaria",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-sociedad-b/6n49uz9#5868512",
+      "checked_at": "2026-10-21T17:20:00.589Z"
+    },
+    {
+      "match_id": "5765948",
+      "city": "Varaždin",
+      "stadium": "Stadion Anđelko Herjavec",
+      "country": "Croatia",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-varazdin/152qcg#5765948",
+      "checked_at": "2026-10-21T17:20:00.821Z"
     },
     {
       "match_id": "5868110",
@@ -404,15 +404,7 @@
       "stadium": "Estadio de Mestalla",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/villarreal-vs-valencia/3grupj#5868110",
-      "checked_at": "2026-10-21T12:00:35.805Z"
-    },
-    {
-      "match_id": "5887654",
-      "city": "Alverca do Ribatejo",
-      "stadium": "Complexo Desportivo FC Alverca",
-      "country": "Portugal",
-      "source_url": "https://www.fotmob.com/matches/alverca-vs-arouca/6h0h889#5887654",
-      "checked_at": "2026-10-21T12:00:35.871Z"
+      "checked_at": "2026-10-21T17:20:01.654Z"
     },
     {
       "match_id": "5811790",
@@ -420,31 +412,15 @@
       "stadium": "Het Kuipje",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/sk-beveren-vs-westerlo/2tmo6x#5811790",
-      "checked_at": "2026-10-21T12:00:36.640Z"
+      "checked_at": "2026-10-21T17:20:02.157Z"
     },
     {
-      "match_id": "5881704",
-      "city": "Kiel",
-      "stadium": "Holstein-Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-dynamo-dresden/2ac5al#5881704",
-      "checked_at": "2026-10-21T12:00:36.922Z"
-    },
-    {
-      "match_id": "5802969",
-      "city": "Monaco",
-      "stadium": "Stade Louis-II",
-      "country": "",
-      "source_url": "https://www.fotmob.com/matches/lille-vs-monaco/2tjj7j#5802969",
-      "checked_at": "2026-10-21T12:00:37.015Z"
-    },
-    {
-      "match_id": "5881707",
-      "city": "Osnabrück",
-      "stadium": "Stadion an der Bremer Brücke",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-vfl-osnabruck/2pvqld#5881707",
-      "checked_at": "2026-10-21T12:00:37.144Z"
+      "match_id": "5887654",
+      "city": "Alverca do Ribatejo",
+      "stadium": "Complexo Desportivo FC Alverca",
+      "country": "Portugal",
+      "source_url": "https://www.fotmob.com/matches/alverca-vs-arouca/6h0h889#5887654",
+      "checked_at": "2026-10-21T17:20:02.258Z"
     },
     {
       "match_id": "5881700",
@@ -452,7 +428,23 @@
       "stadium": "Eintracht-Stadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/eintracht-braunschweig-vs-hannover-96/37b1gg#5881700",
-      "checked_at": "2026-10-21T12:00:37.183Z"
+      "checked_at": "2026-10-21T17:20:02.373Z"
+    },
+    {
+      "match_id": "5881707",
+      "city": "Osnabrück",
+      "stadium": "Stadion an der Bremer Brücke",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-vfl-osnabruck/2pvqld#5881707",
+      "checked_at": "2026-10-21T17:20:02.407Z"
+    },
+    {
+      "match_id": "5881704",
+      "city": "Kiel",
+      "stadium": "Holstein-Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-dynamo-dresden/2ac5al#5881704",
+      "checked_at": "2026-10-21T17:20:02.907Z"
     },
     {
       "match_id": "5811784",
@@ -460,15 +452,7 @@
       "stadium": "Cegeka Arena",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/standard-liege-vs-genk/3ar4lp#5811784",
-      "checked_at": "2026-10-21T12:00:37.472Z"
-    },
-    {
-      "match_id": "5881201",
-      "city": "Sinsheim",
-      "stadium": "SNP Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-hoffenheim/2844qc#5881201",
-      "checked_at": "2026-10-21T12:00:37.558Z"
+      "checked_at": "2026-10-21T17:20:03.615Z"
     },
     {
       "match_id": "5781783",
@@ -476,31 +460,15 @@
       "stadium": "Philips Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/psv-eindhoven-vs-feyenoord/2y2e3u#5781783",
-      "checked_at": "2026-10-21T12:00:37.919Z"
+      "checked_at": "2026-10-21T17:20:03.631Z"
     },
     {
-      "match_id": "5795490",
-      "city": "Hull",
-      "stadium": "MKM Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/hull-city-vs-brentford/2v1khb#5795490",
-      "checked_at": "2026-10-21T12:00:38.506Z"
-    },
-    {
-      "match_id": "5804013",
-      "city": "Białystok",
-      "stadium": "Chorten Arena",
-      "country": "Poland",
-      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wisa-pock/uz96n#5804013",
-      "checked_at": "2026-10-21T12:00:38.577Z"
-    },
-    {
-      "match_id": "5795489",
-      "city": "London",
-      "stadium": "Selhurst Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-newcastle-united/3c4hty#5795489",
-      "checked_at": "2026-10-21T12:00:38.952Z"
+      "match_id": "5802969",
+      "city": "Monaco",
+      "stadium": "Stade Louis-II",
+      "country": "",
+      "source_url": "https://www.fotmob.com/matches/lille-vs-monaco/2tjj7j#5802969",
+      "checked_at": "2026-10-21T17:20:04.278Z"
     },
     {
       "match_id": "5795492",
@@ -508,7 +476,39 @@
       "stadium": "Anfield",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-brighton-hove-albion/2xtwfj#5795492",
-      "checked_at": "2026-10-21T12:00:39.523Z"
+      "checked_at": "2026-10-21T17:20:04.314Z"
+    },
+    {
+      "match_id": "5804013",
+      "city": "Białystok",
+      "stadium": "Chorten Arena",
+      "country": "Poland",
+      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wisa-pock/uz96n#5804013",
+      "checked_at": "2026-10-21T17:20:04.449Z"
+    },
+    {
+      "match_id": "5881201",
+      "city": "Sinsheim",
+      "stadium": "SNP Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/bayer-leverkusen-vs-hoffenheim/2844qc#5881201",
+      "checked_at": "2026-10-21T17:20:05.314Z"
+    },
+    {
+      "match_id": "5795490",
+      "city": "Hull",
+      "stadium": "MKM Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/hull-city-vs-brentford/2v1khb#5795490",
+      "checked_at": "2026-10-21T17:20:05.370Z"
+    },
+    {
+      "match_id": "5795489",
+      "city": "London",
+      "stadium": "Selhurst Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-newcastle-united/3c4hty#5795489",
+      "checked_at": "2026-10-21T17:20:05.938Z"
     },
     {
       "match_id": "1000015161",
@@ -516,7 +516,7 @@
       "stadium": "Omladinski Stadion",
       "country": "Serbia",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-ofk-beograd/2hx56y#1000015161",
-      "checked_at": "2026-10-21T12:00:39.755Z"
+      "checked_at": "2026-10-21T17:20:06.027Z"
     },
     {
       "match_id": "5162082",
@@ -524,23 +524,7 @@
       "stadium": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
       "country": "Latvia",
       "source_url": "https://www.fotmob.com/matches/rfs-vs-sk-super-nova/9njmm9j5#5162082",
-      "checked_at": "2026-10-21T12:00:39.840Z"
-    },
-    {
-      "match_id": "5804280",
-      "city": "Basel",
-      "stadium": "St. Jakob-Park",
-      "country": "Switzerland",
-      "source_url": "https://www.fotmob.com/matches/basel-vs-grasshopper/39qtfw#5804280",
-      "checked_at": "2026-10-21T12:00:39.886Z"
-    },
-    {
-      "match_id": "5802968",
-      "city": "Marseille",
-      "stadium": "CEPAC Vélodrome",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/marseille-vs-le-havre/2s4945#5802968",
-      "checked_at": "2026-10-21T12:00:39.927Z"
+      "checked_at": "2026-10-21T17:20:06.076Z"
     },
     {
       "match_id": "5811783",
@@ -548,7 +532,7 @@
       "stadium": "Jan Breydelstadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/club-brugge-vs-sttruiden/2s4ngj#5811783",
-      "checked_at": "2026-10-21T12:00:40.345Z"
+      "checked_at": "2026-10-21T17:20:06.276Z"
     },
     {
       "match_id": "1000015492",
@@ -556,15 +540,7 @@
       "stadium": "Kehrwegstadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/eupen-vs-beerschot/280p5sgx#1000015492",
-      "checked_at": "2026-10-21T12:00:40.982Z"
-    },
-    {
-      "match_id": "5846007",
-      "city": "Linz",
-      "stadium": "Raiffeisen Arena",
-      "country": "Austria",
-      "source_url": "https://www.fotmob.com/matches/lask-vs-salzburg/3ayu46#5846007",
-      "checked_at": "2026-10-21T12:00:41.195Z"
+      "checked_at": "2026-10-21T17:20:06.299Z"
     },
     {
       "match_id": "5781778",
@@ -572,7 +548,23 @@
       "stadium": "Sparta-Stadion Het Kasteel",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-sparta-rotterdam/2g5e0a#5781778",
-      "checked_at": "2026-10-21T12:00:41.488Z"
+      "checked_at": "2026-10-21T17:20:07.350Z"
+    },
+    {
+      "match_id": "5804280",
+      "city": "Basel",
+      "stadium": "St. Jakob-Park",
+      "country": "Switzerland",
+      "source_url": "https://www.fotmob.com/matches/basel-vs-grasshopper/39qtfw#5804280",
+      "checked_at": "2026-10-21T17:20:07.367Z"
+    },
+    {
+      "match_id": "5802968",
+      "city": "Marseille",
+      "stadium": "CEPAC Vélodrome",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/marseille-vs-le-havre/2s4945#5802968",
+      "checked_at": "2026-10-21T17:20:07.726Z"
     },
     {
       "match_id": "5881200",
@@ -580,15 +572,7 @@
       "stadium": "Europa-Park Stadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-bayern-munchen/2qet4e#5881200",
-      "checked_at": "2026-10-21T12:00:41.526Z"
-    },
-    {
-      "match_id": "5804015",
-      "city": "Warszawa",
-      "stadium": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
-      "country": "Poland",
-      "source_url": "https://www.fotmob.com/matches/lech-poznan-vs-legia-warszawa/z32dp#5804015",
-      "checked_at": "2026-10-21T12:00:41.663Z"
+      "checked_at": "2026-10-21T17:20:07.945Z"
     },
     {
       "match_id": "5795494",
@@ -596,15 +580,23 @@
       "stadium": "Stadium of Light",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-sunderland/2dduzo#5795494",
-      "checked_at": "2026-10-21T12:00:41.940Z"
+      "checked_at": "2026-10-21T17:20:08.256Z"
     },
     {
-      "match_id": "5802972",
-      "city": "Paris",
-      "stadium": "Parc des Princes",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
-      "checked_at": "2026-10-21T12:00:42.020Z"
+      "match_id": "5846007",
+      "city": "Linz",
+      "stadium": "Raiffeisen Arena",
+      "country": "Austria",
+      "source_url": "https://www.fotmob.com/matches/lask-vs-salzburg/3ayu46#5846007",
+      "checked_at": "2026-10-21T17:20:08.369Z"
+    },
+    {
+      "match_id": "5804015",
+      "city": "Warszawa",
+      "stadium": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+      "country": "Poland",
+      "source_url": "https://www.fotmob.com/matches/lech-poznan-vs-legia-warszawa/z32dp#5804015",
+      "checked_at": "2026-10-21T17:20:08.881Z"
     },
     {
       "match_id": "5772208",
@@ -612,31 +604,7 @@
       "stadium": "Košická futbalová aréna",
       "country": "Slovakia",
       "source_url": "https://www.fotmob.com/matches/zilina-vs-fc-kosice/62hi0w4j#5772208",
-      "checked_at": "2026-10-21T12:00:42.892Z"
-    },
-    {
-      "match_id": "5811789",
-      "city": "Bruxelles (Brussels)",
-      "stadium": "Stade Joseph Mariën",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-cercle-brugge/2o1zev#5811789",
-      "checked_at": "2026-10-21T12:00:43.183Z"
-    },
-    {
-      "match_id": "1000015493",
-      "city": "Liège",
-      "stadium": "Stade de Rocourt",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/fc-liege-vs-patro-eisden/i4oq2uu#1000015493",
-      "checked_at": "2026-10-21T12:00:43.287Z"
-    },
-    {
-      "match_id": "6162745",
-      "city": "Hamburg",
-      "stadium": "Volksparkstadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#6162745",
-      "checked_at": "2026-10-21T12:00:43.367Z"
+      "checked_at": "2026-10-21T17:20:09.135Z"
     },
     {
       "match_id": "5868108",
@@ -644,7 +612,31 @@
       "stadium": "Estadio Municipal de Anoeta",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-levante/2fh3cs#5868108",
-      "checked_at": "2026-10-21T12:00:43.418Z"
+      "checked_at": "2026-10-21T17:20:09.776Z"
+    },
+    {
+      "match_id": "1000015493",
+      "city": "Liège",
+      "stadium": "Stade de Rocourt",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/fc-liege-vs-patro-eisden/i4oq2uu#1000015493",
+      "checked_at": "2026-10-21T17:20:10.080Z"
+    },
+    {
+      "match_id": "5811789",
+      "city": "Bruxelles (Brussels)",
+      "stadium": "Stade Joseph Mariën",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-cercle-brugge/2o1zev#5811789",
+      "checked_at": "2026-10-21T17:20:10.685Z"
+    },
+    {
+      "match_id": "5802972",
+      "city": "Paris",
+      "stadium": "Parc des Princes",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
+      "checked_at": "2026-10-21T17:20:10.999Z"
     },
     {
       "match_id": "5781782",
@@ -652,7 +644,7 @@
       "stadium": "AFAS Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/fc-twente-vs-az-alkmaar/2xo8sv#5781782",
-      "checked_at": "2026-10-21T12:00:43.557Z"
+      "checked_at": "2026-10-21T17:20:11.024Z"
     },
     {
       "match_id": "5972987",
@@ -664,10 +656,34 @@
     {
       "match_id": "5162084",
       "city": "Liepāja",
-      "stadium": "Stadions Daugava",
+      "stadium": "Stadions Daugava mākslīgas laukums",
       "country": "Latvia",
       "source_url": "https://www.fotmob.com/matches/riga-fc-vs-grobina/akurty0b#5162084",
-      "checked_at": "2026-10-21T12:00:44.857Z"
+      "checked_at": "2026-10-21T17:20:11.406Z"
+    },
+    {
+      "match_id": "5739530",
+      "city": "København",
+      "stadium": "Parken",
+      "country": "Denmark",
+      "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-ob/2c2uot#5739530",
+      "checked_at": "2026-10-21T17:20:11.912Z"
+    },
+    {
+      "match_id": "6162745",
+      "city": "Hamburg",
+      "stadium": "Volksparkstadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#6162745",
+      "checked_at": "2026-10-21T17:20:13.009Z"
+    },
+    {
+      "match_id": "6162739",
+      "city": "Bochum",
+      "stadium": "Ruhrstadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/mainz-05-vs-bochum/38wlu3#6162739",
+      "checked_at": "2026-10-21T17:20:13.163Z"
     },
     {
       "match_id": "6093727",
@@ -682,39 +698,7 @@
       "stadium": "Estadio Municipal Virgen del Val",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-rsd-alcala/2a9aj9#6386079",
-      "checked_at": "2026-10-21T12:00:44.952Z"
-    },
-    {
-      "match_id": "5749721",
-      "city": "Roma",
-      "stadium": "Stadio Olimpico",
-      "country": "Italy",
-      "source_url": "https://www.fotmob.com/matches/cagliari-vs-roma/2g8cb2#5749721",
-      "checked_at": "2026-10-21T12:00:45.041Z"
-    },
-    {
-      "match_id": "6162739",
-      "city": "Bochum",
-      "stadium": "Ruhrstadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/mainz-05-vs-bochum/38wlu3#6162739",
-      "checked_at": "2026-10-21T12:00:45.050Z"
-    },
-    {
-      "match_id": "6162743",
-      "city": "Freiburg im Breisgau",
-      "stadium": "Europa-Park Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/freiburg-vs-wolfsburg/2eucwl#6162743",
-      "checked_at": "2026-10-21T12:00:45.124Z"
-    },
-    {
-      "match_id": "5739530",
-      "city": "København",
-      "stadium": "Parken",
-      "country": "Denmark",
-      "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-ob/2c2uot#5739530",
-      "checked_at": "2026-10-21T12:00:45.243Z"
+      "checked_at": "2026-10-21T17:20:13.692Z"
     },
     {
       "match_id": "6298360",
@@ -722,7 +706,23 @@
       "stadium": "Gladsaxe Stadion",
       "country": "Denmark",
       "source_url": "https://www.fotmob.com/matches/brondby-if-vs-ab/2ssny5#6298360",
-      "checked_at": "2026-10-21T12:00:45.583Z"
+      "checked_at": "2026-10-21T17:20:14.041Z"
+    },
+    {
+      "match_id": "6162741",
+      "city": "Spiesen-Elversberg",
+      "stadium": "URSAPHARM-Arena an der Kaiserlinde",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/elversberg-vs-darmstadt/28zv33#6162741",
+      "checked_at": "2026-10-21T17:20:14.512Z"
+    },
+    {
+      "match_id": "5749721",
+      "city": "Roma",
+      "stadium": "Stadio Olimpico",
+      "country": "Italy",
+      "source_url": "https://www.fotmob.com/matches/cagliari-vs-roma/2g8cb2#5749721",
+      "checked_at": "2026-10-21T17:20:14.912Z"
     },
     {
       "match_id": "6162736",
@@ -730,7 +730,15 @@
       "stadium": "ista-Borussia-Park",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-borussia-monchengladbach/2pcpyq#6162736",
-      "checked_at": "2026-10-21T12:00:46.333Z"
+      "checked_at": "2026-10-21T17:20:15.086Z"
+    },
+    {
+      "match_id": "5772151",
+      "city": "Trenčín",
+      "stadium": "Mestský futbalový štadión Na Sihoti",
+      "country": "Slovakia",
+      "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-trencin/1ams8m#5772151",
+      "checked_at": "2026-10-21T17:20:15.121Z"
     },
     {
       "match_id": "6171133",
@@ -740,20 +748,12 @@
       "checked_at": "2026-10-13T02:52:53.218Z"
     },
     {
-      "match_id": "5772154",
-      "city": "Košice",
-      "stadium": "Košická futbalová aréna",
-      "country": "Slovakia",
-      "source_url": "https://www.fotmob.com/matches/dac-1904-dunajska-streda-vs-fc-kosice/7ce32stj#5772154",
-      "checked_at": "2026-10-21T12:00:47.018Z"
-    },
-    {
-      "match_id": "5772151",
-      "city": "Trenčín",
-      "stadium": "Mestský futbalový štadión Na Sihoti",
-      "country": "Slovakia",
-      "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-trencin/1ams8m#5772151",
-      "checked_at": "2026-10-21T12:00:47.066Z"
+      "match_id": "6162743",
+      "city": "Freiburg im Breisgau",
+      "stadium": "Europa-Park Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/freiburg-vs-wolfsburg/2eucwl#6162743",
+      "checked_at": "2026-10-21T17:20:15.506Z"
     },
     {
       "match_id": "6162751",
@@ -761,15 +761,7 @@
       "stadium": "Rudolf-Harbig-Stadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-schalke-04/2vri2z#6162751",
-      "checked_at": "2026-10-21T12:00:47.148Z"
-    },
-    {
-      "match_id": "6162741",
-      "city": "Spiesen-Elversberg",
-      "stadium": "URSAPHARM-Arena an der Kaiserlinde",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/elversberg-vs-darmstadt/28zv33#6162741",
-      "checked_at": "2026-10-21T12:00:47.328Z"
+      "checked_at": "2026-10-21T17:20:16.577Z"
     },
     {
       "match_id": "6321641",
@@ -777,7 +769,7 @@
       "stadium": "Sparta-Stadion Het Kasteel",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-sparta-rotterdam/1vb764#6321641",
-      "checked_at": "2026-10-21T12:00:47.631Z"
+      "checked_at": "2026-10-21T17:20:16.625Z"
     },
     {
       "match_id": "6386055",
@@ -785,7 +777,23 @@
       "stadium": "Estadio El Bayu",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/real-valladolid-vs-cd-covadonga/96dq7wk#6386055",
-      "checked_at": "2026-10-21T12:00:48.157Z"
+      "checked_at": "2026-10-21T17:20:16.705Z"
+    },
+    {
+      "match_id": "6275368",
+      "city": "Manchester",
+      "stadium": "Etihad Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#6275368",
+      "checked_at": "2026-10-21T17:20:17.484Z"
+    },
+    {
+      "match_id": "5772154",
+      "city": "Košice",
+      "stadium": "Košická futbalová aréna",
+      "country": "Slovakia",
+      "source_url": "https://www.fotmob.com/matches/dac-1904-dunajska-streda-vs-fc-kosice/7ce32stj#5772154",
+      "checked_at": "2026-10-21T17:20:17.681Z"
     },
     {
       "match_id": "6280513",
@@ -795,12 +803,12 @@
       "checked_at": "2026-10-13T02:52:54.876Z"
     },
     {
-      "match_id": "6275368",
-      "city": "Manchester",
-      "stadium": "Etihad Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#6275368",
-      "checked_at": "2026-10-21T12:00:48.795Z"
+      "match_id": "6162738",
+      "city": "München",
+      "stadium": "Allianz Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-bayern-munchen/2okvcp#6162738",
+      "checked_at": "2026-10-21T17:20:17.987Z"
     },
     {
       "match_id": "6275373",
@@ -808,23 +816,7 @@
       "stadium": "Craven Cottage",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/crystal-palace-vs-fulham/37llbg#6275373",
-      "checked_at": "2026-10-21T12:00:49.058Z"
-    },
-    {
-      "match_id": "6162738",
-      "city": "München",
-      "stadium": "Allianz Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-bayern-munchen/2okvcp#6162738",
-      "checked_at": "2026-10-21T12:00:49.554Z"
-    },
-    {
-      "match_id": "6162746",
-      "city": "Hannover",
-      "stadium": "Heinz von Heiden-Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/kaiserslautern-vs-hannover-96/2r7bcp#6162746",
-      "checked_at": "2026-10-21T12:00:49.753Z"
+      "checked_at": "2026-10-21T17:20:18.637Z"
     },
     {
       "match_id": "6162747",
@@ -832,7 +824,15 @@
       "stadium": "Holstein-Stadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-hoffenheim/27uam6#6162747",
-      "checked_at": "2026-10-21T12:00:49.914Z"
+      "checked_at": "2026-10-21T17:20:18.738Z"
+    },
+    {
+      "match_id": "6162746",
+      "city": "Hannover",
+      "stadium": "Heinz von Heiden-Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/kaiserslautern-vs-hannover-96/2r7bcp#6162746",
+      "checked_at": "2026-10-21T17:20:19.283Z"
     },
     {
       "match_id": "6275374",
@@ -840,15 +840,7 @@
       "stadium": "Vitality Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-aston-villa/2yooch#6275374",
-      "checked_at": "2026-10-21T12:00:50.220Z"
-    },
-    {
-      "match_id": "5793961",
-      "city": "Edinburgh",
-      "stadium": "Tynecastle Park",
-      "country": "Scotland",
-      "source_url": "https://www.fotmob.com/matches/rangers-vs-heart-midlothian/2svtlk#5793961",
-      "checked_at": "2026-10-21T12:00:50.742Z"
+      "checked_at": "2026-10-21T17:20:19.344Z"
     },
     {
       "match_id": "6275371",
@@ -856,23 +848,15 @@
       "stadium": "Anfield",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/chelsea-vs-liverpool/2f3vr7#6275371",
-      "checked_at": "2026-10-21T12:00:50.805Z"
+      "checked_at": "2026-10-21T17:20:19.751Z"
     },
     {
-      "match_id": "5802973",
-      "city": "Le Havre",
-      "stadium": "Stade CMA CGM Océane",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
-      "checked_at": "2026-10-21T12:00:50.881Z"
-    },
-    {
-      "match_id": "6298364",
-      "city": "Århus",
-      "stadium": "Riisvangen Stadion",
-      "country": "Denmark",
-      "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
-      "checked_at": "2026-10-21T12:00:51.252Z"
+      "match_id": "5793961",
+      "city": "Edinburgh",
+      "stadium": "Tynecastle Park",
+      "country": "Scotland",
+      "source_url": "https://www.fotmob.com/matches/rangers-vs-heart-midlothian/2svtlk#5793961",
+      "checked_at": "2026-10-21T17:20:20.386Z"
     },
     {
       "match_id": "6386084",
@@ -880,23 +864,23 @@
       "stadium": "Estadio de Mestalla",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-tavernes-de-la-valldigna/za1u0i9y#6386084",
-      "checked_at": "2026-10-21T12:00:51.258Z"
+      "checked_at": "2026-10-21T17:20:20.593Z"
     },
     {
-      "match_id": "5765953",
-      "city": "Koprivnica",
-      "stadium": "Gradski Stadion",
-      "country": "Croatia",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
-      "checked_at": "2026-10-21T12:00:51.619Z"
+      "match_id": "6298364",
+      "city": "Århus",
+      "stadium": "Riisvangen Stadion",
+      "country": "Denmark",
+      "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
+      "checked_at": "2026-10-21T17:20:20.730Z"
     },
     {
-      "match_id": "5802974",
-      "city": "Villeneuve d'Ascq",
-      "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/lens-vs-lille/2gcrq9#5802974",
-      "checked_at": "2026-10-21T12:00:51.696Z"
+      "match_id": "5881709",
+      "city": "Cottbus",
+      "stadium": "LEAG Energie Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/energie-cottbus-vs-bochum/2rsv7q#5881709",
+      "checked_at": "2026-10-21T17:20:21.468Z"
     },
     {
       "match_id": "5972995",
@@ -906,20 +890,28 @@
       "checked_at": "2026-10-13T02:53:02.219Z"
     },
     {
+      "match_id": "5802973",
+      "city": "Le Havre",
+      "stadium": "Stade CMA CGM Océane",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
+      "checked_at": "2026-10-21T17:20:21.709Z"
+    },
+    {
+      "match_id": "5765953",
+      "city": "Koprivnica",
+      "stadium": "Gradski Stadion",
+      "country": "Croatia",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
+      "checked_at": "2026-10-21T17:20:21.901Z"
+    },
+    {
       "match_id": "5804024",
       "city": "Zabrze",
       "stadium": "Stadion im. Ernesta Pohla",
       "country": "Poland",
       "source_url": "https://www.fotmob.com/matches/gornik-zabrze-vs-legia-warszawa/2ayneg#5804024",
-      "checked_at": "2026-10-21T12:00:52.563Z"
-    },
-    {
-      "match_id": "5881709",
-      "city": "Cottbus",
-      "stadium": "LEAG Energie Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/energie-cottbus-vs-bochum/2rsv7q#5881709",
-      "checked_at": "2026-10-21T12:00:52.651Z"
+      "checked_at": "2026-10-21T17:20:22.540Z"
     },
     {
       "match_id": "5832928",
@@ -927,15 +919,7 @@
       "stadium": "Parkstad Limburg Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/roda-jc-kerkrade-vs-jong-az-alkmaar/31okdant#5832928",
-      "checked_at": "2026-10-21T12:00:53.116Z"
-    },
-    {
-      "match_id": "5881710",
-      "city": "Darmstadt",
-      "stadium": "Merck-Stadion am Böllenfalltor",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
-      "checked_at": "2026-10-21T12:00:53.445Z"
+      "checked_at": "2026-10-21T17:20:23.088Z"
     },
     {
       "match_id": "5881211",
@@ -943,15 +927,15 @@
       "stadium": "URSAPHARM-Arena an der Kaiserlinde",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/elversberg-vs-mainz-05/2pxonq#5881211",
-      "checked_at": "2026-10-21T12:00:53.511Z"
+      "checked_at": "2026-10-21T17:20:23.303Z"
     },
     {
-      "match_id": "5881214",
-      "city": "Bremen",
-      "stadium": "Weserstadion",
+      "match_id": "5881710",
+      "city": "Darmstadt",
+      "stadium": "Merck-Stadion am Böllenfalltor",
       "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-werder-bremen/2d9ier#5881214",
-      "checked_at": "2026-10-21T12:00:53.587Z"
+      "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
+      "checked_at": "2026-10-21T17:20:23.994Z"
     },
     {
       "match_id": "5881716",
@@ -959,23 +943,15 @@
       "stadium": "Volkswagen Arena",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-vfl-osnabruck/2tumhb#5881716",
-      "checked_at": "2026-10-21T12:00:53.644Z"
+      "checked_at": "2026-10-21T17:20:24.413Z"
     },
     {
-      "match_id": "5836900",
-      "city": "Lincoln, Lincolnshire",
-      "stadium": "ProAmpac Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
-      "checked_at": "2026-10-21T12:00:53.754Z"
-    },
-    {
-      "match_id": "5804028",
-      "city": "Kraków",
-      "stadium": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
-      "country": "Poland",
-      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wieczysta-krakow/alk45uwn#5804028",
-      "checked_at": "2026-10-21T12:00:54.325Z"
+      "match_id": "5802974",
+      "city": "Villeneuve d'Ascq",
+      "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/lens-vs-lille/2gcrq9#5802974",
+      "checked_at": "2026-10-21T17:20:24.463Z"
     },
     {
       "match_id": "5868522",
@@ -983,15 +959,23 @@
       "stadium": "Estadio Izan",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/girona-vs-real-sociedad-b/6li9a2m#5868522",
-      "checked_at": "2026-10-21T12:00:54.967Z"
+      "checked_at": "2026-10-21T17:20:24.519Z"
     },
     {
-      "match_id": "5881206",
-      "city": "Augsburg",
-      "stadium": "WWK Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
-      "checked_at": "2026-10-21T12:00:55.118Z"
+      "match_id": "5836900",
+      "city": "Lincoln, Lincolnshire",
+      "stadium": "ProAmpac Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
+      "checked_at": "2026-10-21T17:20:25.100Z"
+    },
+    {
+      "match_id": "5804028",
+      "city": "Kraków",
+      "stadium": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
+      "country": "Poland",
+      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wieczysta-krakow/alk45uwn#5804028",
+      "checked_at": "2026-10-21T17:20:25.137Z"
     },
     {
       "match_id": "5888095",
@@ -1001,12 +985,28 @@
       "checked_at": "2026-10-13T02:53:09.224Z"
     },
     {
+      "match_id": "5881206",
+      "city": "Augsburg",
+      "stadium": "WWK Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
+      "checked_at": "2026-10-21T17:20:26.319Z"
+    },
+    {
+      "match_id": "5881214",
+      "city": "Bremen",
+      "stadium": "Weserstadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-werder-bremen/2d9ier#5881214",
+      "checked_at": "2026-10-21T17:20:26.487Z"
+    },
+    {
       "match_id": "5881212",
       "city": "Gelsenkirchen",
       "stadium": "VELTINS-Arena",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/schalke-04-vs-rb-leipzig/86c2g1z#5881212",
-      "checked_at": "2026-10-21T12:00:55.767Z"
+      "checked_at": "2026-10-21T17:20:26.731Z"
     },
     {
       "match_id": "5881209",
@@ -1014,7 +1014,7 @@
       "stadium": "ista-Borussia-Park",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
-      "checked_at": "2026-10-21T12:00:55.777Z"
+      "checked_at": "2026-10-21T17:20:27.354Z"
     },
     {
       "match_id": "5772212",
@@ -1022,15 +1022,7 @@
       "stadium": "Mestský futbalový štadión Na Sihoti",
       "country": "Slovakia",
       "source_url": "https://www.fotmob.com/matches/trencin-vs-fc-kosice/62p5bq9y#5772212",
-      "checked_at": "2026-10-21T12:00:56.388Z"
-    },
-    {
-      "match_id": "5836899",
-      "city": "Burnley",
-      "stadium": "Turf Moor",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/burnley-vs-portsmouth/2akcmh#5836899",
-      "checked_at": "2026-10-21T12:00:56.955Z"
+      "checked_at": "2026-10-21T17:20:27.683Z"
     },
     {
       "match_id": "5836898",
@@ -1038,15 +1030,7 @@
       "stadium": "Toughsheet Community Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
-      "checked_at": "2026-10-21T12:00:57.025Z"
-    },
-    {
-      "match_id": "5836905",
-      "city": "Southampton, Hampshire",
-      "stadium": "St. Mary's Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
-      "checked_at": "2026-10-21T12:00:57.380Z"
+      "checked_at": "2026-10-21T17:20:27.917Z"
     },
     {
       "match_id": "5795495",
@@ -1054,7 +1038,23 @@
       "stadium": "Vitality Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-afc-bournemouth/2fh3fh#5795495",
-      "checked_at": "2026-10-21T12:00:57.514Z"
+      "checked_at": "2026-10-21T17:20:28.113Z"
+    },
+    {
+      "match_id": "5836899",
+      "city": "Burnley",
+      "stadium": "Turf Moor",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/burnley-vs-portsmouth/2akcmh#5836899",
+      "checked_at": "2026-10-21T17:20:28.378Z"
+    },
+    {
+      "match_id": "5836905",
+      "city": "Southampton, Hampshire",
+      "stadium": "St. Mary's Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
+      "checked_at": "2026-10-21T17:20:28.955Z"
     },
     {
       "match_id": "5836907",
@@ -1062,23 +1062,7 @@
       "stadium": "Swansea.com Stadium",
       "country": "Wales",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-swansea-city/2vn3sy#5836907",
-      "checked_at": "2026-10-21T12:00:57.844Z"
-    },
-    {
-      "match_id": "5795500",
-      "city": "Hull",
-      "stadium": "MKM Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
-      "checked_at": "2026-10-21T12:00:58.159Z"
-    },
-    {
-      "match_id": "5795499",
-      "city": "Coventry, West Midlands",
-      "stadium": "Coventry Building Society Arena",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
-      "checked_at": "2026-10-21T12:00:58.663Z"
+      "checked_at": "2026-10-21T17:20:29.326Z"
     },
     {
       "match_id": "5811795",
@@ -1086,15 +1070,23 @@
       "stadium": "Achter De Kazerne",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-genk/2qibjg#5811795",
-      "checked_at": "2026-10-21T12:00:58.679Z"
+      "checked_at": "2026-10-21T17:20:29.792Z"
     },
     {
-      "match_id": "1000015495",
-      "city": "Maasmechelen",
-      "stadium": "Patrostadion",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
-      "checked_at": "2026-10-21T12:00:58.903Z"
+      "match_id": "5795500",
+      "city": "Hull",
+      "stadium": "MKM Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
+      "checked_at": "2026-10-21T17:20:29.901Z"
+    },
+    {
+      "match_id": "5795499",
+      "city": "Coventry, West Midlands",
+      "stadium": "Coventry Building Society Arena",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
+      "checked_at": "2026-10-21T17:20:30.350Z"
     },
     {
       "match_id": "1000015499",
@@ -1102,15 +1094,31 @@
       "stadium": "Olympisch Stadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
-      "checked_at": "2026-10-21T12:00:59.167Z"
+      "checked_at": "2026-10-21T17:20:30.665Z"
     },
     {
-      "match_id": "5881208",
-      "city": "München",
-      "stadium": "Allianz Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-bayern-munchen/36iek5#5881208",
-      "checked_at": "2026-10-21T12:00:59.248Z"
+      "match_id": "1000015495",
+      "city": "Maasmechelen",
+      "stadium": "Patrostadion",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
+      "checked_at": "2026-10-21T17:20:30.782Z"
+    },
+    {
+      "match_id": "5772210",
+      "city": "Podbrezová",
+      "stadium": "ZELPO Aréna Podbrezová",
+      "country": "Slovakia",
+      "source_url": "https://www.fotmob.com/matches/zeleziarne-podbrezova-vs-slovan-bratislava/laiav#5772210",
+      "checked_at": "2026-10-21T17:20:31.428Z"
+    },
+    {
+      "match_id": "5781787",
+      "city": "Rotterdam",
+      "stadium": "Stadion Feijenoord",
+      "country": "Netherlands",
+      "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
+      "checked_at": "2026-10-21T17:20:31.480Z"
     },
     {
       "match_id": "5987549",
@@ -1120,44 +1128,20 @@
       "checked_at": "2026-10-13T02:53:20.302Z"
     },
     {
-      "match_id": "5781787",
-      "city": "Rotterdam",
-      "stadium": "Stadion Feijenoord",
-      "country": "Netherlands",
-      "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
-      "checked_at": "2026-10-21T12:00:59.842Z"
-    },
-    {
       "match_id": "6241190",
       "city": null,
       "stadium": "Ibrox Stadium",
       "country": "",
       "source_url": "https://www.fotmob.com/matches/aberdeen-vs-rangers/2edjdd#6241190",
-      "checked_at": "2026-10-21T12:01:00.103Z"
+      "checked_at": "2026-10-21T17:20:32.217Z"
     },
     {
-      "match_id": "5772210",
-      "city": "Podbrezová",
-      "stadium": "ZELPO Aréna Podbrezová",
-      "country": "Slovakia",
-      "source_url": "https://www.fotmob.com/matches/zeleziarne-podbrezova-vs-slovan-bratislava/laiav#5772210",
-      "checked_at": "2026-10-21T12:01:00.325Z"
-    },
-    {
-      "match_id": "5802976",
-      "city": "Décines-Charpieu",
-      "stadium": "Groupama Stadium",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/angers-vs-lyon/2n29lb#5802976",
-      "checked_at": "2026-10-21T12:01:00.403Z"
-    },
-    {
-      "match_id": "5795504",
-      "city": "London",
-      "stadium": "Tottenham Hotspur Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
-      "checked_at": "2026-10-21T12:01:00.504Z"
+      "match_id": "5881208",
+      "city": "München",
+      "stadium": "Allianz Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-bayern-munchen/36iek5#5881208",
+      "checked_at": "2026-10-21T17:20:32.421Z"
     },
     {
       "match_id": "5811797",
@@ -1165,7 +1149,7 @@
       "stadium": "Stade Maurice Dufrasne",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-standard-liege/2uigcn#5811797",
-      "checked_at": "2026-10-21T12:01:00.676Z"
+      "checked_at": "2026-10-21T17:20:32.949Z"
     },
     {
       "match_id": "5781793",
@@ -1173,7 +1157,15 @@
       "stadium": "Philips Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
-      "checked_at": "2026-10-21T12:01:01.437Z"
+      "checked_at": "2026-10-21T17:20:33.329Z"
+    },
+    {
+      "match_id": "5795504",
+      "city": "London",
+      "stadium": "Tottenham Hotspur Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
+      "checked_at": "2026-10-21T17:20:33.596Z"
     },
     {
       "match_id": "5811792",
@@ -1181,7 +1173,7 @@
       "stadium": "Freethielstadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-sk-beveren/28le2y#5811792",
-      "checked_at": "2026-10-21T12:01:01.570Z"
+      "checked_at": "2026-10-21T17:20:33.879Z"
     },
     {
       "match_id": "5881714",
@@ -1189,15 +1181,7 @@
       "stadium": "BBBank Wildpark",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-fc-heidenheim/2g4hqih#5881714",
-      "checked_at": "2026-10-21T12:01:01.690Z"
-    },
-    {
-      "match_id": "5811791",
-      "city": "Bruxelles (Brussel)",
-      "stadium": "Lotto Park",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
-      "checked_at": "2026-10-21T12:01:01.757Z"
+      "checked_at": "2026-10-21T17:20:34.288Z"
     },
     {
       "match_id": "5781786",
@@ -1205,7 +1189,7 @@
       "stadium": "Johan Cruijff ArenA",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-az-alkmaar/2xgz8m#5781786",
-      "checked_at": "2026-10-21T12:01:02.225Z"
+      "checked_at": "2026-10-21T17:20:34.636Z"
     },
     {
       "match_id": "5795496",
@@ -1213,15 +1197,23 @@
       "stadium": "Villa Park",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/fulham-vs-aston-villa/3cnglp#5795496",
-      "checked_at": "2026-10-21T12:01:02.464Z"
+      "checked_at": "2026-10-21T17:20:35.329Z"
     },
     {
-      "match_id": "5162091",
-      "city": "Rīga",
-      "stadium": "LNK Sporta Parks dabīgais",
-      "country": "Latvia",
-      "source_url": "https://www.fotmob.com/matches/rfs-vs-grobina/5avvuusn#5162091",
-      "checked_at": "2026-10-21T12:01:03.108Z"
+      "match_id": "5802976",
+      "city": "Décines-Charpieu",
+      "stadium": "Groupama Stadium",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/angers-vs-lyon/2n29lb#5802976",
+      "checked_at": "2026-10-21T17:20:35.470Z"
+    },
+    {
+      "match_id": "5811791",
+      "city": "Bruxelles (Brussel)",
+      "stadium": "Lotto Park",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
+      "checked_at": "2026-10-21T17:20:35.533Z"
     },
     {
       "match_id": "1000015162",
@@ -1229,7 +1221,7 @@
       "stadium": "Stadion FK Mačva",
       "country": "Serbia",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-macva-sabac/2349c8ll#1000015162",
-      "checked_at": "2026-10-21T12:01:03.204Z"
+      "checked_at": "2026-10-21T17:20:35.553Z"
     },
     {
       "match_id": "1000015164",
@@ -1237,7 +1229,7 @@
       "stadium": "SRC MR Radoš Milovanović",
       "country": "Serbia",
       "source_url": "https://www.fotmob.com/matches/mladost-lucani-vs-fk-radnik-surdulica/1dpj6qnx#1000015164",
-      "checked_at": "2026-10-21T12:01:03.565Z"
+      "checked_at": "2026-10-21T17:20:36.075Z"
     },
     {
       "match_id": "5162088",
@@ -1245,7 +1237,15 @@
       "stadium": "Stadionā Esplanāde",
       "country": "Latvia",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-fk-tukums-2000/zyzn2vf#5162088",
-      "checked_at": "2026-10-21T12:01:03.576Z"
+      "checked_at": "2026-10-21T17:20:36.504Z"
+    },
+    {
+      "match_id": "5881711",
+      "city": "Fürth",
+      "stadium": "Sportpark Ronhof Thomas Sommer",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
+      "checked_at": "2026-10-21T17:20:37.112Z"
     },
     {
       "match_id": "5162089",
@@ -1253,7 +1253,7 @@
       "stadium": "Stadions Daugava mākslīgas laukums",
       "country": "Latvia",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-sk-super-nova/68rly80e#5162089",
-      "checked_at": "2026-10-21T12:01:04.294Z"
+      "checked_at": "2026-10-21T17:20:37.189Z"
     },
     {
       "match_id": "5972998",
@@ -1263,20 +1263,12 @@
       "checked_at": "2026-10-13T02:53:33.135Z"
     },
     {
-      "match_id": "5881711",
-      "city": "Fürth",
-      "stadium": "Sportpark Ronhof Thomas Sommer",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
-      "checked_at": "2026-10-21T12:01:04.921Z"
-    },
-    {
-      "match_id": "5811793",
-      "city": "Brugge",
-      "stadium": "Jan Breydelstadion",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
-      "checked_at": "2026-10-21T12:01:05.248Z"
+      "match_id": "5162091",
+      "city": "Rīga",
+      "stadium": "LNK Sporta Parks dabīgais",
+      "country": "Latvia",
+      "source_url": "https://www.fotmob.com/matches/rfs-vs-grobina/5avvuusn#5162091",
+      "checked_at": "2026-10-21T17:20:37.469Z"
     },
     {
       "match_id": "5881715",
@@ -1284,31 +1276,7 @@
       "stadium": "Millerntor-Stadion",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
-      "checked_at": "2026-10-21T12:01:05.582Z"
-    },
-    {
-      "match_id": "5881712",
-      "city": "Hannover",
-      "stadium": "Heinz von Heiden-Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-hannover-96/2smcyg#5881712",
-      "checked_at": "2026-10-21T12:01:05.715Z"
-    },
-    {
-      "match_id": "5749736",
-      "city": "Roma",
-      "stadium": "Stadio Olimpico",
-      "country": "Italy",
-      "source_url": "https://www.fotmob.com/matches/cagliari-vs-lazio/2ersjb#5749736",
-      "checked_at": "2026-10-21T12:01:05.992Z"
-    },
-    {
-      "match_id": "5846015",
-      "city": "Wals-Siezenheim",
-      "stadium": "Red Bull Arena",
-      "country": "Austria",
-      "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
-      "checked_at": "2026-10-21T12:01:06.074Z"
+      "checked_at": "2026-10-21T17:20:38.124Z"
     },
     {
       "match_id": "5811798",
@@ -1316,7 +1284,39 @@
       "stadium": "Daio Wasabi Stayen Stadium",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "checked_at": "2026-10-21T12:01:06.511Z"
+      "checked_at": "2026-10-21T17:20:39.397Z"
+    },
+    {
+      "match_id": "5811793",
+      "city": "Brugge",
+      "stadium": "Jan Breydelstadion",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
+      "checked_at": "2026-10-21T17:20:39.405Z"
+    },
+    {
+      "match_id": "5846015",
+      "city": "Wals-Siezenheim",
+      "stadium": "Red Bull Arena",
+      "country": "Austria",
+      "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
+      "checked_at": "2026-10-21T17:20:39.485Z"
+    },
+    {
+      "match_id": "5881712",
+      "city": "Hannover",
+      "stadium": "Heinz von Heiden-Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-hannover-96/2smcyg#5881712",
+      "checked_at": "2026-10-21T17:20:39.520Z"
+    },
+    {
+      "match_id": "5749736",
+      "city": "Roma",
+      "stadium": "Stadio Olimpico",
+      "country": "Italy",
+      "source_url": "https://www.fotmob.com/matches/cagliari-vs-lazio/2ersjb#5749736",
+      "checked_at": "2026-10-21T17:20:40.545Z"
     },
     {
       "match_id": "1000015496",
@@ -1324,23 +1324,7 @@
       "stadium": "DENDER Football Complex",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/fcv-dender-eh-vs-genk-u23/c9iai636#1000015496",
-      "checked_at": "2026-10-21T12:01:07.246Z"
-    },
-    {
-      "match_id": "5804288",
-      "city": "Lugano",
-      "stadium": "AIL Arena",
-      "country": "Switzerland",
-      "source_url": "https://www.fotmob.com/matches/lugano-vs-basel/2mm7b5#5804288",
-      "checked_at": "2026-10-21T12:01:07.301Z"
-    },
-    {
-      "match_id": "5887664",
-      "city": "Arouca",
-      "stadium": "Estádio Municipal de Arouca",
-      "country": "Portugal",
-      "source_url": "https://www.fotmob.com/matches/nacional-vs-arouca/6i7zxjr#5887664",
-      "checked_at": "2026-10-21T12:01:07.435Z"
+      "checked_at": "2026-10-21T17:20:40.726Z"
     },
     {
       "match_id": "5781789",
@@ -1348,15 +1332,23 @@
       "stadium": "Euroborg",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-fc-groningen/2gzc1y#5781789",
-      "checked_at": "2026-10-21T12:01:07.853Z"
+      "checked_at": "2026-10-21T17:20:40.761Z"
     },
     {
-      "match_id": "5795501",
-      "city": "Liverpool",
-      "stadium": "Anfield",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/liverpool-vs-arsenal/2tmaz7#5795501",
-      "checked_at": "2026-10-21T12:01:08.502Z"
+      "match_id": "5887664",
+      "city": "Arouca",
+      "stadium": "Estádio Municipal de Arouca",
+      "country": "Portugal",
+      "source_url": "https://www.fotmob.com/matches/nacional-vs-arouca/6i7zxjr#5887664",
+      "checked_at": "2026-10-21T17:20:41.030Z"
+    },
+    {
+      "match_id": "5804288",
+      "city": "Lugano",
+      "stadium": "AIL Arena",
+      "country": "Switzerland",
+      "source_url": "https://www.fotmob.com/matches/lugano-vs-basel/2mm7b5#5804288",
+      "checked_at": "2026-10-21T17:20:41.369Z"
     },
     {
       "match_id": "5802979",
@@ -1364,23 +1356,15 @@
       "stadium": "Stade Jean Bouin",
       "country": "France",
       "source_url": "https://www.fotmob.com/matches/paris-fc-vs-monaco/267nv1#5802979",
-      "checked_at": "2026-10-21T12:01:08.724Z"
+      "checked_at": "2026-10-21T17:20:41.735Z"
     },
     {
-      "match_id": "5739539",
-      "city": "Brøndby",
-      "stadium": "Brøndby Stadion",
-      "country": "Denmark",
-      "source_url": "https://www.fotmob.com/matches/agf-vs-brondby-if/2aozua#5739539",
-      "checked_at": "2026-10-21T12:01:08.901Z"
-    },
-    {
-      "match_id": "5811794",
-      "city": "Charleroi",
-      "stadium": "Stade du Pays de Charleroi",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-raal-la-louviere/9mx28cak#5811794",
-      "checked_at": "2026-10-21T12:01:09.191Z"
+      "match_id": "5795501",
+      "city": "Liverpool",
+      "stadium": "Anfield",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/liverpool-vs-arsenal/2tmaz7#5795501",
+      "checked_at": "2026-10-21T17:20:42.822Z"
     },
     {
       "match_id": "5868114",
@@ -1388,15 +1372,23 @@
       "stadium": "Estadio Manuel Martínez Valero",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-elche/3hjjfk#5868114",
-      "checked_at": "2026-10-21T12:01:09.391Z"
+      "checked_at": "2026-10-21T17:20:42.829Z"
     },
     {
-      "match_id": "5853537",
-      "city": "București",
-      "stadium": "Stadionul Arcul de Triumf",
-      "country": "Romania",
-      "source_url": "https://www.fotmob.com/matches/dinamo-bucuresti-vs-uta-arad/29attgjo#5853537",
-      "checked_at": "2026-10-21T12:01:09.917Z"
+      "match_id": "5739539",
+      "city": "Brøndby",
+      "stadium": "Brøndby Stadion",
+      "country": "Denmark",
+      "source_url": "https://www.fotmob.com/matches/agf-vs-brondby-if/2aozua#5739539",
+      "checked_at": "2026-10-21T17:20:42.929Z"
+    },
+    {
+      "match_id": "5811794",
+      "city": "Charleroi",
+      "stadium": "Stade du Pays de Charleroi",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-raal-la-louviere/9mx28cak#5811794",
+      "checked_at": "2026-10-21T17:20:43.074Z"
     },
     {
       "match_id": "5868111",
@@ -1404,7 +1396,15 @@
       "stadium": "Estadio de San Mamés",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/athletic-club-vs-real-sociedad/2cs4ea#5868111",
-      "checked_at": "2026-10-21T12:01:10.314Z"
+      "checked_at": "2026-10-21T17:20:43.828Z"
+    },
+    {
+      "match_id": "5853537",
+      "city": "București",
+      "stadium": "Stadionul Arcul de Triumf",
+      "country": "Romania",
+      "source_url": "https://www.fotmob.com/matches/dinamo-bucuresti-vs-uta-arad/29attgjo#5853537",
+      "checked_at": "2026-10-21T17:20:44.251Z"
     },
     {
       "match_id": "5868524",
@@ -1412,15 +1412,7 @@
       "stadium": "Estadio Municipal José Zorrilla",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/leganes-vs-real-valladolid/2pwv36#5868524",
-      "checked_at": "2026-10-21T12:01:10.938Z"
-    },
-    {
-      "match_id": "1000021076",
-      "city": "Bjelovar",
-      "stadium": "Stadion Brdo",
-      "country": "Croatia",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-mladost-zdralovi/25cgw6nn#1000021076",
-      "checked_at": "2026-10-21T12:01:11.005Z"
+      "checked_at": "2026-10-21T17:20:44.809Z"
     },
     {
       "match_id": "5739537",
@@ -1428,7 +1420,7 @@
       "stadium": "Sydbank Park",
       "country": "Denmark",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#5739537",
-      "checked_at": "2026-10-21T12:01:11.021Z"
+      "checked_at": "2026-10-21T17:20:44.823Z"
     },
     {
       "match_id": "5868521",
@@ -1436,7 +1428,15 @@
       "stadium": "Estadio Municipal Carlos Tartiere",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
-      "checked_at": "2026-10-21T12:01:11.034Z"
+      "checked_at": "2026-10-21T17:20:44.885Z"
+    },
+    {
+      "match_id": "1000021076",
+      "city": "Bjelovar",
+      "stadium": "Stadion Brdo",
+      "country": "Croatia",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-mladost-zdralovi/25cgw6nn#1000021076",
+      "checked_at": "2026-10-21T17:20:45.290Z"
     },
     {
       "match_id": "5836915",
@@ -1444,7 +1444,7 @@
       "stadium": "MATRADE Loftus Road",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
-      "checked_at": "2026-10-21T12:01:11.654Z"
+      "checked_at": "2026-10-21T17:20:45.619Z"
     },
     {
       "match_id": "5836920",
@@ -1452,31 +1452,7 @@
       "stadium": "The Valley",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/charlton-athletic-vs-bolton-wanderers/2e55ai#5836920",
-      "checked_at": "2026-10-21T12:01:11.793Z"
-    },
-    {
-      "match_id": "5836917",
-      "city": "West Bromwich",
-      "stadium": "The Hawthorns",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/southampton-vs-west-bromwich-albion/2fb7w2#5836917",
-      "checked_at": "2026-10-21T12:01:12.451Z"
-    },
-    {
-      "match_id": "5836911",
-      "city": "Blackburn, Lancashire",
-      "stadium": "Ewood Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
-      "checked_at": "2026-10-21T12:01:12.710Z"
-    },
-    {
-      "match_id": "5836910",
-      "city": "Birmingham",
-      "stadium": "St. Andrew's @ Knighthead Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
-      "checked_at": "2026-10-21T12:01:12.850Z"
+      "checked_at": "2026-10-21T17:20:46.429Z"
     },
     {
       "match_id": "6106408",
@@ -1484,15 +1460,31 @@
       "stadium": "Raiffeisen Arena",
       "country": "Austria",
       "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-lask/246hxb#6106408",
-      "checked_at": "2026-10-21T12:01:12.897Z"
+      "checked_at": "2026-10-21T17:20:46.599Z"
     },
     {
-      "match_id": "6106266",
-      "city": "Madrid",
-      "stadium": "Riyadh Air Metropolitano",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-atletico-madrid/37vqh7#6106266",
-      "checked_at": "2026-10-21T12:01:13.365Z"
+      "match_id": "5836917",
+      "city": "West Bromwich",
+      "stadium": "The Hawthorns",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/southampton-vs-west-bromwich-albion/2fb7w2#5836917",
+      "checked_at": "2026-10-21T17:20:46.650Z"
+    },
+    {
+      "match_id": "5836910",
+      "city": "Birmingham",
+      "stadium": "St. Andrew's @ Knighthead Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
+      "checked_at": "2026-10-21T17:20:47.406Z"
+    },
+    {
+      "match_id": "5836911",
+      "city": "Blackburn, Lancashire",
+      "stadium": "Ewood Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
+      "checked_at": "2026-10-21T17:20:47.660Z"
     },
     {
       "match_id": "6106316",
@@ -1500,7 +1492,15 @@
       "stadium": "Aspmyra Stadion",
       "country": "Norway",
       "source_url": "https://www.fotmob.com/matches/bodoglimt-vs-lille/2eggm0#6106316",
-      "checked_at": "2026-10-21T12:01:13.413Z"
+      "checked_at": "2026-10-21T17:20:47.831Z"
+    },
+    {
+      "match_id": "6106266",
+      "city": "Madrid",
+      "stadium": "Riyadh Air Metropolitano",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-atletico-madrid/37vqh7#6106266",
+      "checked_at": "2026-10-21T17:20:48.515Z"
     },
     {
       "match_id": "6106306",
@@ -1508,7 +1508,7 @@
       "stadium": "Stadion Feijenoord",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/inter-vs-feyenoord/2y0ruo#6106306",
-      "checked_at": "2026-10-21T12:01:14.015Z"
+      "checked_at": "2026-10-21T17:20:48.693Z"
     },
     {
       "match_id": "6106263",
@@ -1516,39 +1516,7 @@
       "stadium": "Spotify Camp Nou",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/barcelona-vs-aston-villa/2y6ucv#6106263",
-      "checked_at": "2026-10-21T12:01:14.213Z"
-    },
-    {
-      "match_id": "6112380",
-      "city": "Sofia",
-      "stadium": "Stadion Vasil Levski",
-      "country": "Bulgaria",
-      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-levski-sofia/xdxl7#6112380",
-      "checked_at": "2026-10-21T12:01:14.635Z"
-    },
-    {
-      "match_id": "6106330",
-      "city": "İstanbul",
-      "stadium": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-      "country": "Türkiye",
-      "source_url": "https://www.fotmob.com/matches/liverpool-vs-fenerbahce/2hkhp4#6106330",
-      "checked_at": "2026-10-21T12:01:14.641Z"
-    },
-    {
-      "match_id": "5836918",
-      "city": "Bristol",
-      "stadium": "Ashton Gate Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/bristol-city-vs-wolverhampton-wanderers/2ec2uh#5836918",
-      "checked_at": "2026-10-21T12:01:15.491Z"
-    },
-    {
-      "match_id": "6112325",
-      "city": "London",
-      "stadium": "Selhurst Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
-      "checked_at": "2026-10-21T12:01:15.525Z"
+      "checked_at": "2026-10-21T17:20:48.811Z"
     },
     {
       "match_id": "6106303",
@@ -1556,15 +1524,23 @@
       "stadium": "Philips Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/club-brugge-vs-psv-eindhoven/2duy59#6106303",
-      "checked_at": "2026-10-21T12:01:15.836Z"
+      "checked_at": "2026-10-21T17:20:49.510Z"
     },
     {
-      "match_id": "6112410",
-      "city": "Beograd",
-      "stadium": "Stadion Rajko Mitić",
-      "country": "Serbia",
-      "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
-      "checked_at": "2026-10-21T12:01:15.932Z"
+      "match_id": "5836918",
+      "city": "Bristol",
+      "stadium": "Ashton Gate Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/bristol-city-vs-wolverhampton-wanderers/2ec2uh#5836918",
+      "checked_at": "2026-10-21T17:20:49.694Z"
+    },
+    {
+      "match_id": "6106330",
+      "city": "İstanbul",
+      "stadium": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+      "country": "Türkiye",
+      "source_url": "https://www.fotmob.com/matches/liverpool-vs-fenerbahce/2hkhp4#6106330",
+      "checked_at": "2026-10-21T17:20:49.886Z"
     },
     {
       "match_id": "6112501",
@@ -1572,7 +1548,23 @@
       "stadium": "Papara Park",
       "country": "Türkiye",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-trabzonspor/2pn6yh#6112501",
-      "checked_at": "2026-10-21T12:01:16.249Z"
+      "checked_at": "2026-10-21T17:20:50.604Z"
+    },
+    {
+      "match_id": "6112380",
+      "city": "Sofia",
+      "stadium": "Stadion Vasil Levski",
+      "country": "Bulgaria",
+      "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-levski-sofia/xdxl7#6112380",
+      "checked_at": "2026-10-21T17:20:50.762Z"
+    },
+    {
+      "match_id": "6112325",
+      "city": "London",
+      "stadium": "Selhurst Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
+      "checked_at": "2026-10-21T17:20:50.983Z"
     },
     {
       "match_id": "6112270",
@@ -1580,7 +1572,7 @@
       "stadium": "Estadio Municipal de Anoeta",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-lyon/2rsgym#6112270",
-      "checked_at": "2026-10-21T12:01:16.430Z"
+      "checked_at": "2026-10-21T17:20:51.115Z"
     },
     {
       "match_id": "6112311",
@@ -1588,7 +1580,15 @@
       "stadium": "Lotto Park",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-salzburg/2vj3uv#6112311",
-      "checked_at": "2026-10-21T12:01:17.155Z"
+      "checked_at": "2026-10-21T17:20:51.623Z"
+    },
+    {
+      "match_id": "6112410",
+      "city": "Beograd",
+      "stadium": "Stadion Rajko Mitić",
+      "country": "Serbia",
+      "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
+      "checked_at": "2026-10-21T17:20:51.839Z"
     },
     {
       "match_id": "6112347",
@@ -1596,7 +1596,7 @@
       "stadium": "Estadio Abanca-Balaídos",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-celta-vigo/2n9jty#6112347",
-      "checked_at": "2026-10-21T12:01:17.165Z"
+      "checked_at": "2026-10-21T17:20:52.091Z"
     },
     {
       "match_id": "6112401",
@@ -1604,7 +1604,7 @@
       "stadium": "Stade Louis-II",
       "country": "",
       "source_url": "https://www.fotmob.com/matches/monaco-vs-nordsjaelland/3bgf2d#6112401",
-      "checked_at": "2026-10-21T12:01:17.573Z"
+      "checked_at": "2026-10-21T17:20:52.592Z"
     },
     {
       "match_id": "6112404",
@@ -1612,15 +1612,7 @@
       "stadium": "Parken",
       "country": "Denmark",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-iberia-1999/1iuqu04u#6112404",
-      "checked_at": "2026-10-21T12:01:17.611Z"
-    },
-    {
-      "match_id": "6112474",
-      "city": "Getafe",
-      "stadium": "Estadio Coliseum",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/getafe-vs-brighton-hove-albion/2tzqy4#6112474",
-      "checked_at": "2026-10-21T12:01:17.648Z"
+      "checked_at": "2026-10-21T17:20:52.822Z"
     },
     {
       "match_id": "6112490",
@@ -1628,7 +1620,7 @@
       "stadium": "Daio Wasabi Stayen Stadium",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "checked_at": "2026-10-21T12:01:18.069Z"
+      "checked_at": "2026-10-21T17:20:52.950Z"
     },
     {
       "match_id": "6112262",
@@ -1636,7 +1628,15 @@
       "stadium": "AFAS Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/juventus-vs-az-alkmaar/3cg4nc#6112262",
-      "checked_at": "2026-10-21T12:01:18.401Z"
+      "checked_at": "2026-10-21T17:20:53.134Z"
+    },
+    {
+      "match_id": "6112474",
+      "city": "Getafe",
+      "stadium": "Estadio Coliseum",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/getafe-vs-brighton-hove-albion/2tzqy4#6112474",
+      "checked_at": "2026-10-21T17:20:53.599Z"
     },
     {
       "match_id": "5973003",
@@ -1646,12 +1646,12 @@
       "checked_at": "2026-10-13T02:54:05.264Z"
     },
     {
-      "match_id": "5881218",
-      "city": "Hamburg",
-      "stadium": "Volksparkstadion",
+      "match_id": "5881724",
+      "city": "Dresden",
+      "stadium": "Rudolf-Harbig-Stadion",
       "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-hamburger-sv/3644gd#5881218",
-      "checked_at": "2026-10-21T12:01:18.501Z"
+      "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-dynamo-dresden/2cee33#5881724",
+      "checked_at": "2026-10-21T17:20:54.816Z"
     },
     {
       "match_id": "5973001",
@@ -1661,28 +1661,12 @@
       "checked_at": "2026-10-13T02:54:06.693Z"
     },
     {
-      "match_id": "1000015501",
-      "city": "Hasselt",
-      "stadium": "Stedelijk Sportstadion",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/sporting-hasselt-vs-patro-eisden/hls36cw#1000015501",
-      "checked_at": "2026-10-21T12:01:19.389Z"
-    },
-    {
-      "match_id": "5881724",
-      "city": "Dresden",
-      "stadium": "Rudolf-Harbig-Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/greuther-furth-vs-dynamo-dresden/2cee33#5881724",
-      "checked_at": "2026-10-21T12:01:19.455Z"
-    },
-    {
       "match_id": "5832939",
       "city": "Wijdewormer",
       "stadium": "AFAS Trainingscomplex",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/almere-city-fc-vs-jong-az-alkmaar/2zvuobc8#5832939",
-      "checked_at": "2026-10-21T12:01:20.688Z"
+      "checked_at": "2026-10-21T17:20:55.163Z"
     },
     {
       "match_id": "1000015503",
@@ -1690,23 +1674,15 @@
       "stadium": "Stadion De Leunen",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/genk-u23-vs-gent-u23/1cirgidrm#1000015503",
-      "checked_at": "2026-10-21T12:01:20.726Z"
+      "checked_at": "2026-10-21T17:20:55.502Z"
     },
     {
-      "match_id": "5836927",
-      "city": "Derby",
-      "stadium": "Pride Park Stadium",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-derby-county/2wfjv0#5836927",
-      "checked_at": "2026-10-21T12:01:20.814Z"
-    },
-    {
-      "match_id": "5887675",
-      "city": "Vila Nova de Famalicão",
-      "stadium": "Estádio Municipal 22 de Junho",
-      "country": "Portugal",
-      "source_url": "https://www.fotmob.com/matches/famalicao-vs-arouca/5uy3d72#5887675",
-      "checked_at": "2026-10-21T12:01:20.881Z"
+      "match_id": "1000015501",
+      "city": "Hasselt",
+      "stadium": "Stedelijk Sportstadion",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/sporting-hasselt-vs-patro-eisden/hls36cw#1000015501",
+      "checked_at": "2026-10-21T17:20:55.568Z"
     },
     {
       "match_id": "5795508",
@@ -1714,47 +1690,23 @@
       "stadium": "Hill Dickinson Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/everton-vs-coventry-city/2hhimq#5795508",
-      "checked_at": "2026-10-21T12:01:20.988Z"
+      "checked_at": "2026-10-21T17:20:56.341Z"
     },
     {
-      "match_id": "1000015175",
-      "city": "Novi Sad",
-      "stadium": "Stadion Karađorđe",
-      "country": "Serbia",
-      "source_url": "https://www.fotmob.com/matches/vojvodina-vs-fk-crvena-zvezda/1vtlt2#1000015175",
-      "checked_at": "2026-10-21T12:01:21.570Z"
-    },
-    {
-      "match_id": "5881721",
-      "city": "Kiel",
-      "stadium": "Holstein-Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-arminia-bielefeld/2p4l7l#5881721",
-      "checked_at": "2026-10-21T12:01:21.895Z"
-    },
-    {
-      "match_id": "5836924",
-      "city": "Bristol",
-      "stadium": "Ashton Gate Stadium",
+      "match_id": "5836927",
+      "city": "Derby",
+      "stadium": "Pride Park Stadium",
       "country": "England",
-      "source_url": "https://www.fotmob.com/matches/bristol-city-vs-norwich-city/2rgbh5#5836924",
-      "checked_at": "2026-10-21T12:01:22.490Z"
+      "source_url": "https://www.fotmob.com/matches/bolton-wanderers-vs-derby-county/2wfjv0#5836927",
+      "checked_at": "2026-10-21T17:20:56.640Z"
     },
     {
-      "match_id": "5881723",
-      "city": "Nürnberg",
-      "stadium": "Max-Morlock-Stadion",
+      "match_id": "5881218",
+      "city": "Hamburg",
+      "stadium": "Volksparkstadion",
       "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/1-fc-nurnberg-vs-darmstadt/28c83c#5881723",
-      "checked_at": "2026-10-21T12:01:22.588Z"
-    },
-    {
-      "match_id": "5881220",
-      "city": "Mainz",
-      "stadium": "MEWA ARENA",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-mainz-05/37vb95#5881220",
-      "checked_at": "2026-10-21T12:01:22.666Z"
+      "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-hamburger-sv/3644gd#5881218",
+      "checked_at": "2026-10-21T17:20:56.749Z"
     },
     {
       "match_id": "1000015174",
@@ -1762,7 +1714,47 @@
       "stadium": "EFBET Stadion",
       "country": "Serbia",
       "source_url": "https://www.fotmob.com/matches/ofk-beograd-vs-fk-radnik-surdulica/1f7f2heh#1000015174",
-      "checked_at": "2026-10-21T12:01:22.680Z"
+      "checked_at": "2026-10-21T17:20:57.614Z"
+    },
+    {
+      "match_id": "1000015175",
+      "city": "Novi Sad",
+      "stadium": "Stadion Karađorđe",
+      "country": "Serbia",
+      "source_url": "https://www.fotmob.com/matches/vojvodina-vs-fk-crvena-zvezda/1vtlt2#1000015175",
+      "checked_at": "2026-10-21T17:20:58.069Z"
+    },
+    {
+      "match_id": "5887675",
+      "city": "Vila Nova de Famalicão",
+      "stadium": "Estádio Municipal 22 de Junho",
+      "country": "Portugal",
+      "source_url": "https://www.fotmob.com/matches/famalicao-vs-arouca/5uy3d72#5887675",
+      "checked_at": "2026-10-21T17:20:58.081Z"
+    },
+    {
+      "match_id": "5881723",
+      "city": "Nürnberg",
+      "stadium": "Max-Morlock-Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/1-fc-nurnberg-vs-darmstadt/28c83c#5881723",
+      "checked_at": "2026-10-21T17:20:58.569Z"
+    },
+    {
+      "match_id": "5881721",
+      "city": "Kiel",
+      "stadium": "Holstein-Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-arminia-bielefeld/2p4l7l#5881721",
+      "checked_at": "2026-10-21T17:20:58.779Z"
+    },
+    {
+      "match_id": "5836924",
+      "city": "Bristol",
+      "stadium": "Ashton Gate Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/bristol-city-vs-norwich-city/2rgbh5#5836924",
+      "checked_at": "2026-10-21T17:20:58.940Z"
     },
     {
       "match_id": "5795511",
@@ -1770,15 +1762,7 @@
       "stadium": "Elland Road",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-tottenham-hotspur/2ejdsf#5795511",
-      "checked_at": "2026-10-21T12:01:23.138Z"
-    },
-    {
-      "match_id": "5765954",
-      "city": "Velika Gorica",
-      "stadium": "ŠRC Velika Gorica",
-      "country": "Croatia",
-      "source_url": "https://www.fotmob.com/matches/slaven-vs-hnk-gorica/9y8sb0b#5765954",
-      "checked_at": "2026-10-21T12:01:23.322Z"
+      "checked_at": "2026-10-21T17:20:59.590Z"
     },
     {
       "match_id": "5749741",
@@ -1786,31 +1770,15 @@
       "stadium": "Unipol Domus",
       "country": "Italy",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-frosinone/2t0k4l#5749741",
-      "checked_at": "2026-10-21T12:01:23.480Z"
+      "checked_at": "2026-10-21T17:20:59.798Z"
     },
     {
-      "match_id": "5836925",
-      "city": "Cardiff (Caerdydd)",
-      "stadium": "Cardiff City Stadium",
-      "country": "Wales",
-      "source_url": "https://www.fotmob.com/matches/burnley-vs-cardiff-city/29edm4#5836925",
-      "checked_at": "2026-10-21T12:01:24.354Z"
-    },
-    {
-      "match_id": "5836923",
-      "city": "Blackburn, Lancashire",
-      "stadium": "Ewood Park",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/west-ham-united-vs-blackburn-rovers/2h74ci#5836923",
-      "checked_at": "2026-10-21T12:01:24.643Z"
-    },
-    {
-      "match_id": "5836929",
-      "city": "Preston",
-      "stadium": "Deepdale",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-southampton/2csud9#5836929",
-      "checked_at": "2026-10-21T12:01:24.844Z"
+      "match_id": "5765954",
+      "city": "Velika Gorica",
+      "stadium": "ŠRC Velika Gorica",
+      "country": "Croatia",
+      "source_url": "https://www.fotmob.com/matches/slaven-vs-hnk-gorica/9y8sb0b#5765954",
+      "checked_at": "2026-10-21T17:21:00.092Z"
     },
     {
       "match_id": "5881221",
@@ -1818,15 +1786,39 @@
       "stadium": "Home Deluxe Arena",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-eintracht-frankfurt/2rdkqr#5881221",
-      "checked_at": "2026-10-21T12:01:24.892Z"
+      "checked_at": "2026-10-21T17:21:00.553Z"
     },
     {
-      "match_id": "5795505",
-      "city": "London",
-      "stadium": "Emirates Stadium",
+      "match_id": "5881220",
+      "city": "Mainz",
+      "stadium": "MEWA ARENA",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-mainz-05/37vb95#5881220",
+      "checked_at": "2026-10-21T17:21:00.601Z"
+    },
+    {
+      "match_id": "5836925",
+      "city": "Cardiff (Caerdydd)",
+      "stadium": "Cardiff City Stadium",
+      "country": "Wales",
+      "source_url": "https://www.fotmob.com/matches/burnley-vs-cardiff-city/29edm4#5836925",
+      "checked_at": "2026-10-21T17:21:00.736Z"
+    },
+    {
+      "match_id": "5836929",
+      "city": "Preston",
+      "stadium": "Deepdale",
       "country": "England",
-      "source_url": "https://www.fotmob.com/matches/hull-city-vs-arsenal/2tt1fr#5795505",
-      "checked_at": "2026-10-21T12:01:25.161Z"
+      "source_url": "https://www.fotmob.com/matches/preston-north-end-vs-southampton/2csud9#5836929",
+      "checked_at": "2026-10-21T17:21:01.525Z"
+    },
+    {
+      "match_id": "5836923",
+      "city": "Blackburn, Lancashire",
+      "stadium": "Ewood Park",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/west-ham-united-vs-blackburn-rovers/2h74ci#5836923",
+      "checked_at": "2026-10-21T17:21:01.576Z"
     },
     {
       "match_id": "5836922",
@@ -1834,7 +1826,15 @@
       "stadium": "St. Andrew's @ Knighthead Park",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-swansea-city/2vob01#5836922",
-      "checked_at": "2026-10-21T12:01:25.462Z"
+      "checked_at": "2026-10-21T17:21:01.885Z"
+    },
+    {
+      "match_id": "5795505",
+      "city": "London",
+      "stadium": "Emirates Stadium",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/hull-city-vs-arsenal/2tt1fr#5795505",
+      "checked_at": "2026-10-21T17:21:02.044Z"
     },
     {
       "match_id": "5811808",
@@ -1842,7 +1842,23 @@
       "stadium": "Het Kuipje",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-westerlo/3axjuo#5811808",
-      "checked_at": "2026-10-21T12:01:26.479Z"
+      "checked_at": "2026-10-21T17:21:02.287Z"
+    },
+    {
+      "match_id": "5836930",
+      "city": "London",
+      "stadium": "MATRADE Loftus Road",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-queens-park-rangers/2v0qlx#5836930",
+      "checked_at": "2026-10-21T17:21:02.873Z"
+    },
+    {
+      "match_id": "5853551",
+      "city": null,
+      "stadium": "Arena Francisc Neuman",
+      "country": "",
+      "source_url": "https://www.fotmob.com/matches/petrolul-ploiesti-vs-uta-arad/3t747xyq#5853551",
+      "checked_at": "2026-10-21T17:21:03.335Z"
     },
     {
       "match_id": "5987551",
@@ -1852,28 +1868,12 @@
       "checked_at": "2026-10-13T02:54:23.808Z"
     },
     {
-      "match_id": "5853551",
-      "city": null,
-      "stadium": "Arena Francisc Neuman",
-      "country": "",
-      "source_url": "https://www.fotmob.com/matches/petrolul-ploiesti-vs-uta-arad/3t747xyq#5853551",
-      "checked_at": "2026-10-21T12:01:26.689Z"
-    },
-    {
-      "match_id": "5836930",
-      "city": "London",
-      "stadium": "MATRADE Loftus Road",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-queens-park-rangers/2v0qlx#5836930",
-      "checked_at": "2026-10-21T12:01:26.697Z"
-    },
-    {
       "match_id": "5781799",
       "city": "Den Haag (‘s-Gravenhage)",
       "stadium": "WerkTalent Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-ado-den-haag/2xklzy#5781799",
-      "checked_at": "2026-10-21T12:01:27.383Z"
+      "checked_at": "2026-10-21T17:21:03.628Z"
     },
     {
       "match_id": "5811803",
@@ -1881,23 +1881,7 @@
       "stadium": "King Power at Den Dreef Stadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-kv-mechelen/tmtgn#5811803",
-      "checked_at": "2026-10-21T12:01:27.574Z"
-    },
-    {
-      "match_id": "5793974",
-      "city": "Paisley",
-      "stadium": "The Marbill Coaches Stadium",
-      "country": "Scotland",
-      "source_url": "https://www.fotmob.com/matches/rangers-vs-st-mirren/2s86p2#5793974",
-      "checked_at": "2026-10-21T12:01:28.065Z"
-    },
-    {
-      "match_id": "5881720",
-      "city": "Berlin",
-      "stadium": "Olympiastadion Berlin",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/hertha-bsc-vs-wolfsburg/2d0g7o#5881720",
-      "checked_at": "2026-10-21T12:01:28.401Z"
+      "checked_at": "2026-10-21T17:21:04.112Z"
     },
     {
       "match_id": "1000015505",
@@ -1905,7 +1889,23 @@
       "stadium": "Stade Yvan Georges",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/virton-vs-beerschot/28iirkkc#1000015505",
-      "checked_at": "2026-10-21T12:01:28.492Z"
+      "checked_at": "2026-10-21T17:21:04.226Z"
+    },
+    {
+      "match_id": "5793974",
+      "city": "Paisley",
+      "stadium": "The Marbill Coaches Stadium",
+      "country": "Scotland",
+      "source_url": "https://www.fotmob.com/matches/rangers-vs-st-mirren/2s86p2#5793974",
+      "checked_at": "2026-10-21T17:21:04.848Z"
+    },
+    {
+      "match_id": "5881720",
+      "city": "Berlin",
+      "stadium": "Olympiastadion Berlin",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/hertha-bsc-vs-wolfsburg/2d0g7o#5881720",
+      "checked_at": "2026-10-21T17:21:05.277Z"
     },
     {
       "match_id": "5811800",
@@ -1913,7 +1913,7 @@
       "stadium": "Bosuilstadion",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/lommel-vs-royal-antwerp/2axlrz#5811800",
-      "checked_at": "2026-10-21T12:01:28.779Z"
+      "checked_at": "2026-10-21T17:21:05.347Z"
     },
     {
       "match_id": "5868129",
@@ -1921,7 +1921,7 @@
       "stadium": "Estadio de Mestalla",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/real-madrid-vs-valencia/2ycigb#5868129",
-      "checked_at": "2026-10-21T12:01:28.871Z"
+      "checked_at": "2026-10-21T17:21:05.547Z"
     },
     {
       "match_id": "5739543",
@@ -1929,7 +1929,7 @@
       "stadium": "Parken",
       "country": "Denmark",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-brondby-if/2dwej6#5739543",
-      "checked_at": "2026-10-21T12:01:29.371Z"
+      "checked_at": "2026-10-21T17:21:06.528Z"
     },
     {
       "match_id": "5888104",
@@ -1939,12 +1939,12 @@
       "checked_at": "2026-10-13T02:54:32.384Z"
     },
     {
-      "match_id": "5162092",
-      "city": "Liepāja",
-      "stadium": "Stadions Daugava",
+      "match_id": "5162096",
+      "city": "Tukums",
+      "stadium": "Tukuma pilsētas stadions",
       "country": "Latvia",
-      "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-grobina/2vccvo2r#5162092",
-      "checked_at": "2026-10-21T12:01:29.797Z"
+      "source_url": "https://www.fotmob.com/matches/auda-vs-fk-tukums-2000/96ooq26#5162096",
+      "checked_at": "2026-10-21T17:21:07.052Z"
     },
     {
       "match_id": "5162095",
@@ -1952,23 +1952,7 @@
       "stadium": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
       "country": "Latvia",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-sk-super-nova/8vbi7hea#5162095",
-      "checked_at": "2026-10-21T12:01:30.379Z"
-    },
-    {
-      "match_id": "5162096",
-      "city": "Tukums",
-      "stadium": "Tukuma pilsētas stadions",
-      "country": "Latvia",
-      "source_url": "https://www.fotmob.com/matches/auda-vs-fk-tukums-2000/96ooq26#5162096",
-      "checked_at": "2026-10-21T12:01:30.413Z"
-    },
-    {
-      "match_id": "5802988",
-      "city": "Rennes",
-      "stadium": "Roazhon Park",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/lille-vs-rennes/2ts8x6#5802988",
-      "checked_at": "2026-10-21T12:01:30.489Z"
+      "checked_at": "2026-10-21T17:21:07.155Z"
     },
     {
       "match_id": "5781797",
@@ -1976,31 +1960,15 @@
       "stadium": "Abe Lenstra Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/sc-heerenveen-vs-feyenoord/3gnwjn#5781797",
-      "checked_at": "2026-10-21T12:01:30.935Z"
+      "checked_at": "2026-10-21T17:21:07.201Z"
     },
     {
-      "match_id": "5881717",
-      "city": "Bochum",
-      "stadium": "Ruhrstadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-bochum/2qok5k#5881717",
-      "checked_at": "2026-10-21T12:01:31.194Z"
-    },
-    {
-      "match_id": "5881722",
-      "city": "Magdeburg",
-      "stadium": "Avnet Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/st-pauli-vs-magdeburg/27ho6m#5881722",
-      "checked_at": "2026-10-21T12:01:31.233Z"
-    },
-    {
-      "match_id": "5881719",
-      "city": "Heidenheim an der Brenz",
-      "stadium": "Voith-Arena",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/hannover-96-vs-fc-heidenheim/2iw3s4d#5881719",
-      "checked_at": "2026-10-21T12:01:32.078Z"
+      "match_id": "5162092",
+      "city": "Liepāja",
+      "stadium": "Stadions Daugava",
+      "country": "Latvia",
+      "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-grobina/2vccvo2r#5162092",
+      "checked_at": "2026-10-21T17:21:07.381Z"
     },
     {
       "match_id": "5804032",
@@ -2008,15 +1976,39 @@
       "stadium": "Chorten Arena",
       "country": "Poland",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-gks-katowice/andv1#5804032",
-      "checked_at": "2026-10-21T12:01:32.498Z"
+      "checked_at": "2026-10-21T17:21:08.571Z"
     },
     {
-      "match_id": "5795510",
-      "city": "Ipswich, Suffolk",
-      "stadium": "Portman Road",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-ipswich-town/2us05c#5795510",
-      "checked_at": "2026-10-21T12:01:32.543Z"
+      "match_id": "5881722",
+      "city": "Magdeburg",
+      "stadium": "Avnet Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/st-pauli-vs-magdeburg/27ho6m#5881722",
+      "checked_at": "2026-10-21T17:21:08.631Z"
+    },
+    {
+      "match_id": "5881717",
+      "city": "Bochum",
+      "stadium": "Ruhrstadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-bochum/2qok5k#5881717",
+      "checked_at": "2026-10-21T17:21:08.829Z"
+    },
+    {
+      "match_id": "5881719",
+      "city": "Heidenheim an der Brenz",
+      "stadium": "Voith-Arena",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/hannover-96-vs-fc-heidenheim/2iw3s4d#5881719",
+      "checked_at": "2026-10-21T17:21:09.035Z"
+    },
+    {
+      "match_id": "5802988",
+      "city": "Rennes",
+      "stadium": "Roazhon Park",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/lille-vs-rennes/2ts8x6#5802988",
+      "checked_at": "2026-10-21T17:21:09.373Z"
     },
     {
       "match_id": "5795507",
@@ -2024,7 +2016,7 @@
       "stadium": "Selhurst Park",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-crystal-palace/2tmp8g#5795507",
-      "checked_at": "2026-10-21T12:01:32.850Z"
+      "checked_at": "2026-10-21T17:21:09.800Z"
     },
     {
       "match_id": "5795506",
@@ -2032,7 +2024,15 @@
       "stadium": "American Express Stadium",
       "country": "England",
       "source_url": "https://www.fotmob.com/matches/brentford-vs-brighton-hove-albion/3crs0s#5795506",
-      "checked_at": "2026-10-21T12:01:33.053Z"
+      "checked_at": "2026-10-21T17:21:09.960Z"
+    },
+    {
+      "match_id": "5795510",
+      "city": "Ipswich, Suffolk",
+      "stadium": "Portman Road",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-ipswich-town/2us05c#5795510",
+      "checked_at": "2026-10-21T17:21:10.289Z"
     },
     {
       "match_id": "5811802",
@@ -2040,47 +2040,7 @@
       "stadium": "Planet Group Arena",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-gent/2ukua2#5811802",
-      "checked_at": "2026-10-21T12:01:33.069Z"
-    },
-    {
-      "match_id": "5804296",
-      "city": "Thun",
-      "stadium": "VISANA STADION",
-      "country": "Switzerland",
-      "source_url": "https://www.fotmob.com/matches/basel-vs-thun/3cjkve#5804296",
-      "checked_at": "2026-10-21T12:01:34.287Z"
-    },
-    {
-      "match_id": "5868127",
-      "city": "Donostia-San Sebastián",
-      "stadium": "Estadio Municipal de Anoeta",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/rayo-vallecano-vs-real-sociedad/2dc1qb#5868127",
-      "checked_at": "2026-10-21T12:01:34.330Z"
-    },
-    {
-      "match_id": "5781798",
-      "city": "Alkmaar",
-      "stadium": "AFAS Stadion",
-      "country": "Netherlands",
-      "source_url": "https://www.fotmob.com/matches/fc-groningen-vs-az-alkmaar/2ydq8m#5781798",
-      "checked_at": "2026-10-21T12:01:34.342Z"
-    },
-    {
-      "match_id": "5802984",
-      "city": "Brest",
-      "stadium": "Stade Francis-Le Blé",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/brest-vs-lyon/2rd6lj#5802984",
-      "checked_at": "2026-10-21T12:01:34.366Z"
-    },
-    {
-      "match_id": "5881217",
-      "city": "Freiburg im Breisgau",
-      "stadium": "Europa-Park Stadion",
-      "country": "Germany",
-      "source_url": "https://www.fotmob.com/matches/union-berlin-vs-freiburg/294gog#5881217",
-      "checked_at": "2026-10-21T12:01:34.425Z"
+      "checked_at": "2026-10-21T17:21:10.949Z"
     },
     {
       "match_id": "5781796",
@@ -2088,15 +2048,23 @@
       "stadium": "Kooi Stadion",
       "country": "Netherlands",
       "source_url": "https://www.fotmob.com/matches/cambuur-vs-psv-eindhoven/28cl26#5781796",
-      "checked_at": "2026-10-21T12:01:34.453Z"
+      "checked_at": "2026-10-21T17:21:11.143Z"
     },
     {
-      "match_id": "5802985",
-      "city": "Le Havre",
-      "stadium": "Stade CMA CGM Océane",
-      "country": "France",
-      "source_url": "https://www.fotmob.com/matches/lorient-vs-le-havre/2t6haw#5802985",
-      "checked_at": "2026-10-21T12:01:34.689Z"
+      "match_id": "5804296",
+      "city": "Thun",
+      "stadium": "VISANA STADION",
+      "country": "Switzerland",
+      "source_url": "https://www.fotmob.com/matches/basel-vs-thun/3cjkve#5804296",
+      "checked_at": "2026-10-21T17:21:11.301Z"
+    },
+    {
+      "match_id": "5868127",
+      "city": "Donostia-San Sebastián",
+      "stadium": "Estadio Municipal de Anoeta",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/rayo-vallecano-vs-real-sociedad/2dc1qb#5868127",
+      "checked_at": "2026-10-21T17:21:11.349Z"
     },
     {
       "match_id": "5846021",
@@ -2104,23 +2072,39 @@
       "stadium": "Stadion Graz-Liebenau",
       "country": "Austria",
       "source_url": "https://www.fotmob.com/matches/salzburg-vs-sturm-graz/3bepe0#5846021",
-      "checked_at": "2026-10-21T12:01:35.444Z"
+      "checked_at": "2026-10-21T17:21:11.788Z"
     },
     {
-      "match_id": "5804035",
-      "city": "Warszawa",
-      "stadium": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
-      "country": "Poland",
-      "source_url": "https://www.fotmob.com/matches/rakow-czestochowa-vs-legia-warszawa/1c009y#5804035",
-      "checked_at": "2026-10-21T12:01:35.934Z"
+      "match_id": "5781798",
+      "city": "Alkmaar",
+      "stadium": "AFAS Stadion",
+      "country": "Netherlands",
+      "source_url": "https://www.fotmob.com/matches/fc-groningen-vs-az-alkmaar/2ydq8m#5781798",
+      "checked_at": "2026-10-21T17:21:12.230Z"
     },
     {
-      "match_id": "5795512",
-      "city": "Manchester",
-      "stadium": "Old Trafford",
-      "country": "England",
-      "source_url": "https://www.fotmob.com/matches/aston-villa-vs-manchester-united/3h9f6s#5795512",
-      "checked_at": "2026-10-21T12:01:36.035Z"
+      "match_id": "5802985",
+      "city": "Le Havre",
+      "stadium": "Stade CMA CGM Océane",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/lorient-vs-le-havre/2t6haw#5802985",
+      "checked_at": "2026-10-21T17:21:12.530Z"
+    },
+    {
+      "match_id": "5802984",
+      "city": "Brest",
+      "stadium": "Stade Francis-Le Blé",
+      "country": "France",
+      "source_url": "https://www.fotmob.com/matches/brest-vs-lyon/2rd6lj#5802984",
+      "checked_at": "2026-10-21T17:21:12.657Z"
+    },
+    {
+      "match_id": "5881217",
+      "city": "Freiburg im Breisgau",
+      "stadium": "Europa-Park Stadion",
+      "country": "Germany",
+      "source_url": "https://www.fotmob.com/matches/union-berlin-vs-freiburg/294gog#5881217",
+      "checked_at": "2026-10-21T17:21:13.539Z"
     },
     {
       "match_id": "5802986",
@@ -2128,7 +2112,23 @@
       "stadium": "Stade Marie-Marvingt",
       "country": "France",
       "source_url": "https://www.fotmob.com/matches/le-mans-vs-monaco/2u0kot#5802986",
-      "checked_at": "2026-10-21T12:01:36.054Z"
+      "checked_at": "2026-10-21T17:21:13.762Z"
+    },
+    {
+      "match_id": "5804035",
+      "city": "Warszawa",
+      "stadium": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+      "country": "Poland",
+      "source_url": "https://www.fotmob.com/matches/rakow-czestochowa-vs-legia-warszawa/1c009y#5804035",
+      "checked_at": "2026-10-21T17:21:13.806Z"
+    },
+    {
+      "match_id": "5795512",
+      "city": "Manchester",
+      "stadium": "Old Trafford",
+      "country": "England",
+      "source_url": "https://www.fotmob.com/matches/aston-villa-vs-manchester-united/3h9f6s#5795512",
+      "checked_at": "2026-10-21T17:21:14.159Z"
     },
     {
       "match_id": "5868533",
@@ -2136,7 +2136,7 @@
       "stadium": "Estadio de Gran Canaria",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
-      "checked_at": "2026-10-21T12:01:36.529Z"
+      "checked_at": "2026-10-21T17:21:14.187Z"
     },
     {
       "match_id": "5811805",
@@ -2144,31 +2144,7 @@
       "stadium": "Stade Joseph Mariën",
       "country": "Belgium",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-genk/2o34zy#5811805",
-      "checked_at": "2026-10-21T12:01:37.003Z"
-    },
-    {
-      "match_id": "5868535",
-      "city": "Gijón",
-      "stadium": "Estadio Municipal El Molinón-Enrique Castro Quini",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
-      "checked_at": "2026-10-21T12:01:37.235Z"
-    },
-    {
-      "match_id": "5868534",
-      "city": "Sabadell",
-      "stadium": "Estadi Municipal de la Nova Creu Alta",
-      "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
-      "checked_at": "2026-10-21T12:01:37.309Z"
-    },
-    {
-      "match_id": "5811807",
-      "city": "Sint-Truiden (St.-Trond)",
-      "stadium": "Daio Wasabi Stayen Stadium",
-      "country": "Belgium",
-      "source_url": "https://www.fotmob.com/matches/sttruiden-vs-zulte-waregem/3b1u4g#5811807",
-      "checked_at": "2026-10-21T12:01:37.561Z"
+      "checked_at": "2026-10-21T17:21:14.894Z"
     },
     {
       "match_id": "5881219",
@@ -2176,7 +2152,7 @@
       "stadium": "SNP Arena",
       "country": "Germany",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-schalke-04/2syjsa#5881219",
-      "checked_at": "2026-10-21T12:01:37.943Z"
+      "checked_at": "2026-10-21T17:21:15.037Z"
     },
     {
       "match_id": "5868546",
@@ -2184,15 +2160,31 @@
       "stadium": "Estadio Municipal José Zorrilla",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "checked_at": "2026-10-21T12:01:38.346Z"
+      "checked_at": "2026-10-21T17:21:15.641Z"
     },
     {
-      "match_id": "5868544",
-      "city": "Donostia-San Sebastián",
-      "stadium": "Estadio Izan",
+      "match_id": "5868535",
+      "city": "Gijón",
+      "stadium": "Estadio Municipal El Molinón-Enrique Castro Quini",
       "country": "Spain",
-      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "checked_at": "2026-10-21T12:01:38.821Z"
+      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
+      "checked_at": "2026-10-21T17:21:15.979Z"
+    },
+    {
+      "match_id": "5868534",
+      "city": "Sabadell",
+      "stadium": "Estadi Municipal de la Nova Creu Alta",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
+      "checked_at": "2026-10-21T17:21:16.057Z"
+    },
+    {
+      "match_id": "5811807",
+      "city": "Sint-Truiden (St.-Trond)",
+      "stadium": "Daio Wasabi Stayen Stadium",
+      "country": "Belgium",
+      "source_url": "https://www.fotmob.com/matches/sttruiden-vs-zulte-waregem/3b1u4g#5811807",
+      "checked_at": "2026-10-21T17:21:16.543Z"
     },
     {
       "match_id": "5888113",
@@ -2202,12 +2194,20 @@
       "checked_at": "2026-10-20T00:51:05.682Z"
     },
     {
+      "match_id": "5868544",
+      "city": "Donostia-San Sebastián",
+      "stadium": "Estadio Izan",
+      "country": "Spain",
+      "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
+      "checked_at": "2026-10-21T17:21:17.386Z"
+    },
+    {
       "match_id": "5868540",
       "city": "Granada",
       "stadium": "Estadio Nuevo Los Cármenes",
       "country": "Spain",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "checked_at": "2026-10-21T12:01:39.273Z"
+      "checked_at": "2026-10-21T17:21:17.784Z"
     }
   ],
   "errors": [

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T12:00:15.410Z",
-  "coverage_from": "2026-10-13T12:00:15.410Z",
-  "coverage_to": "2026-11-18T12:00:15.410Z",
+  "updated_at": "2026-10-21T17:19:36.253Z",
+  "coverage_from": "2026-10-13T17:19:36.253Z",
+  "coverage_to": "2026-11-18T17:19:36.253Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -94,7 +94,7 @@
       "kickoff_local": "2026-10-21T18:45:00",
       "venue_timezone": "Europe/Paris",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/galatasaray-vs-lille/2guw05#6106312",
       "team_source_url": "https://www.fotmob.com/teams/8639/fixtures/team"
     },
