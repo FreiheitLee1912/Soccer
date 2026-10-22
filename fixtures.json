@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T12:02:17.603Z",
-  "coverage_from": "2026-10-14T12:02:17.603Z",
-  "coverage_to": "2026-11-19T12:02:17.603Z",
+  "updated_at": "2026-10-22T17:18:17.805Z",
+  "coverage_from": "2026-10-14T17:18:17.805Z",
+  "coverage_to": "2026-11-19T17:18:17.805Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -83,22 +83,6 @@
   ],
   "fixtures": [
     {
-      "match_id": "5972989",
-      "club_id": 7979,
-      "home": "Sardarapat",
-      "home_id": 2101520,
-      "away": "Urartu FC",
-      "away_id": 7979,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-10-22T15:00:00.000Z",
-      "kickoff_local": "2026-10-22T19:00:00",
-      "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/urartu-fc-vs-sardarapat/se5c0ydx#5972989",
-      "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
-    },
-    {
       "match_id": "6112289",
       "club_id": 7978,
       "home": "Union St.Gilloise",
@@ -110,7 +94,7 @@
       "kickoff_local": "2026-10-22T18:45:00",
       "venue_timezone": "Europe/Brussels",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-hapoel-beer-sheva/2llzus#6112289",
       "team_source_url": "https://www.fotmob.com/teams/7978/fixtures/team"
     },
@@ -126,7 +110,7 @@
       "kickoff_local": "2026-10-22T18:45:00",
       "venue_timezone": "Europe/Belgrade",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-fk-crvena-zvezda/2etzp8#6112408",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
     },
@@ -142,7 +126,7 @@
       "kickoff_local": "2026-10-22T18:45:00",
       "venue_timezone": "Europe/Belgrade",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-fk-crvena-zvezda/2etzp8#6112408",
       "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
     },
@@ -158,7 +142,7 @@
       "kickoff_local": "2026-10-22T18:45:00",
       "venue_timezone": "Europe/Prague",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/jablonec-vs-brighton-hove-albion/2o1xp1#6112526",
       "team_source_url": "https://www.fotmob.com/teams/10204/fixtures/team"
     },
@@ -174,7 +158,7 @@
       "kickoff_local": "2026-10-22T20:45:00",
       "venue_timezone": "Asia/Yerevan",
       "timezone_basis": "Home club country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/az-alkmaar-vs-ararat-armenia/4wef0szc#6112382",
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
     },
@@ -3441,6 +3425,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/barcelona-vs-aston-villa/2y6ucv#6106263",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
+    },
+    {
+      "match_id": "6486794",
+      "club_id": 969268,
+      "home": "MFK Zvolen",
+      "home_id": 558382,
+      "away": "FC Košice",
+      "away_id": 969268,
+      "competition": "FA Cup",
+      "kickoff_utc": "2026-11-04T12:00:00.000Z",
+      "kickoff_local": "2026-11-04T13:00:00",
+      "venue_timezone": "Europe/Bratislava",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/mfk-zvolen-vs-fc-kosice/ew1ppuav#6486794",
+      "team_source_url": "https://www.fotmob.com/teams/969268/fixtures/team"
     },
     {
       "match_id": "6106330",
