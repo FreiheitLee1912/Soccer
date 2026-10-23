@@ -7757,14 +7757,14 @@
       "goals": 0,
       "assists": 1,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/borussia-monchengladbach-vs-vfb-stuttgart/3brl5t#5881205",
       "verified_at": "2026-10-23T21:29:40.671Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Yellow card at 53 minutes verified in the published FotMob event timeline on 2026-10-24."
     },
     {
       "week": "2026-W43",
