@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23T05:00:52.827Z",
-  "coverage_from": "2026-10-15T05:00:52.827Z",
-  "coverage_to": "2026-11-20T05:00:52.827Z",
+  "updated_at": "2026-10-23T11:48:04.145Z",
+  "coverage_from": "2026-10-15T11:48:04.145Z",
+  "coverage_to": "2026-11-20T11:48:04.145Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -241,22 +241,6 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/granada-vs-real-valladolid/2q6766#5868510",
       "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
-    },
-    {
-      "match_id": "5811786",
-      "club_id": 8571,
-      "home": "Kortrijk",
-      "home_id": 8571,
-      "away": "KV Mechelen",
-      "away_id": 8203,
-      "competition": "Belgian Pro League",
-      "kickoff_utc": "2026-10-23T18:45:00.000Z",
-      "kickoff_local": "2026-10-23T20:45:00",
-      "venue_timezone": "Europe/Brussels",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
-      "team_source_url": "https://www.fotmob.com/teams/8571/fixtures/team"
     },
     {
       "match_id": "5836887",
@@ -3491,6 +3475,22 @@
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
     },
     {
+      "match_id": "5853551",
+      "club_id": 584663,
+      "home": "UTA Arad",
+      "home_id": 584663,
+      "away": "Petrolul Ploiești",
+      "away_id": 188187,
+      "competition": "Superliga",
+      "kickoff_utc": "2026-11-06T15:30:00.000Z",
+      "kickoff_local": "2026-11-06T17:30:00",
+      "venue_timezone": "Europe/Bucharest",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/petrolul-ploiesti-vs-uta-arad/3t747xyq#5853551",
+      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
+    },
+    {
       "match_id": "5973003",
       "club_id": 7979,
       "home": "Urartu FC",
@@ -3985,22 +3985,6 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sumqayt-vs-imisli-fk/pisq6kmd#5987551",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
-    },
-    {
-      "match_id": "5853551",
-      "club_id": 584663,
-      "home": "UTA Arad",
-      "home_id": 584663,
-      "away": "Petrolul Ploiești",
-      "away_id": 188187,
-      "competition": "Superliga",
-      "kickoff_utc": "2026-11-07T17:00:00.000Z",
-      "kickoff_local": "2026-11-07T19:00:00",
-      "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/petrolul-ploiesti-vs-uta-arad/3t747xyq#5853551",
-      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
     },
     {
       "match_id": "5772220",
