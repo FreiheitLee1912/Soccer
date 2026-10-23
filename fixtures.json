@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23T11:48:04.145Z",
-  "coverage_from": "2026-10-15T11:48:04.145Z",
-  "coverage_to": "2026-11-20T11:48:04.145Z",
+  "updated_at": "2026-10-23T17:16:01.403Z",
+  "coverage_from": "2026-10-15T17:16:01.403Z",
+  "coverage_to": "2026-11-20T17:16:01.403Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -83,22 +83,6 @@
   ],
   "fixtures": [
     {
-      "match_id": "5987544",
-      "club_id": 213987,
-      "home": "Zira",
-      "home_id": 577619,
-      "away": "Sumqayıt",
-      "away_id": 213987,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-10-23T15:00:00.000Z",
-      "kickoff_local": "2026-10-23T19:00:00",
-      "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/sumqayt-vs-zira/3zxr8h7k#5987544",
-      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
-    },
-    {
       "match_id": "1000015159",
       "club_id": 463461,
       "home": "FK Radnički 1923",
@@ -110,7 +94,7 @@
       "kickoff_local": "2026-10-23T18:00:00",
       "venue_timezone": "Europe/Belgrade",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/fk-radnicki-1923-vs-fk-radnik-surdulica/1dp1gndp#1000015159",
       "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
     },
@@ -126,7 +110,7 @@
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-darmstadt/287ndj#5881701",
       "team_source_url": "https://www.fotmob.com/teams/8152/fixtures/team"
     },
@@ -142,7 +126,7 @@
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-darmstadt/287ndj#5881701",
       "team_source_url": "https://www.fotmob.com/teams/8262/fixtures/team"
     },
@@ -158,7 +142,7 @@
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-bochum/2vcqpn#5881699",
       "team_source_url": "https://www.fotmob.com/teams/8721/fixtures/team"
     },
@@ -174,7 +158,7 @@
       "kickoff_local": "2026-10-23T18:30:00",
       "venue_timezone": "Europe/Berlin",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-bochum/2vcqpn#5881699",
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
     },
@@ -190,7 +174,7 @@
       "kickoff_local": "2026-10-23T19:00:00",
       "venue_timezone": "Europe/Copenhagen",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/randers-fc-vs-brondby-if/2e3bpa#5739531",
       "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
     },
@@ -1219,22 +1203,6 @@
       "team_source_url": "https://www.fotmob.com/teams/10229/fixtures/team"
     },
     {
-      "match_id": "5802972",
-      "club_id": 9748,
-      "home": "PSG",
-      "home_id": 9847,
-      "away": "Lyon",
-      "away_id": 9748,
-      "competition": "Ligue 1",
-      "kickoff_utc": "2026-10-25T19:45:00.000Z",
-      "kickoff_local": "2026-10-25T20:45:00",
-      "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
-      "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
-    },
-    {
       "match_id": "5972987",
       "club_id": 866111,
       "home": "Ararat Armenia",
@@ -1281,6 +1249,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-ob/2c2uot#5739530",
       "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
+    },
+    {
+      "match_id": "5802972",
+      "club_id": 9748,
+      "home": "PSG",
+      "home_id": 9847,
+      "away": "Lyon",
+      "away_id": 9748,
+      "competition": "Ligue 1",
+      "kickoff_utc": "2026-10-26T19:30:00.000Z",
+      "kickoff_local": "2026-10-26T20:30:00",
+      "venue_timezone": "Europe/Paris",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
+      "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
     },
     {
       "match_id": "6162745",
@@ -4769,6 +4753,38 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
+    },
+    {
+      "match_id": "5973010",
+      "club_id": 7979,
+      "home": "Syunik",
+      "home_id": 6569,
+      "away": "Urartu FC",
+      "away_id": 7979,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-11-20T16:00:00.000Z",
+      "kickoff_local": "2026-11-20T20:00:00",
+      "venue_timezone": "Asia/Yerevan",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/syunik-vs-urartu-fc/1r0gnx#5973010",
+      "team_source_url": "https://www.fotmob.com/teams/7979/fixtures/team"
+    },
+    {
+      "match_id": "5973005",
+      "club_id": 866111,
+      "home": "Alashkert FC",
+      "home_id": 310094,
+      "away": "FC Noah",
+      "away_id": 866111,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-11-20T16:00:00.000Z",
+      "kickoff_local": "2026-11-20T20:00:00",
+      "venue_timezone": "Asia/Yerevan",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/alashkert-fc-vs-fc-noah/8tryigd6#5973005",
+      "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
     }
   ]
 }
