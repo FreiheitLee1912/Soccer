@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24T04:46:32.548Z",
-  "coverage_from": "2026-10-16T04:46:32.548Z",
-  "coverage_to": "2026-11-21T04:46:32.548Z",
+  "updated_at": "2026-10-24T11:11:48.318Z",
+  "coverage_from": "2026-10-16T11:11:48.318Z",
+  "coverage_to": "2026-11-21T11:11:48.318Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -95,7 +95,7 @@
       "kickoff_local": "2026-10-24T11:00:00",
       "venue_timezone": "Europe/Lisbon",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-sporting-cp-b/rtsvry0#5888087",
       "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
     },
@@ -111,7 +111,7 @@
       "kickoff_local": "2026-10-24T13:00:00",
       "venue_timezone": "Europe/Riga",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-fk-tukums-2000/9qiqju9#5162038",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
     },
@@ -127,7 +127,7 @@
       "kickoff_local": "2026-10-24T13:00:00",
       "venue_timezone": "Europe/Berlin",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-karlsruher-sc/28vz5p#5881705",
       "team_source_url": "https://www.fotmob.com/teams/8295/fixtures/team"
     },
@@ -2148,22 +2148,6 @@
       "team_source_url": "https://www.fotmob.com/teams/10008/fixtures/team"
     },
     {
-      "match_id": "5987549",
-      "club_id": 213987,
-      "home": "Sumqayıt",
-      "home_id": 213987,
-      "away": "Shafa",
-      "away_id": 1720,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-10-31T16:00:00.000Z",
-      "kickoff_local": "2026-10-31T20:00:00",
-      "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
-      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
-    },
-    {
       "match_id": "5772210",
       "club_id": 6019,
       "home": "Zeleziarne Podbrezová",
@@ -2788,6 +2772,22 @@
       "team_source_url": "https://www.fotmob.com/teams/8560/fixtures/team"
     },
     {
+      "match_id": "5987549",
+      "club_id": 213987,
+      "home": "Sumqayıt",
+      "home_id": 213987,
+      "away": "Shafa",
+      "away_id": 1720,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-11-02T15:00:00.000Z",
+      "kickoff_local": "2026-11-02T19:00:00",
+      "venue_timezone": "Asia/Baku",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
+      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
+    },
+    {
       "match_id": "5868521",
       "club_id": 8306,
       "home": "Real Oviedo",
@@ -3058,6 +3058,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-fenerbahce/2hkhp4#6106330",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
+    },
+    {
+      "match_id": "5811786",
+      "club_id": 8571,
+      "home": "Kortrijk",
+      "home_id": 8571,
+      "away": "KV Mechelen",
+      "away_id": 8203,
+      "competition": "Belgian Pro League",
+      "kickoff_utc": "2026-11-04T19:30:00.000Z",
+      "kickoff_local": "2026-11-04T20:30:00",
+      "venue_timezone": "Europe/Brussels",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
+      "team_source_url": "https://www.fotmob.com/teams/8571/fixtures/team"
     },
     {
       "match_id": "5836918",
@@ -3812,22 +3828,6 @@
       "team_source_url": "https://www.fotmob.com/teams/10172/fixtures/team"
     },
     {
-      "match_id": "5987551",
-      "club_id": 213987,
-      "home": "Imisli FK",
-      "home_id": 1786024,
-      "away": "Sumqayıt",
-      "away_id": 213987,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-11-07T16:00:00.000Z",
-      "kickoff_local": "2026-11-07T20:00:00",
-      "venue_timezone": "Asia/Baku",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/sumqayt-vs-imisli-fk/pisq6kmd#5987551",
-      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
-    },
-    {
       "match_id": "5772220",
       "club_id": 969268,
       "home": "DAC 1904 Dunajska Streda",
@@ -4018,6 +4018,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/auda-vs-fk-tukums-2000/96ooq26#5162096",
       "team_source_url": "https://www.fotmob.com/teams/197870/fixtures/team"
+    },
+    {
+      "match_id": "5987551",
+      "club_id": 213987,
+      "home": "Imisli FK",
+      "home_id": 1786024,
+      "away": "Sumqayıt",
+      "away_id": 213987,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-11-08T11:00:00.000Z",
+      "kickoff_local": "2026-11-08T15:00:00",
+      "venue_timezone": "Asia/Baku",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/sumqayt-vs-imisli-fk/pisq6kmd#5987551",
+      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
     },
     {
       "match_id": "5162092",
@@ -4626,6 +4642,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
+    },
+    {
+      "match_id": "5987562",
+      "club_id": 213987,
+      "home": "Sumqayıt",
+      "home_id": 213987,
+      "away": "Sabah FK",
+      "away_id": 951893,
+      "competition": "Premier League",
+      "kickoff_utc": "2026-11-20T15:00:00.000Z",
+      "kickoff_local": "2026-11-20T19:00:00",
+      "venue_timezone": "Asia/Baku",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/sumqayt-vs-sabah-fk/8o7zvslt#5987562",
+      "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
     },
     {
       "match_id": "5973010",
