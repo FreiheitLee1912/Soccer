@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23T21:30:41.147Z",
-  "coverage_from": "2026-10-15T21:30:41.147Z",
-  "coverage_to": "2026-11-20T21:30:41.147Z",
+  "updated_at": "2026-10-24T04:46:32.548Z",
+  "coverage_from": "2026-10-16T04:46:32.548Z",
+  "coverage_to": "2026-11-21T04:46:32.548Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -48,6 +48,7 @@
     8614,
     8548,
     10013,
+    10008,
     9931,
     8391,
     8595,
@@ -1155,6 +1156,22 @@
       "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
     },
     {
+      "match_id": "6171135",
+      "club_id": 10008,
+      "home": "Grazer AK",
+      "home_id": 10012,
+      "away": "Altach",
+      "away_id": 10008,
+      "competition": "Cup",
+      "kickoff_utc": "2026-10-27T18:00:00.000Z",
+      "kickoff_local": "2026-10-27T19:00:00",
+      "venue_timezone": "Europe/Vienna",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/altach-vs-grazer-ak/3bbp8e#6171135",
+      "team_source_url": "https://www.fotmob.com/teams/10008/fixtures/team"
+    },
+    {
       "match_id": "6298360",
       "club_id": 8595,
       "home": "AB",
@@ -2113,6 +2130,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
       "team_source_url": "https://www.fotmob.com/teams/10235/fixtures/team"
+    },
+    {
+      "match_id": "5846011",
+      "club_id": 10008,
+      "home": "Altach",
+      "home_id": 10008,
+      "away": "Ried",
+      "away_id": 10017,
+      "competition": "Bundesliga",
+      "kickoff_utc": "2026-10-31T16:00:00.000Z",
+      "kickoff_local": "2026-10-31T17:00:00",
+      "venue_timezone": "Europe/Vienna",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/altach-vs-ried/3bduhi#5846011",
+      "team_source_url": "https://www.fotmob.com/teams/10008/fixtures/team"
     },
     {
       "match_id": "5987549",
@@ -4099,6 +4132,22 @@
       "team_source_url": "https://www.fotmob.com/teams/9911/fixtures/team"
     },
     {
+      "match_id": "5846018",
+      "club_id": 10008,
+      "home": "Hartberg",
+      "home_id": 10056,
+      "away": "Altach",
+      "away_id": 10008,
+      "competition": "Bundesliga",
+      "kickoff_utc": "2026-11-08T13:30:00.000Z",
+      "kickoff_local": "2026-11-08T14:30:00",
+      "venue_timezone": "Europe/Vienna",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/altach-vs-hartberg/3bulq0#5846018",
+      "team_source_url": "https://www.fotmob.com/teams/10008/fixtures/team"
+    },
+    {
       "match_id": "5804032",
       "club_id": 1957,
       "home": "Jagiellonia Białystok",
@@ -4689,6 +4738,38 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-westerlo/3awp09#5811811",
       "team_source_url": "https://www.fotmob.com/teams/10001/fixtures/team"
+    },
+    {
+      "match_id": "1000015181",
+      "club_id": 8687,
+      "home": "FK Crvena Zvezda",
+      "home_id": 8687,
+      "away": "FK Radnik Surdulica",
+      "away_id": 463461,
+      "competition": "Super Liga",
+      "kickoff_utc": "2026-11-21T00:00:00.000Z",
+      "kickoff_local": "2026-11-21T01:00:00",
+      "venue_timezone": "Europe/Belgrade",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-fk-radnik-surdulica/1f7dnvtt#1000015181",
+      "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
+    },
+    {
+      "match_id": "1000015181",
+      "club_id": 463461,
+      "home": "FK Crvena Zvezda",
+      "home_id": 8687,
+      "away": "FK Radnik Surdulica",
+      "away_id": 463461,
+      "competition": "Super Liga",
+      "kickoff_utc": "2026-11-21T00:00:00.000Z",
+      "kickoff_local": "2026-11-21T01:00:00",
+      "venue_timezone": "Europe/Belgrade",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-fk-radnik-surdulica/1f7dnvtt#1000015181",
+      "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
     }
   ]
 }
