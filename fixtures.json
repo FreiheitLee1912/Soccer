@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26T13:14:21.240Z",
-  "coverage_from": "2026-10-18T13:14:21.240Z",
-  "coverage_to": "2026-11-23T13:14:21.240Z",
+  "updated_at": "2026-10-26T22:46:05.944Z",
+  "coverage_from": "2026-10-18T22:46:05.944Z",
+  "coverage_to": "2026-11-23T22:46:05.944Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -83,70 +83,6 @@
     6019
   ],
   "fixtures": [
-    {
-      "match_id": "5972987",
-      "club_id": 866111,
-      "home": "Ararat Armenia",
-      "home_id": 866109,
-      "away": "FC Noah",
-      "away_id": 866111,
-      "competition": "Premier League",
-      "kickoff_utc": "2026-10-26T15:00:00.000Z",
-      "kickoff_local": "2026-10-26T19:00:00",
-      "venue_timezone": "Asia/Yerevan",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/ararat-armenia-vs-fc-noah/j584s9s5#5972987",
-      "team_source_url": "https://www.fotmob.com/teams/866111/fixtures/team"
-    },
-    {
-      "match_id": "5162084",
-      "club_id": 662738,
-      "home": "Grobiņa",
-      "home_id": 662738,
-      "away": "Riga FC",
-      "away_id": 624924,
-      "competition": "Virsliga",
-      "kickoff_utc": "2026-10-26T16:00:00.000Z",
-      "kickoff_local": "2026-10-26T18:00:00",
-      "venue_timezone": "Europe/Riga",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/riga-fc-vs-grobina/akurty0b#5162084",
-      "team_source_url": "https://www.fotmob.com/teams/662738/fixtures/team"
-    },
-    {
-      "match_id": "5739530",
-      "club_id": 8391,
-      "home": "FC København",
-      "home_id": 8391,
-      "away": "OB",
-      "away_id": 8414,
-      "competition": "Superligaen",
-      "kickoff_utc": "2026-10-26T18:00:00.000Z",
-      "kickoff_local": "2026-10-26T19:00:00",
-      "venue_timezone": "Europe/Copenhagen",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-ob/2c2uot#5739530",
-      "team_source_url": "https://www.fotmob.com/teams/8391/fixtures/team"
-    },
-    {
-      "match_id": "5802972",
-      "club_id": 9748,
-      "home": "PSG",
-      "home_id": 9847,
-      "away": "Lyon",
-      "away_id": 9748,
-      "competition": "Ligue 1",
-      "kickoff_utc": "2026-10-26T19:30:00.000Z",
-      "kickoff_local": "2026-10-26T20:30:00",
-      "venue_timezone": "Europe/Paris",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd#5802972",
-      "team_source_url": "https://www.fotmob.com/teams/9748/fixtures/team"
-    },
     {
       "match_id": "6162745",
       "club_id": 9810,
@@ -4164,6 +4100,22 @@
       "team_source_url": "https://www.fotmob.com/teams/8669/fixtures/team"
     },
     {
+      "match_id": "6506250",
+      "club_id": 9765,
+      "home": "Estrela da Amadora",
+      "home_id": 1074320,
+      "away": "Portimonense",
+      "away_id": 9765,
+      "competition": "Taca de Portugal",
+      "kickoff_utc": "2026-11-21T15:00:00.000Z",
+      "kickoff_local": "2026-11-21T15:00:00",
+      "venue_timezone": "Europe/Lisbon",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/portimonense-vs-estrela-da-amadora/7hy66uf0#6506250",
+      "team_source_url": "https://www.fotmob.com/teams/9765/fixtures/team"
+    },
+    {
       "match_id": "5795519",
       "club_id": 9826,
       "home": "Coventry",
@@ -4242,6 +4194,22 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/sunderland-vs-aston-villa/2wdjjm#5795516",
       "team_source_url": "https://www.fotmob.com/teams/10252/fixtures/team"
+    },
+    {
+      "match_id": "6506254",
+      "club_id": 158085,
+      "home": "Mafra",
+      "home_id": 47535,
+      "away": "Arouca",
+      "away_id": 158085,
+      "competition": "Taca de Portugal",
+      "kickoff_utc": "2026-11-21T15:00:00.000Z",
+      "kickoff_local": "2026-11-21T15:00:00",
+      "venue_timezone": "Europe/Lisbon",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/mafra-vs-arouca/9pm6c29#6506254",
+      "team_source_url": "https://www.fotmob.com/teams/158085/fixtures/team"
     },
     {
       "match_id": "5868138",
@@ -4850,6 +4818,38 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-anderlecht/w97an#5811809",
       "team_source_url": "https://www.fotmob.com/teams/1773/fixtures/team"
+    },
+    {
+      "match_id": "5739549",
+      "club_id": 8595,
+      "home": "Brøndby IF",
+      "home_id": 8595,
+      "away": "FC Midtjylland",
+      "away_id": 8113,
+      "competition": "Superligaen",
+      "kickoff_utc": "2026-11-23T18:00:00.000Z",
+      "kickoff_local": "2026-11-23T19:00:00",
+      "venue_timezone": "Europe/Copenhagen",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/fc-midtjylland-vs-brondby-if/2b40n1#5739549",
+      "team_source_url": "https://www.fotmob.com/teams/8595/fixtures/team"
+    },
+    {
+      "match_id": "5832963",
+      "club_id": 681217,
+      "home": "Jong Ajax",
+      "home_id": 163363,
+      "away": "Jong AZ Alkmaar",
+      "away_id": 681217,
+      "competition": "Eerste Divisie",
+      "kickoff_utc": "2026-11-23T19:00:00.000Z",
+      "kickoff_local": "2026-11-23T20:00:00",
+      "venue_timezone": "Europe/Amsterdam",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/jong-ajax-vs-jong-az-alkmaar/4juhfoyj#5832963",
+      "team_source_url": "https://www.fotmob.com/teams/681217/fixtures/team"
     }
   ]
 }
