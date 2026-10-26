@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:00:34.397Z",
+  "updated_at": "2026-10-26T04:58:44.850Z",
   "definition": "Published estimated player market values in EUR, not transfer fees. Each row retains its valuation date, provider and source; missing values are not zero.",
   "rows": [
     {
@@ -11,7 +11,7 @@
       "club_id": 9905,
       "source_url": "https://www.fotmob.com/players/1033111/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -23,7 +23,7 @@
       "club_id": 10252,
       "source_url": "https://www.fotmob.com/players/1053679/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -35,7 +35,7 @@
       "club_id": 1773,
       "source_url": "https://www.fotmob.com/players/1054789/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -47,7 +47,7 @@
       "club_id": 8655,
       "source_url": "https://www.fotmob.com/players/1055136/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -59,7 +59,7 @@
       "club_id": 9746,
       "source_url": "https://www.fotmob.com/players/1072117/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -71,7 +71,7 @@
       "club_id": 10001,
       "source_url": "https://www.fotmob.com/players/1122594/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -81,7 +81,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "fm-1134461",
@@ -92,7 +92,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1134461/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -104,7 +104,7 @@
       "club_id": 8358,
       "source_url": "https://www.fotmob.com/players/1134467/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -116,7 +116,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1134524/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -128,7 +128,7 @@
       "club_id": 10229,
       "source_url": "https://www.fotmob.com/players/1134723/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -140,7 +140,7 @@
       "club_id": 9905,
       "source_url": "https://www.fotmob.com/players/1134759/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -152,7 +152,7 @@
       "club_id": 10189,
       "source_url": "https://www.fotmob.com/players/1155066/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -164,7 +164,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1155621/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -176,7 +176,7 @@
       "club_id": 8559,
       "source_url": "https://www.fotmob.com/players/1227813/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -188,7 +188,7 @@
       "club_id": 9987,
       "source_url": "https://www.fotmob.com/players/1233852/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -200,7 +200,7 @@
       "club_id": 158085,
       "source_url": "https://www.fotmob.com/players/1269404/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -212,7 +212,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1308600/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -224,7 +224,7 @@
       "club_id": 10001,
       "source_url": "https://www.fotmob.com/players/1308624/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -236,7 +236,7 @@
       "club_id": 8427,
       "source_url": "https://www.fotmob.com/players/1319774/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -248,7 +248,7 @@
       "club_id": 8466,
       "source_url": "https://www.fotmob.com/players/1336906/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -260,7 +260,7 @@
       "club_id": 9788,
       "source_url": "https://www.fotmob.com/players/1337143/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -272,7 +272,7 @@
       "club_id": 8640,
       "source_url": "https://www.fotmob.com/players/1337282/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -284,7 +284,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1381856/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -296,7 +296,7 @@
       "club_id": 8571,
       "source_url": "https://www.fotmob.com/players/1423125/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -308,7 +308,7 @@
       "club_id": 8358,
       "source_url": "https://www.fotmob.com/players/1436730/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -320,7 +320,7 @@
       "club_id": 9988,
       "source_url": "https://www.fotmob.com/players/1437306/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -332,7 +332,7 @@
       "club_id": 681217,
       "source_url": "https://www.fotmob.com/players/1513227/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -344,7 +344,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1515636/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -356,7 +356,7 @@
       "club_id": 9986,
       "source_url": "https://www.fotmob.com/players/1583858/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -368,7 +368,7 @@
       "club_id": 10267,
       "source_url": "https://www.fotmob.com/players/1611149/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -380,7 +380,7 @@
       "club_id": 10001,
       "source_url": "https://www.fotmob.com/players/1611437/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -392,7 +392,7 @@
       "club_id": 9810,
       "source_url": "https://www.fotmob.com/players/1627706/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -404,7 +404,7 @@
       "club_id": 9746,
       "source_url": "https://www.fotmob.com/players/1714197/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -416,7 +416,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/1717127/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -428,7 +428,7 @@
       "club_id": 8650,
       "source_url": "https://www.fotmob.com/players/202643/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -440,7 +440,7 @@
       "club_id": 7978,
       "source_url": "https://www.fotmob.com/players/430838/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -452,7 +452,7 @@
       "club_id": 9997,
       "source_url": "https://www.fotmob.com/players/523731/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -464,7 +464,7 @@
       "club_id": 9987,
       "source_url": "https://www.fotmob.com/players/604044/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -476,7 +476,7 @@
       "club_id": 9826,
       "source_url": "https://www.fotmob.com/players/621515/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -488,7 +488,7 @@
       "club_id": 9810,
       "source_url": "https://www.fotmob.com/players/629805/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -500,7 +500,7 @@
       "club_id": 8658,
       "source_url": "https://www.fotmob.com/players/648393/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -510,7 +510,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "fm-728765",
@@ -521,7 +521,7 @@
       "club_id": 9902,
       "source_url": "https://www.fotmob.com/players/728765/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -533,7 +533,7 @@
       "club_id": 8560,
       "source_url": "https://www.fotmob.com/players/848289/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -545,7 +545,7 @@
       "club_id": 9823,
       "source_url": "https://www.fotmob.com/players/851626/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -557,7 +557,7 @@
       "club_id": 9746,
       "source_url": "https://www.fotmob.com/players/857120/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -569,7 +569,7 @@
       "club_id": 9788,
       "source_url": "https://www.fotmob.com/players/878296/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -581,7 +581,7 @@
       "club_id": 9748,
       "source_url": "https://www.fotmob.com/players/887704/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -593,7 +593,7 @@
       "club_id": 8667,
       "source_url": "https://www.fotmob.com/players/915102/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -605,7 +605,7 @@
       "club_id": 9788,
       "source_url": "https://www.fotmob.com/players/915111/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -617,7 +617,7 @@
       "club_id": 1773,
       "source_url": "https://www.fotmob.com/players/922834/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -629,7 +629,7 @@
       "club_id": 8529,
       "source_url": "https://www.fotmob.com/players/924610/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -641,7 +641,7 @@
       "club_id": 8463,
       "source_url": "https://www.fotmob.com/players/935728/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -653,7 +653,7 @@
       "club_id": 8639,
       "source_url": "https://www.fotmob.com/players/942393/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -665,7 +665,7 @@
       "club_id": 8191,
       "source_url": "https://www.fotmob.com/players/980792/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -677,7 +677,7 @@
       "club_id": 9826,
       "source_url": "https://www.fotmob.com/players/664444/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -689,7 +689,7 @@
       "club_id": 8669,
       "source_url": "https://www.fotmob.com/players/1025603/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -701,7 +701,7 @@
       "club_id": 10204,
       "source_url": "https://www.fotmob.com/players/862608/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -711,7 +711,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-013",
@@ -722,7 +722,7 @@
       "club_id": 8655,
       "source_url": "https://www.fotmob.com/players/988074/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -734,7 +734,7 @@
       "club_id": 10172,
       "source_url": "https://www.fotmob.com/players/950861/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -746,7 +746,7 @@
       "club_id": 9788,
       "source_url": "https://www.fotmob.com/players/620917/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -758,7 +758,7 @@
       "club_id": 8358,
       "source_url": "https://www.fotmob.com/players/1030836/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -770,7 +770,7 @@
       "club_id": 9829,
       "source_url": "https://www.fotmob.com/players/408943/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -781,7 +781,7 @@
       "club_id": 9988,
       "source_url": "https://www.fotmob.com/players/1900024/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Market value unconfirmed"
     },
     {
@@ -793,7 +793,7 @@
       "club_id": 10235,
       "source_url": "https://www.fotmob.com/players/1023887/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -805,7 +805,7 @@
       "club_id": 8614,
       "source_url": "https://www.fotmob.com/players/1227814/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -817,7 +817,7 @@
       "club_id": 10013,
       "source_url": "https://www.fotmob.com/players/1477958/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -829,7 +829,7 @@
       "club_id": 6019,
       "source_url": "https://www.fotmob.com/players/1023982/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -841,7 +841,7 @@
       "club_id": 8548,
       "source_url": "https://www.fotmob.com/players/1244356/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -853,7 +853,7 @@
       "club_id": 583877,
       "source_url": "https://www.fotmob.com/players/166452/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -865,7 +865,7 @@
       "club_id": 9904,
       "source_url": "https://www.fotmob.com/players/1337351/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -877,7 +877,7 @@
       "club_id": 8262,
       "source_url": "https://www.fotmob.com/players/1010726/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -889,7 +889,7 @@
       "club_id": 8150,
       "source_url": "https://www.fotmob.com/players/1543415/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -901,7 +901,7 @@
       "club_id": 662738,
       "source_url": "https://www.fotmob.com/players/1420988/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -913,7 +913,7 @@
       "club_id": 1581,
       "source_url": "https://www.fotmob.com/players/924265/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -925,7 +925,7 @@
       "club_id": 8152,
       "source_url": "https://www.fotmob.com/players/1092731/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -937,7 +937,7 @@
       "club_id": 8391,
       "source_url": "https://www.fotmob.com/players/1337765/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -949,7 +949,7 @@
       "club_id": 197870,
       "source_url": "https://www.fotmob.com/players/1786660/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -959,7 +959,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-new-kazunarikita",
@@ -970,7 +970,7 @@
       "club_id": 161744,
       "source_url": "https://www.fotmob.com/players/1611191/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -982,7 +982,7 @@
       "club_id": 9931,
       "source_url": "https://www.fotmob.com/players/1196355/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -994,7 +994,7 @@
       "club_id": 8721,
       "source_url": "https://www.fotmob.com/players/1611223/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1006,7 +1006,7 @@
       "club_id": 9911,
       "source_url": "https://www.fotmob.com/players/620914/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1017,7 +1017,7 @@
       "club_id": 197870,
       "source_url": "https://www.fotmob.com/players/1900402/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Market value unconfirmed"
     },
     {
@@ -1027,7 +1027,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-new-nickschmidt",
@@ -1036,7 +1036,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-new-nikotakahashi",
@@ -1047,7 +1047,7 @@
       "club_id": 8150,
       "source_url": "https://www.fotmob.com/players/1477966/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1059,7 +1059,7 @@
       "club_id": 274583,
       "source_url": "https://www.fotmob.com/players/1580251/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1071,7 +1071,7 @@
       "club_id": 981193,
       "source_url": "https://www.fotmob.com/players/1611189/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1083,7 +1083,7 @@
       "club_id": 463461,
       "source_url": "https://www.fotmob.com/players/1622703/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1095,7 +1095,7 @@
       "club_id": 10281,
       "source_url": "https://www.fotmob.com/players/727838/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1106,7 +1106,7 @@
       "club_id": 10008,
       "source_url": "https://www.fotmob.com/players/1652644/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Market value unconfirmed"
     },
     {
@@ -1118,7 +1118,7 @@
       "club_id": 8673,
       "source_url": "https://www.fotmob.com/players/1437159/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1128,7 +1128,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-new-shiofukuda",
@@ -1139,7 +1139,7 @@
       "club_id": 8295,
       "source_url": "https://www.fotmob.com/players/1477956/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1151,7 +1151,7 @@
       "club_id": 8595,
       "source_url": "https://www.fotmob.com/players/1451137/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1163,7 +1163,7 @@
       "club_id": 9765,
       "source_url": "https://www.fotmob.com/players/310214/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1175,7 +1175,7 @@
       "club_id": 10013,
       "source_url": "https://www.fotmob.com/players/1338846/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1187,7 +1187,7 @@
       "club_id": 584663,
       "source_url": "https://www.fotmob.com/players/1025758/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1199,7 +1199,7 @@
       "club_id": 8152,
       "source_url": "https://www.fotmob.com/players/922731/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1210,7 +1210,7 @@
       "club_id": 969268,
       "source_url": "https://www.fotmob.com/players/1718261/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Market value unconfirmed"
     },
     {
@@ -1222,7 +1222,7 @@
       "club_id": 8150,
       "source_url": "https://www.fotmob.com/players/1257990/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1234,7 +1234,7 @@
       "club_id": 8306,
       "source_url": "https://www.fotmob.com/players/887705/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1246,7 +1246,7 @@
       "club_id": 583877,
       "source_url": "https://www.fotmob.com/players/1336966/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1256,7 +1256,7 @@
       "valuation_date": null,
       "source_url": null,
       "status": "Market value unconfirmed",
-      "checked_at": "2026-10-25T21:00:34.397Z"
+      "checked_at": "2026-10-26T04:58:44.850Z"
     },
     {
       "player_id": "jp-new-tomoyaando",
@@ -1267,7 +1267,7 @@
       "club_id": 8152,
       "source_url": "https://www.fotmob.com/players/1315546/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1279,7 +1279,7 @@
       "club_id": 274583,
       "source_url": "https://www.fotmob.com/players/1336999/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1291,7 +1291,7 @@
       "club_id": 583877,
       "source_url": "https://www.fotmob.com/players/431932/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1303,7 +1303,7 @@
       "club_id": 8262,
       "source_url": "https://www.fotmob.com/players/1337791/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1315,7 +1315,7 @@
       "club_id": 1957,
       "source_url": "https://www.fotmob.com/players/934952/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1327,7 +1327,7 @@
       "club_id": 1378463,
       "source_url": "https://www.fotmob.com/players/1675507/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     },
     {
@@ -1339,7 +1339,7 @@
       "club_id": 8687,
       "source_url": "https://www.fotmob.com/players/541513/player",
       "provider": "FotMob",
-      "checked_at": "2026-10-25T21:00:34.397Z",
+      "checked_at": "2026-10-26T04:58:44.850Z",
       "status": "Published market valuation"
     }
   ],
@@ -1365,16 +1365,16 @@
       "error": "FotMob identity unavailable"
     },
     {
-      "player_id": "jp-new-masakimurata",
-      "error": "Command failed: curl -f -L -s --max-time 30 --retry 1 https://www.fotmob.com/teams/213987/squad/team\n"
-    },
-    {
       "player_id": "jp-new-takutooshima",
       "error": "Command failed: curl -f -L -s --max-time 30 --retry 1 https://www.fotmob.com/teams/866111/squad/team\n"
     },
     {
       "player_id": "jp-new-katsuyukiishibashi",
       "error": "Command failed: curl -f -L -s --max-time 30 --retry 1 https://www.fotmob.com/teams/7979/squad/team\n"
+    },
+    {
+      "player_id": "jp-new-masakimurata",
+      "error": "Command failed: curl -f -L -s --max-time 30 --retry 1 https://www.fotmob.com/teams/213987/squad/team\n"
     }
   ]
 }
