@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-28T05:52:14.060Z",
-  "coverage_from": "2026-10-20T05:52:14.060Z",
-  "coverage_to": "2026-11-25T05:52:14.060Z",
+  "updated_at": "2026-10-28T13:05:28.298Z",
+  "coverage_from": "2026-10-20T13:05:28.298Z",
+  "coverage_to": "2026-11-25T13:05:28.298Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -196,22 +196,6 @@
       "team_source_url": "https://www.fotmob.com/teams/8614/fixtures/team"
     },
     {
-      "match_id": "6386055",
-      "club_id": 10281,
-      "home": "CD Covadonga",
-      "home_id": 189602,
-      "away": "Real Valladolid",
-      "away_id": 10281,
-      "competition": "Copa del Rey",
-      "kickoff_utc": "2026-10-28T19:00:00.000Z",
-      "kickoff_local": "2026-10-28T20:00:00",
-      "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/real-valladolid-vs-cd-covadonga/96dq7wk#6386055",
-      "team_source_url": "https://www.fotmob.com/teams/10281/fixtures/team"
-    },
-    {
       "match_id": "6280513",
       "club_id": 1957,
       "home": "Lechia Gdańsk",
@@ -370,22 +354,6 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/chelsea-vs-liverpool/2f3vr7#6275371",
       "team_source_url": "https://www.fotmob.com/teams/8650/fixtures/team"
-    },
-    {
-      "match_id": "6386084",
-      "club_id": 10267,
-      "home": "Tavernes de la Valldigna",
-      "home_id": 2341167,
-      "away": "Valencia",
-      "away_id": 10267,
-      "competition": "Copa del Rey",
-      "kickoff_utc": "2026-10-28T20:00:00.000Z",
-      "kickoff_local": "2026-10-28T21:00:00",
-      "venue_timezone": "Europe/Madrid",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/valencia-vs-tavernes-de-la-valldigna/za1u0i9y#6386084",
-      "team_source_url": "https://www.fotmob.com/teams/10267/fixtures/team"
     },
     {
       "match_id": "6298364",
