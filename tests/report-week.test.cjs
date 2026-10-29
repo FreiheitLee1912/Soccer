@@ -130,3 +130,16 @@ test('latest results require final score and source, and deduplicate player/matc
     assert.equal(vm.runInContext("latestResultRows(new Date('2026-10-20T03:00:00Z')).length",ctx),1);
   } finally {ctx.savedRecords=savedRecords;vm.runInContext('records=savedRecords',ctx)}
 });
+
+
+test('domestic cup results render under their cup while keeping domestic league filters and season totals',()=>{
+ const saved=vm.runInContext('({records,league,fixtureData,totalsData})',ctx);const oldWeek=elements.week.value,oldSearch=elements.search.value;
+ try{vm.runInContext(`records=[{match_id:'cup-result',player_id:'fm-1053679',league:'EFL Cup',competition_id:133,competition_type:'cup',domestic_league:'Premier League',round:'4',week:'2026-W44',club:'Aston Villa',club_id:10252,home:'Aston Villa',home_id:10252,away:'Liverpool',away_id:8650,home_goals:1,away_goals:1,home_penalties:6,away_penalties:5,status:'Started',minutes:90,goals:0,rating:7.1,kickoff_local:'2026-10-28T20:00:00',source_url:'https://www.fotmob.com/matches/cup'}];league='Premier League';totalsData={rows:[{player_id:'fm-1053679',club_id:10252,league:'Premier League',apps:6,goals:0,minutes:450,assists:0}]};fixtureData={updated_at:'2026-10-29',fixtures:[{match_id:'cup-next',club_id:10252,competition:'EFL Cup',kickoff_local:'2026-10-30T20:00:00',kickoff_utc:'2026-10-30T20:00:00Z'}]}`,ctx);
+ elements.search.value='Zion Suzuki';elements.week.value='2026-W44';elements['competition-filter'].value='cup';vm.runInContext('render()',ctx);
+ assert.ok(elements.content.innerHTML.includes('EFL Cup'));assert.ok(elements.content.innerHTML.includes('1 – 1'));assert.ok(elements.content.innerHTML.includes('Penalties 6 – 5'));assert.ok(elements.content.innerHTML.includes('Round 4'));assert.equal(vm.runInContext('filtered()[0].ps.length',ctx),1);assert.equal(vm.runInContext("seasonTotalValue(filtered()[0].p,'apps')",ctx),6);assert.equal(vm.runInContext('scheduledRows().length',ctx),1);
+ elements['competition-filter'].value='league';vm.runInContext('render()',ctx);assert.ok(!elements.content.innerHTML.includes('cup-result'));assert.equal(vm.runInContext('filtered()[0].ps.length',ctx),0);assert.equal(vm.runInContext('scheduledRows().length',ctx),0);
+ }finally{ctx.savedCupState=saved;vm.runInContext('({records,league,fixtureData,totalsData}=savedCupState)',ctx);elements.week.value=oldWeek;elements.search.value=oldSearch;elements['competition-filter'].value='all'}
+});
+test('weekly CSV exports cup identity and shootout columns absent from the original league CSV',async()=>{
+ const saved=vm.runInContext('records',ctx);try{vm.runInContext(`records=[{match_id:'cup-export',player_id:'sample',league:'EFL Cup',domestic_league:'Premier League',competition_id:133,competition_type:'cup',week:'2026-W44',home_penalties:6,away_penalties:5}]`,ctx);vm.runInContext("updateWeeklyDownload('2026-W44')",ctx);const csv=await(await fetch(elements.csvlink.href)).text();assert.ok(csv.includes('"domestic_league"'));assert.ok(csv.includes('"home_penalties"'));assert.ok(csv.includes('"EFL Cup"'));}finally{ctx.savedCupRecords=saved;vm.runInContext('records=savedCupRecords',ctx)}
+});
