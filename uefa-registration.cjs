@@ -1,5 +1,5 @@
 const {normalize}=require('./sofascore-season.cjs');
-const competitions=[{id:42,name:'Champions League',slug:'uefachampionsleague'},{id:73,name:'Europa League',slug:'uefaeuropaleague'}];
+const competitions=[{id:42,name:'Champions League',slug:'uefachampionsleague'},{id:73,name:'Europa League',slug:'uefaeuropaleague'},{id:525,name:'Conference League',slug:'uefaconferenceleague'}];
 function competition(value){return competitions.find(c=>String(c.id)===String(value)||c.name===value)||null}
 function registered(rows,player,club,comp,day){const matches=(rows||[]).filter(r=>r.player_id===player&&String(r.club_id)===String(club)&&r.competition===comp&&r.valid_from<=day&&r.valid_until>=day);return matches.some(r=>r.eligible===true&&r.source_url)&&!matches.some(r=>r.eligible===false)}
 function decode(s){return s.replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'")}

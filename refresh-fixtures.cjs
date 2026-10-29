@@ -1,5 +1,6 @@
 // Refresh source-linked club fixtures for the Japanese player watchlist.
 const fs=require('node:fs');
+const {competitionInfo}=require('./competition-info.cjs');
 const {execFile}=require('node:child_process');
 const {promisify}=require('node:util');
 const run=promisify(execFile);
@@ -35,12 +36,13 @@ async function main(){
     for(const f of t.fixtures.allFixtures.fixtures){
       const date=new Date(f.status.utcTime);
       if(!Number.isFinite(date.getTime())||date<from||date>to||f.status.finished||f.status.cancelled)continue;
-      const international=/Champions League|Europa League|Conference League|Club Friendlies/i.test(f.tournament.name);
+      const info=competitionInfo(f.tournament,seed);if(!info)continue;
+      const international=info.international;
       const host=Number(f.home.id)===id?t:international?await team(Number(f.home.id)):{details:{country:t.details.country,name:f.home.name}};
       const zone=venueZone(host);
       if(!zone)throw Error(`Unknown venue country ${host.details.country} for match ${f.id}`);
       const key=`${id}:${f.id}`;if(done.has(key))continue;done.add(key);
-      fixtures.push({match_id:String(f.id),club_id:id,home:f.home.name,home_id:f.home.id,away:f.away.name,away_id:f.away.id,competition:f.tournament.name,kickoff_utc:f.status.utcTime,kickoff_local:localTime(f.status.utcTime,zone),venue_timezone:zone,timezone_basis:international?'Home club country':'Domestic competition country',status:f.status.started?'In progress':'Scheduled',source_url:'https://www.fotmob.com'+f.pageUrl,team_source_url:`https://www.fotmob.com/teams/${id}/fixtures/team`});
+      fixtures.push({match_id:String(f.id),club_id:id,home:f.home.name,home_id:f.home.id,away:f.away.name,away_id:f.away.id,competition:info.name,competition_id:info.id,competition_type:info.type,round:String(f.tournament.stage||''),kickoff_utc:f.status.utcTime,kickoff_local:localTime(f.status.utcTime,zone),venue_timezone:zone,timezone_basis:international?'Home club country':'Domestic competition country',status:f.status.started?'In progress':'Scheduled',source_url:'https://www.fotmob.com'+f.pageUrl,team_source_url:`https://www.fotmob.com/teams/${id}/fixtures/team`});
     }
     console.log(`Checked ${id} ${t.details.name}`);
   }catch(e){errors.push({club_id:id,error:e.message});console.error(`Failed ${id}: ${e.message}`)}}}
