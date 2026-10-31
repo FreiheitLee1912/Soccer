@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-30T22:28:26.884Z",
-  "coverage_from": "2026-10-22T22:28:26.884Z",
-  "coverage_to": "2026-11-27T22:28:26.884Z",
+  "updated_at": "2026-10-31T05:54:20.965Z",
+  "coverage_from": "2026-10-23T05:54:20.965Z",
+  "coverage_to": "2026-11-28T05:54:20.965Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -5554,6 +5554,44 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-middlesbrough/2e6yx5#5836965",
       "team_source_url": "https://www.fotmob.com/teams/8466/fixtures/team"
+    },
+    {
+      "match_id": "1000015043",
+      "club_id": 8687,
+      "home": "Novi Pazar",
+      "home_id": 187854,
+      "away": "FK Crvena Zvezda",
+      "away_id": 8687,
+      "competition": "Serbian SuperLiga",
+      "competition_id": 182,
+      "competition_type": "league",
+      "round": "",
+      "kickoff_utc": "2026-11-28T00:00:00.000Z",
+      "kickoff_local": "2026-11-28T01:00:00",
+      "venue_timezone": "Europe/Belgrade",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-novi-pazar/8vf8902#1000015043",
+      "team_source_url": "https://www.fotmob.com/teams/8687/fixtures/team"
+    },
+    {
+      "match_id": "1000015044",
+      "club_id": 463461,
+      "home": "FK Radnik Surdulica",
+      "home_id": 463461,
+      "away": "Vojvodina",
+      "away_id": 6406,
+      "competition": "Serbian SuperLiga",
+      "competition_id": 182,
+      "competition_type": "league",
+      "round": "",
+      "kickoff_utc": "2026-11-28T00:00:00.000Z",
+      "kickoff_local": "2026-11-28T01:00:00",
+      "venue_timezone": "Europe/Belgrade",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/vojvodina-vs-fk-radnik-surdulica/1epm0dg8#1000015044",
+      "team_source_url": "https://www.fotmob.com/teams/463461/fixtures/team"
     }
   ]
 }
