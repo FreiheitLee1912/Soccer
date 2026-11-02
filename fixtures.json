@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T06:19:12.893Z",
-  "coverage_from": "2026-10-25T06:19:12.893Z",
-  "coverage_to": "2026-11-30T06:19:12.893Z",
+  "updated_at": "2026-11-02T16:18:39.489Z",
+  "coverage_from": "2026-10-25T16:18:39.489Z",
+  "coverage_to": "2026-11-30T16:18:39.489Z",
   "checked_club_ids": [
     9826,
     10252,
@@ -98,7 +98,7 @@
       "kickoff_local": "2026-11-02T19:00:00",
       "venue_timezone": "Asia/Baku",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
       "team_source_url": "https://www.fotmob.com/teams/213987/fixtures/team"
     },
@@ -117,7 +117,7 @@
       "kickoff_local": "2026-11-02T16:15:00",
       "venue_timezone": "Europe/Madrid",
       "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
+      "status": "In progress",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
       "team_source_url": "https://www.fotmob.com/teams/8306/fixtures/team"
     },
@@ -2915,25 +2915,6 @@
       "team_source_url": "https://www.fotmob.com/teams/1581/fixtures/team"
     },
     {
-      "match_id": "5853559",
-      "club_id": 584663,
-      "home": "UTA Arad",
-      "home_id": 584663,
-      "away": "Universitatea Craiova",
-      "away_id": 480286,
-      "competition": "Romanian Liga I",
-      "competition_id": 189,
-      "competition_type": "league",
-      "round": "",
-      "kickoff_utc": "2026-11-21T17:00:00.000Z",
-      "kickoff_local": "2026-11-21T19:00:00",
-      "venue_timezone": "Europe/Bucharest",
-      "timezone_basis": "Domestic competition country",
-      "status": "Scheduled",
-      "source_url": "https://www.fotmob.com/matches/universitatea-craiova-vs-uta-arad/78i4gutq#5853559",
-      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
-    },
-    {
       "match_id": "5811813",
       "club_id": 9987,
       "home": "Genk",
@@ -3502,6 +3483,25 @@
       "status": "Scheduled",
       "source_url": "https://www.fotmob.com/matches/basel-vs-luzern/3cn13y#5804298",
       "team_source_url": "https://www.fotmob.com/teams/9931/fixtures/team"
+    },
+    {
+      "match_id": "5853559",
+      "club_id": 584663,
+      "home": "UTA Arad",
+      "home_id": 584663,
+      "away": "Universitatea Craiova",
+      "away_id": 480286,
+      "competition": "Romanian Liga I",
+      "competition_id": 189,
+      "competition_type": "league",
+      "round": "",
+      "kickoff_utc": "2026-11-22T15:30:00.000Z",
+      "kickoff_local": "2026-11-22T17:30:00",
+      "venue_timezone": "Europe/Bucharest",
+      "timezone_basis": "Domestic competition country",
+      "status": "Scheduled",
+      "source_url": "https://www.fotmob.com/matches/universitatea-craiova-vs-uta-arad/78i4gutq#5853559",
+      "team_source_url": "https://www.fotmob.com/teams/584663/fixtures/team"
     },
     {
       "match_id": "5846024",
