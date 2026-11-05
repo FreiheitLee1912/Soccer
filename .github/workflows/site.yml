@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 22 * * *"   # 07:00 JST (UTC+9)
+    - cron: "0 22,23,0 * * *"   # 07:00, 08:00, 09:00 JST (UTC+9)
   workflow_dispatch:
     inputs:
       country:
