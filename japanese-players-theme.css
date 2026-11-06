@@ -1,0 +1,46 @@
+/* UEFA match-centre inspired hierarchy; scoped to Japanese Players Abroad. */
+:root{--bg:#f0f2f7;--panel:#fff;--text:#111a3c;--muted:#64708a;--edge:#e1e5ef;--accent:#083ef0;--dark:#080e38;--match-navy:#10164d;--cyan:#32eee8}
+body{font-family:Arial,'Helvetica Neue','Hiragino Kaku Gothic ProN','Noto Sans JP',sans-serif;font-size:14px;line-height:1.5;background:var(--bg);color:var(--text)}
+body.dark{--bg:#070c25;--panel:#111a39;--text:#eff3ff;--muted:#acb9d5;--edge:#293658;--accent:#58eeea;--dark:#05091e}
+html{scroll-behavior:smooth;scroll-padding-top:80px}
+.top{background:#060a20}.head{max-width:1280px;padding:13px 28px}.brand{font-size:11px;letter-spacing:.12em}.brand span{color:var(--cyan)}
+.mini{border:1px solid #555f83;border-radius:20px;padding:7px 13px;font-size:11px;color:#e6eaff}
+.report-nav{position:sticky;top:0;z-index:30;background:linear-gradient(105deg,#0849f4,#0626a7 65%,#0b1550);box-shadow:0 1px 0 #ffffff20}
+.report-nav-inner{display:flex;align-items:stretch;gap:7px;max-width:1280px;margin:auto;padding:0 28px;overflow-x:auto;scrollbar-width:thin}
+.report-nav a{display:block;flex:none;padding:18px 20px;color:#e4ecff;font-size:14px;text-decoration:none;white-space:nowrap;border-bottom:3px solid transparent;transition:background .15s,color .15s}
+.report-nav a:hover,.report-nav a:focus-visible{color:#fff;background:#ffffff15;border-bottom-color:var(--cyan)}
+.report-nav a:first-child{color:var(--cyan);border-bottom-color:var(--cyan)}
+.hero{background:radial-gradient(ellipse at 94% 0%,#123bb1 0,transparent 49%),linear-gradient(115deg,#10164d,#09103c);padding:36px 28px 40px;border:0}
+.hero-in{max-width:1224px}.eyebrow{font-size:10px;letter-spacing:.16em;color:#95b6ff;font-weight:700}
+.hero h1{font-family:Arial,'Helvetica Neue',sans-serif;font-size:clamp(28px,3.1vw,42px);font-weight:400;letter-spacing:-1.1px;line-height:1.2;margin:16px 0 12px;white-space:nowrap}
+.hero h1 span{color:#c3d7ff}.hero p{font-size:13px;color:#b8c8ec;max-width:740px;line-height:1.7}
+.datebar{gap:12px;margin-top:22px}.datebar label{font-size:12px;color:#d2ddf7}.datebar select{background:#101b58;border:1px solid #697eaf;border-radius:4px;padding:9px 12px}.datepill{color:#aebee1;font-size:11px}
+.wrap{max-width:1280px;margin:24px auto 48px;padding:0 28px}
+.panel{border:1px solid var(--edge);border-radius:8px;box-shadow:none;margin-bottom:22px;overflow:hidden}
+.panelhead{padding:20px 22px;background:var(--panel);border-left:0;border-bottom:1px solid var(--edge)}
+.panelhead h2,.heading h2{font-size:22px;font-weight:400;letter-spacing:-.45px;color:var(--text)}
+.panelhead h2::after{content:'';display:block;width:32px;height:3px;background:var(--cyan);margin-top:8px}
+.panelhead select{border-radius:4px}.heading{border-left:0;padding:12px 0;margin-top:28px;border-bottom:1px solid var(--edge);gap:12px}.heading>img{width:34px;height:34px}.count{font-size:11px;color:var(--muted)}
+#today-panel{padding-bottom:18px}#today-rows{padding:0 18px}.notice{font-size:12px;line-height:1.7;color:var(--muted)}#match-quality-notice{font-size:11px;line-height:1.65;margin:0 0 16px}
+.matches{gap:18px}.match{border:1px solid var(--edge);border-radius:7px;background:var(--panel);box-shadow:0 3px 12px #0a174707}
+.match-top{background:var(--match-navy);border:0;color:#aebce9;padding:14px 18px;font-size:10px;letter-spacing:.035em;align-items:center;gap:10px}.match-top a{color:var(--cyan);font-size:10px;font-weight:400}
+.scoreline{background:var(--match-navy);color:#fff;padding:22px 20px 28px;gap:14px;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}
+.team{font-size:14px;font-weight:400;line-height:1.3;overflow-wrap:anywhere}.team img{width:54px;height:54px;background:transparent;border-radius:0;padding:0;margin:0 auto 12px;filter:drop-shadow(0 1px 3px #0003)}
+.score{font-size:40px;font-weight:400;letter-spacing:.025em;line-height:1.1;font-variant-numeric:tabular-nums}
+.players{border-top:0;padding:2px 20px 8px}.player{padding:17px 0}.player+.player{border-top:1px solid var(--edge)}.nameline strong,.identity strong{font-family:Arial,'Hiragino Kaku Gothic ProN','Noto Sans JP',sans-serif;font-size:14px;font-weight:600}.subline{font-size:11px;line-height:1.6;color:var(--muted)}
+.rating{background:#e4faf8;color:#00645f;border-radius:4px;font-size:15px;min-width:38px;text-align:center;padding:5px 8px;font-weight:600}.rating.low{background:#fff0df;color:#8c4c00}.event{background:#eef4ff;color:#193d80;border:0;border-radius:3px;font-size:11px;padding:4px 8px}.event.warn{background:#fff4de;color:#8e5c00}.event.red{background:#ffeaed;color:#b22343}.source{font-size:10px}.source a{color:var(--accent)}
+.stats{gap:0;border:1px solid var(--edge);border-radius:7px;background:var(--panel);margin:22px 0;overflow:hidden}.stat{border:0;border-right:1px solid var(--edge);border-radius:0;background:transparent;padding:18px 24px;box-shadow:none}.stat:last-child{border:0}.stat b{font-size:30px;font-weight:400;color:var(--accent);font-variant-numeric:tabular-nums}.stat span{font-size:9px;letter-spacing:.08em;color:var(--muted)}
+.search{border-radius:5px;padding:12px 14px}.tab{border-radius:20px;border-color:var(--edge);font-size:12px;padding:8px 15px}.tab.active{background:#123eee;border-color:#123eee;color:#fff}.league-category{font-size:10px;letter-spacing:.12em;color:var(--muted);padding-top:15px}
+.leaguebtn{border:1px solid var(--edge);border-radius:5px;background:var(--panel);box-shadow:none;padding:13px 14px}.leaguebtn.active{border-color:#123eee;background:#eaf0ff;box-shadow:inset 0 0 0 1px #123eee;color:#1238a5}.leaguebtn small{font-size:10px}.leaguebtn img{width:30px;height:30px}
+.tablewrap{border-radius:0}th{background:#f5f7fb;font-size:10px;color:#69748c;letter-spacing:.07em}td{border-color:var(--edge)}.summary-sort{font-size:10px}.summary-sort-controls .tab{border-radius:4px}tbody tr:hover{background:#f4f8ff}
+#database-toggle{margin-top:22px}#database-toggle>summary{background:var(--panel);padding:18px 22px;color:var(--text);font-size:17px;border:0;border-bottom:1px solid var(--edge)}
+body.dark .leaguebtn.active{background:#172c64;border-color:#58eeea;color:#c9ffff;box-shadow:inset 0 0 0 1px #58eeea}body.dark th{background:#162344;color:#bdc9e2}body.dark tbody tr:hover{background:#19284d}body.dark .rating{background:#10413f;color:#84f4df}body.dark .event{background:#1b315d;color:#c9ddff}body.dark .source a{color:#6bece8}
+@media(max-width:760px){.head{padding:12px 18px}.report-nav-inner{padding:0 8px;gap:0}.report-nav a{padding:15px 15px;font-size:12px}.hero{padding:28px 18px 32px}.hero h1{font-size:32px;white-space:normal;letter-spacing:-.8px;max-width:620px}.hero p{font-size:12px}.datebar{gap:9px}.wrap{padding:0 14px;margin-top:18px}.matches{gap:15px}.panelhead{padding:17px 18px}.panelhead h2,.heading h2{font-size:20px}#today-rows{padding:0 12px}.stat{padding:14px 12px}.stat b{font-size:26px}.stat span{font-size:8px}.team img{width:48px;height:48px}.score{font-size:36px}.scoreline{padding:18px 15px 24px}.team{font-size:13px}.players{padding:1px 16px 7px}.player{padding:15px 0}.nameline strong{font-size:13px}.summary-sort-controls{width:100%}.summary-sort-controls select{flex:1}.panelhead.summary-panel-head{gap:16px}html{scroll-padding-top:68px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.report-nav a{transition:none}}
+@media print{.report-nav{display:none}.scoreline,.match-top{background:#fff!important;color:#111!important}.match-top a{color:#111!important}.hero{background:#fff!important}.hero h1,.hero h1 span,.hero p,.eyebrow{color:#111!important}.wrap{margin:0}.scoreline{break-inside:avoid}}
+.head>div:last-child{display:flex;gap:8px;flex:none}.brand{white-space:nowrap}.report-nav-inner{scrollbar-width:none}.report-nav-inner::-webkit-scrollbar{display:none}
+body:has(#season-summary:target) .report-nav a:first-child,body:has(#content:target) .report-nav a:first-child,body:has(#database-toggle:target) .report-nav a:first-child{color:#e4ecff;border-bottom-color:transparent}
+body:has(#season-summary:target) .report-nav a[href="#season-summary"],body:has(#content:target) .report-nav a[href="#content"],body:has(#database-toggle:target) .report-nav a[href="#database-toggle"]{color:var(--cyan);border-bottom-color:var(--cyan)}
+@media(max-width:760px){.brand{font-size:9px;letter-spacing:.08em}.head>div:last-child{gap:6px}.mini{padding:6px 10px;font-size:10px}}
+/* Long reports need immediate section jumps rather than long animated scrolls. */
+html{scroll-behavior:auto}
