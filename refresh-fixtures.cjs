@@ -36,7 +36,7 @@ async function main(){
     for(const f of t.fixtures.allFixtures.fixtures){
       const date=new Date(f.status.utcTime);
       if(!Number.isFinite(date.getTime())||date<from||date>to||f.status.finished||f.status.cancelled)continue;
-      const info=competitionInfo(f.tournament,seed);if(!info)continue;
+      const info=competitionInfo(f.tournament,seed);if(!info){if(!/friendl|test match/i.test(f.tournament.name||''))errors.push({club_id:id,match_id:String(f.id),error:'Unrecognized competition: '+f.tournament.name});continue;}
       const international=info.international;
       const host=Number(f.home.id)===id?t:international?await team(Number(f.home.id)):{details:{country:t.details.country,name:f.home.name}};
       const zone=venueZone(host);

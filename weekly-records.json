@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T02:29:56.750Z",
-  "checked_matches": 92,
+  "updated_at": "2026-11-06T02:37:12.690Z",
+  "checked_matches": 102,
   "records": [
     {
       "week": "2026-W41",
@@ -13200,12 +13200,25 @@
       "goals": 0,
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
+          "events": [
+            {
+              "event_id": 14656436,
+              "minute": 58,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13241,10 +13254,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/real-valladolid-vs-cd-covadonga/96dq7wk#6386055",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13279,10 +13294,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13317,10 +13334,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/energie-cottbus-vs-bochum/2rsv7q#5881709",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13355,10 +13374,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13393,10 +13414,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13431,10 +13454,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13469,10 +13494,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/pyunik-vs-urartu-fc/1p35gt#5972995",
-      "verified_at": "2026-11-06T02:25:54.167Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13507,10 +13534,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/roda-jc-kerkrade-vs-jong-az-alkmaar/31okdant#5832928",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13545,10 +13574,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/elversberg-vs-mainz-05/2pxonq#5881211",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13583,10 +13614,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/elversberg-vs-mainz-05/2pxonq#5881211",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13621,10 +13654,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/gornik-zabrze-vs-legia-warszawa/2ayneg#5804024",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13659,10 +13694,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lens-vs-lille/2gcrq9#5802974",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13697,10 +13734,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13735,10 +13774,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13773,10 +13814,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13811,10 +13854,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-vfl-osnabruck/2tumhb#5881716",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13849,10 +13894,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13887,10 +13934,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/girona-vs-real-sociedad-b/6li9a2m#5868522",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13925,10 +13974,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/portimonense-vs-torreense/bdopenu#5888095",
-      "verified_at": "2026-11-06T02:25:54.139Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -13963,10 +14014,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wieczysta-krakow/alk45uwn#5804028",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14001,10 +14054,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-swansea-city/2vn3sy#5836907",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14039,10 +14094,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14077,10 +14134,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14115,10 +14174,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14153,10 +14214,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14191,10 +14254,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14229,10 +14294,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/leeds-united-vs-afc-bournemouth/2fh3fh#5795495",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14267,10 +14334,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-portsmouth/2akcmh#5836899",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14301,14 +14370,45 @@
       "status": "Started",
       "minutes": 90,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
+      "verified_goal_events": [
+        {
+          "event_id": 14669565,
+          "minute": 17,
+          "added_time": 0
+        }
+      ],
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
+          "events": [
+            {
+              "event_id": 14669565,
+              "minute": 17,
+              "added_time": 0
+            }
+          ]
+        },
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
+          "events": [
+            {
+              "event_id": 14671146,
+              "minute": 55,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 7.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14343,10 +14443,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#5795502",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14381,10 +14483,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-swansea-city/2vn3sy#5836907",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14419,10 +14523,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14457,10 +14563,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14495,10 +14603,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/schalke-04-vs-rb-leipzig/86c2g1z#5881212",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14533,10 +14643,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14567,16 +14679,30 @@
       "status": "Substitute",
       "minutes": 28,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "assists": {
+          "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
+          "events": [
+            {
+              "event_id": 14670674,
+              "minute": 65,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 5.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown.",
+      "assist_confirmation_source_url": "https://www.bundesliga.com/en/bundesliga/news/augsburg-sport-club-freiburg-match-report-highlights-matchday-8-39806"
     },
     {
       "week": "2026-W44",
@@ -14609,10 +14735,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-werder-bremen/2d9ier#5881214",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14645,12 +14773,25 @@
       "goals": 0,
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
+          "events": [
+            {
+              "event_id": 14669378,
+              "minute": 41,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14685,10 +14826,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14723,10 +14866,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14761,10 +14906,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14799,10 +14946,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/trencin-vs-fc-kosice/62p5bq9y#5772212",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14837,10 +14986,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-genk/2qibjg#5811795",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14875,10 +15026,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-genk/2qibjg#5811795",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14913,10 +15066,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14951,10 +15106,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -14989,10 +15146,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15027,10 +15186,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15065,10 +15226,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15103,10 +15266,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15141,10 +15306,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/altach-vs-ried/3bduhi#5846011",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15179,10 +15346,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-macva-sabac/2349c8ll#1000015162",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15217,10 +15386,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15255,10 +15426,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15294,10 +15467,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/aberdeen-vs-rangers/2edjdd#6241190",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15332,10 +15507,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/zeleziarne-podbrezova-vs-slovan-bratislava/laiav#5772210",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15370,10 +15547,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kortrijk-vs-standard-liege/2uigcn#5811797",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15408,10 +15587,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-bayern-munchen/36iek5#5881208",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15442,14 +15623,35 @@
       "status": "Started",
       "minutes": 90,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
+      "verified_goal_events": [
+        {
+          "event_id": 14675943,
+          "minute": 77,
+          "added_time": 0
+        }
+      ],
       "assists": 0,
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
+          "events": [
+            {
+              "event_id": 14675943,
+              "minute": 77,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15481,15 +15683,29 @@
       "minutes": 90,
       "goals": null,
       "assists": null,
-      "own_goals": null,
+      "own_goals": 1,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "own_goals": {
+          "source_url": "https://www.fotmob.com/matches/fulham-vs-aston-villa/3cnglp#5795496",
+          "events": [
+            {
+              "event_id": 14677756,
+              "minute": 64,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 7.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fulham-vs-aston-villa/3cnglp#5795496",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown.",
+      "own_goal_confirmation_source_url": "https://www.avfc.co.uk/matches/mens/2026/g2645276"
     },
     {
       "week": "2026-W44",
@@ -15522,10 +15738,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-fc-heidenheim/2g4hqih#5881714",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15560,10 +15778,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15598,10 +15818,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15636,10 +15858,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15674,10 +15898,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-sk-beveren/28le2y#5811792",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15712,10 +15938,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-az-alkmaar/2xgz8m#5781786",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15750,10 +15978,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/ajax-vs-az-alkmaar/2xgz8m#5781786",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15788,10 +16018,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/rfs-vs-grobina/5avvuusn#5162091",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15826,10 +16058,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-fk-tukums-2000/zyzn2vf#5162088",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15864,10 +16098,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-fk-tukums-2000/zyzn2vf#5162088",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15902,10 +16138,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-sk-super-nova/68rly80e#5162089",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15938,12 +16176,25 @@
       "goals": null,
       "assists": null,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
+          "events": [
+            {
+              "event_id": 14681814,
+              "minute": 90,
+              "added_time": 8
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -15976,12 +16227,25 @@
       "goals": 0,
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
+          "events": [
+            {
+              "event_id": 14681474,
+              "minute": 79,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16016,10 +16280,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16054,10 +16320,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-hannover-96/2smcyg#5881712",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16092,10 +16360,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16128,12 +16398,25 @@
       "goals": 0,
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
+          "events": [
+            {
+              "event_id": 14681459,
+              "minute": 78,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16168,10 +16451,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16206,10 +16491,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16244,10 +16531,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16282,10 +16571,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16320,10 +16611,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16358,10 +16651,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16396,10 +16691,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16434,10 +16731,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16472,10 +16771,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cagliari-vs-lazio/2ersjb#5749736",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16510,10 +16811,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/nacional-vs-arouca/6i7zxjr#5887664",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16548,10 +16851,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/syunik-vs-fc-noah/4uxig2xf#5972998",
-      "verified_at": "2026-11-06T02:25:54.113Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16586,10 +16891,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16624,10 +16931,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16662,10 +16971,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16700,10 +17011,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16738,10 +17051,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16776,10 +17091,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16812,12 +17129,25 @@
       "goals": 0,
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
+          "events": [
+            {
+              "event_id": 14684221,
+              "minute": 84,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16852,10 +17182,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16890,10 +17222,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16928,10 +17262,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -16966,10 +17302,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fcv-dender-eh-vs-genk-u23/c9iai636#1000015496",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17004,10 +17342,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/liverpool-vs-arsenal/2tmaz7#5795501",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17042,10 +17382,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/lugano-vs-basel/2mm7b5#5804288",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17080,10 +17422,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-fc-groningen/2gzc1y#5781789",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17118,10 +17462,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/angers-vs-lyon/2n29lb#5802976",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17156,10 +17502,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/paris-fc-vs-monaco/267nv1#5802979",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17194,10 +17542,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#5881210",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17232,10 +17582,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#5881210",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17270,10 +17622,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/agf-vs-brondby-if/2aozua#5739539",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17308,10 +17662,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-elche/3hjjfk#5868114",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17346,10 +17702,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-raal-la-louviere/9mx28cak#5811794",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17384,10 +17742,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/dinamo-bucuresti-vs-uta-arad/29attgjo#5853537",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17422,10 +17782,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/athletic-club-vs-real-sociedad/2cs4ea#5868111",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17456,14 +17818,45 @@
       "status": "Started",
       "minutes": 73,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
+      "verified_goal_events": [
+        {
+          "event_id": 14689388,
+          "minute": 54,
+          "added_time": 0
+        }
+      ],
       "assists": 0,
       "own_goals": null,
-      "yellow_cards": null,
+      "yellow_cards": 1,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
+          "events": [
+            {
+              "event_id": 14689388,
+              "minute": 54,
+              "added_time": 0
+            }
+          ]
+        },
+        "yellow_cards": {
+          "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
+          "events": [
+            {
+              "event_id": 14689424,
+              "minute": 64,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17498,10 +17891,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/mladost-lucani-vs-fk-radnik-surdulica/1dpj6qnx#1000015164",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17536,10 +17931,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/leganes-vs-real-valladolid/2pwv36#5868524",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17574,10 +17971,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#5739537",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17612,10 +18011,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
-      "verified_at": "2026-11-06T02:25:54.146Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17651,10 +18052,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/slaven-vs-mladost-zdralovi/25cgw6nn#1000021076",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17689,10 +18092,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17727,10 +18132,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/charlton-athletic-vs-bolton-wanderers/2e55ai#5836920",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17765,10 +18172,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17803,10 +18212,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17841,10 +18252,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17879,10 +18292,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/southampton-vs-west-bromwich-albion/2fb7w2#5836917",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17917,10 +18332,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17955,10 +18372,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -17995,10 +18414,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/barcelona-vs-aston-villa/2y6ucv#6106263",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18035,10 +18456,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-atletico-madrid/37vqh7#6106266",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18075,10 +18498,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bodoglimt-vs-lille/2eggm0#6106316",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18115,10 +18540,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/inter-vs-feyenoord/2y0ruo#6106306",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18155,10 +18582,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-lask/246hxb#6106408",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18193,10 +18622,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 5.9,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/bristol-city-vs-wolverhampton-wanderers/2ec2uh#5836918",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18231,10 +18662,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18267,14 +18700,35 @@
       "status": "Started",
       "minutes": 90,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/club-brugge-vs-psv-eindhoven/2duy59#6106303",
+      "verified_goal_events": [
+        {
+          "event_id": 14695109,
+          "minute": 54,
+          "added_time": 0
+        }
+      ],
       "assists": 0,
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/club-brugge-vs-psv-eindhoven/2duy59#6106303",
+          "events": [
+            {
+              "event_id": 14695109,
+              "minute": 54,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/club-brugge-vs-psv-eindhoven/2duy59#6106303",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18307,14 +18761,35 @@
       "status": "Started",
       "minutes": 90,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
+      "verified_goal_events": [
+        {
+          "event_id": 14696807,
+          "minute": 90,
+          "added_time": 2
+        }
+      ],
       "assists": 0,
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
+          "events": [
+            {
+              "event_id": 14696807,
+              "minute": 90,
+              "added_time": 2
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18351,10 +18826,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18391,10 +18868,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18431,10 +18910,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-lyon/2rsgym#6112270",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18471,10 +18952,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-lyon/2rsgym#6112270",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18511,10 +18994,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/anderlecht-vs-salzburg/2vj3uv#6112311",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18558,12 +19043,25 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
+          "events": [
+            {
+              "event_id": 14696847,
+              "minute": 90,
+              "added_time": 2
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
-      "verified_at": "2026-11-06T02:29:56.737Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Scorer timeline reconciles with final score; player-stat goal field conflicts or is missing. Club report also credits Nakayama: https://www.crvenazvezdafk.com/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Scorer timeline reconciles with final score; player-stat goal field conflicts or is missing.",
       "goal_confirmation_source_url": "https://www.crvenazvezdafk.com/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0"
     },
     {
@@ -18599,10 +19097,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-levski-sofia/xdxl7#6112380",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18639,10 +19139,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-trabzonspor/2pn6yh#6112501",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18679,10 +19181,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-trabzonspor/2pn6yh#6112501",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18719,10 +19223,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/freiburg-vs-trabzonspor/2pn6yh#6112501",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18758,12 +19264,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -18797,12 +19305,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -18837,10 +19347,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/juventus-vs-az-alkmaar/3cg4nc#6112262",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18876,12 +19388,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -18911,16 +19425,37 @@
       "status": "Started",
       "minutes": 90,
       "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
+      "verified_goal_events": [
+        {
+          "event_id": 14697083,
+          "minute": 48,
+          "added_time": 0
+        }
+      ],
       "assists": 0,
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "goals": {
+          "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
+          "events": [
+            {
+              "event_id": 14697083,
+              "minute": 48,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 8.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -18955,10 +19490,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/juventus-vs-az-alkmaar/3cg4nc#6112262",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -18994,12 +19531,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -19033,12 +19572,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -19073,10 +19614,12 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.3,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-celta-vigo/2n9jty#6112347",
-      "verified_at": "2026-11-06T02:10:22.142Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -19112,12 +19655,14 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 6.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Official club report confirms four Japanese starters and Ishiwatari goal at 48 minutes: https://stvv.jp/news/game/20261106_1/"
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
     {
       "week": "2026-W45",
@@ -19152,10 +19697,23 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {
+        "assists": {
+          "source_url": "https://www.fotmob.com/matches/monaco-vs-nordsjaelland/3bgf2d#6112401",
+          "events": [
+            {
+              "event_id": 14696999,
+              "minute": 33,
+              "added_time": 0
+            }
+          ]
+        }
+      },
+      "quality_issues": [],
       "rating": 7.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/monaco-vs-nordsjaelland/3bgf2d#6112401",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -19191,26 +19749,1152 @@
       "own_goals": null,
       "yellow_cards": null,
       "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
       "rating": 7.2,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-iberia-1999/1iuqu04u#6112404",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:37:12.690Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
   ],
-  "errors": [
-    {
-      "match_id": "5987549",
-      "error": "Published lineup unavailable"
-    },
-    {
-      "match_id": "5972998",
-      "error": "Published lineup unavailable"
-    },
-    {
-      "match_id": "5972995",
-      "error": "Published lineup unavailable"
-    }
-  ]
+  "errors": [],
+  "quality_issues": [],
+  "coverage": {
+    "from": "2026-10-29T02:37:12.690Z",
+    "to": "2026-11-06T02:37:12.690Z",
+    "clubs": [
+      {
+        "club_id": 1581,
+        "status": "checked"
+      },
+      {
+        "club_id": 1773,
+        "status": "checked"
+      },
+      {
+        "club_id": 1957,
+        "status": "checked"
+      },
+      {
+        "club_id": 6019,
+        "status": "checked"
+      },
+      {
+        "club_id": 7978,
+        "status": "checked"
+      },
+      {
+        "club_id": 7979,
+        "status": "checked"
+      },
+      {
+        "club_id": 8150,
+        "status": "checked"
+      },
+      {
+        "club_id": 8152,
+        "status": "checked"
+      },
+      {
+        "club_id": 8191,
+        "status": "checked"
+      },
+      {
+        "club_id": 8226,
+        "status": "checked"
+      },
+      {
+        "club_id": 8262,
+        "status": "checked"
+      },
+      {
+        "club_id": 8295,
+        "status": "checked"
+      },
+      {
+        "club_id": 8306,
+        "status": "checked"
+      },
+      {
+        "club_id": 8357,
+        "status": "checked"
+      },
+      {
+        "club_id": 8358,
+        "status": "checked"
+      },
+      {
+        "club_id": 8391,
+        "status": "checked"
+      },
+      {
+        "club_id": 8427,
+        "status": "checked"
+      },
+      {
+        "club_id": 8463,
+        "status": "checked"
+      },
+      {
+        "club_id": 8466,
+        "status": "checked"
+      },
+      {
+        "club_id": 8529,
+        "status": "checked"
+      },
+      {
+        "club_id": 8548,
+        "status": "checked"
+      },
+      {
+        "club_id": 8559,
+        "status": "checked"
+      },
+      {
+        "club_id": 8560,
+        "status": "checked"
+      },
+      {
+        "club_id": 8571,
+        "status": "checked"
+      },
+      {
+        "club_id": 8595,
+        "status": "checked"
+      },
+      {
+        "club_id": 8614,
+        "status": "checked"
+      },
+      {
+        "club_id": 8639,
+        "status": "checked"
+      },
+      {
+        "club_id": 8640,
+        "status": "checked"
+      },
+      {
+        "club_id": 8650,
+        "status": "checked"
+      },
+      {
+        "club_id": 8655,
+        "status": "checked"
+      },
+      {
+        "club_id": 8658,
+        "status": "checked"
+      },
+      {
+        "club_id": 8667,
+        "status": "checked"
+      },
+      {
+        "club_id": 8669,
+        "status": "checked"
+      },
+      {
+        "club_id": 8673,
+        "status": "checked"
+      },
+      {
+        "club_id": 8687,
+        "status": "checked"
+      },
+      {
+        "club_id": 8721,
+        "status": "checked"
+      },
+      {
+        "club_id": 9746,
+        "status": "checked"
+      },
+      {
+        "club_id": 9748,
+        "status": "checked"
+      },
+      {
+        "club_id": 9765,
+        "status": "checked"
+      },
+      {
+        "club_id": 9788,
+        "status": "checked"
+      },
+      {
+        "club_id": 9810,
+        "status": "checked"
+      },
+      {
+        "club_id": 9823,
+        "status": "checked"
+      },
+      {
+        "club_id": 9826,
+        "status": "checked"
+      },
+      {
+        "club_id": 9829,
+        "status": "checked"
+      },
+      {
+        "club_id": 9902,
+        "status": "checked"
+      },
+      {
+        "club_id": 9904,
+        "status": "checked"
+      },
+      {
+        "club_id": 9905,
+        "status": "checked"
+      },
+      {
+        "club_id": 9911,
+        "status": "checked"
+      },
+      {
+        "club_id": 9931,
+        "status": "checked"
+      },
+      {
+        "club_id": 9986,
+        "status": "checked"
+      },
+      {
+        "club_id": 9987,
+        "status": "checked"
+      },
+      {
+        "club_id": 9988,
+        "status": "checked"
+      },
+      {
+        "club_id": 9997,
+        "status": "checked"
+      },
+      {
+        "club_id": 10001,
+        "status": "checked"
+      },
+      {
+        "club_id": 10008,
+        "status": "checked"
+      },
+      {
+        "club_id": 10013,
+        "status": "checked"
+      },
+      {
+        "club_id": 10172,
+        "status": "checked"
+      },
+      {
+        "club_id": 10189,
+        "status": "checked"
+      },
+      {
+        "club_id": 10204,
+        "status": "checked"
+      },
+      {
+        "club_id": 10229,
+        "status": "checked"
+      },
+      {
+        "club_id": 10235,
+        "status": "checked"
+      },
+      {
+        "club_id": 10252,
+        "status": "checked"
+      },
+      {
+        "club_id": 10267,
+        "status": "checked"
+      },
+      {
+        "club_id": 10281,
+        "status": "checked"
+      },
+      {
+        "club_id": 158085,
+        "status": "checked"
+      },
+      {
+        "club_id": 161744,
+        "status": "checked"
+      },
+      {
+        "club_id": 197870,
+        "status": "checked"
+      },
+      {
+        "club_id": 213987,
+        "status": "checked"
+      },
+      {
+        "club_id": 274583,
+        "status": "checked"
+      },
+      {
+        "club_id": 463461,
+        "status": "checked"
+      },
+      {
+        "club_id": 583877,
+        "status": "checked"
+      },
+      {
+        "club_id": 584663,
+        "status": "checked"
+      },
+      {
+        "club_id": 662738,
+        "status": "checked"
+      },
+      {
+        "club_id": 681217,
+        "status": "checked"
+      },
+      {
+        "club_id": 866111,
+        "status": "checked"
+      },
+      {
+        "club_id": 969268,
+        "status": "checked"
+      },
+      {
+        "club_id": 981193,
+        "status": "checked"
+      },
+      {
+        "club_id": 1378463,
+        "status": "checked"
+      }
+    ],
+    "matches": [
+      {
+        "match_id": "1000015162",
+        "date": "2026-10-31T16:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-macva-sabac/2349c8ll#1000015162",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "1000015164",
+        "date": "2026-11-02T17:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/mladost-lucani-vs-fk-radnik-surdulica/1dpj6qnx#1000015164",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "1000015495",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/ksc-lokeren-vs-patro-eisden/1iocqw82#1000015495",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "1000015496",
+        "date": "2026-11-01T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fcv-dender-eh-vs-genk-u23/c9iai636#1000015496",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "1000015499",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/francs-borains-vs-beerschot/2ygz06t6#1000015499",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "1000021076",
+        "date": "2026-11-03T13:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/slaven-vs-mladost-zdralovi/25cgw6nn#1000021076",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5162088",
+        "date": "2026-11-01T11:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-fk-tukums-2000/zyzn2vf#5162088",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5162089",
+        "date": "2026-11-01T11:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-sk-super-nova/68rly80e#5162089",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5162091",
+        "date": "2026-11-01T11:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/rfs-vs-grobina/5avvuusn#5162091",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5739537",
+        "date": "2026-11-02T18:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#5739537",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5739539",
+        "date": "2026-11-01T17:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/agf-vs-brondby-if/2aozua#5739539",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5749736",
+        "date": "2026-11-01T14:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/cagliari-vs-lazio/2ersjb#5749736",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5765953",
+        "date": "2026-10-30T17:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/slaven-vs-nk-istra-1961/hab3w#5765953",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5772210",
+        "date": "2026-10-31T17:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/zeleziarne-podbrezova-vs-slovan-bratislava/laiav#5772210",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5772212",
+        "date": "2026-10-31T14:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/trencin-vs-fc-kosice/62p5bq9y#5772212",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5781786",
+        "date": "2026-10-31T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/ajax-vs-az-alkmaar/2xgz8m#5781786",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5781787",
+        "date": "2026-10-31T15:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fortuna-sittard-vs-feyenoord/2alqgf#5781787",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5781789",
+        "date": "2026-11-01T15:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/sparta-rotterdam-vs-fc-groningen/2gzc1y#5781789",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5781793",
+        "date": "2026-10-31T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/willem-ii-vs-psv-eindhoven/2fpx23#5781793",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795495",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/leeds-united-vs-afc-bournemouth/2fh3fh#5795495",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795496",
+        "date": "2026-10-31T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fulham-vs-aston-villa/3cnglp#5795496",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795499",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/sunderland-vs-coventry-city/2fh3f8#5795499",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795500",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/hull-city-vs-ipswich-town/2unmhn#5795500",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795501",
+        "date": "2026-11-01T16:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/liverpool-vs-arsenal/2tmaz7#5795501",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795502",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/manchester-city-vs-brighton-hove-albion/2vnwg2#5795502",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5795504",
+        "date": "2026-10-31T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-crystal-palace/2sxee8#5795504",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5802973",
+        "date": "2026-10-30T18:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/le-havre-vs-paris-saint-germain/36af6s#5802973",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5802974",
+        "date": "2026-10-30T20:05:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/lens-vs-lille/2gcrq9#5802974",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5802976",
+        "date": "2026-11-01T16:15:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/angers-vs-lyon/2n29lb#5802976",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5802979",
+        "date": "2026-11-01T16:15:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/paris-fc-vs-monaco/267nv1#5802979",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5804024",
+        "date": "2026-10-30T19:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/gornik-zabrze-vs-legia-warszawa/2ayneg#5804024",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5804028",
+        "date": "2026-10-31T13:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-wieczysta-krakow/alk45uwn#5804028",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5804288",
+        "date": "2026-11-01T15:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/lugano-vs-basel/2mm7b5#5804288",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811786",
+        "date": "2026-11-04T19:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-kortrijk/2brp74#5811786",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811791",
+        "date": "2026-10-31T19:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/anderlecht-vs-westerlo/2veb8p#5811791",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811792",
+        "date": "2026-10-31T19:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-sk-beveren/28le2y#5811792",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811793",
+        "date": "2026-11-01T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-royal-antwerp/3ar4lq#5811793",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811794",
+        "date": "2026-11-01T18:15:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/sporting-charleroi-vs-raal-la-louviere/9mx28cak#5811794",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811795",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/kv-mechelen-vs-genk/2qibjg#5811795",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811797",
+        "date": "2026-10-31T17:15:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/kortrijk-vs-standard-liege/2uigcn#5811797",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5811798",
+        "date": "2026-11-01T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/oh-leuven-vs-sttruiden/158yl8#5811798",
+        "status": "recorded",
+        "player_records": 10,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5832928",
+        "date": "2026-10-30T19:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/roda-jc-kerkrade-vs-jong-az-alkmaar/31okdant#5832928",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836898",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/bristol-city-vs-bolton-wanderers/2dwei6#5836898",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836899",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/burnley-vs-portsmouth/2akcmh#5836899",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836900",
+        "date": "2026-10-31T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/lincoln-city-vs-birmingham-city/2exnhu#5836900",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836905",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/southampton-vs-queens-park-rangers/2vf3vf#5836905",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836907",
+        "date": "2026-10-31T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-swansea-city/2vn3sy#5836907",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836910",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/birmingham-city-vs-millwall/2vopef#5836910",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836911",
+        "date": "2026-11-03T19:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/blackburn-rovers-vs-stoke-city/2xrvpc#5836911",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836915",
+        "date": "2026-11-03T19:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/burnley-vs-queens-park-rangers/2se1wp#5836915",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836917",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/southampton-vs-west-bromwich-albion/2fb7w2#5836917",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836918",
+        "date": "2026-11-04T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/bristol-city-vs-wolverhampton-wanderers/2ec2uh#5836918",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5836920",
+        "date": "2026-11-03T19:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/charlton-athletic-vs-bolton-wanderers/2e55ai#5836920",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5846011",
+        "date": "2026-10-31T16:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/altach-vs-ried/3bduhi#5846011",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5846015",
+        "date": "2026-11-01T13:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/austria-lustenau-vs-salzburg/3b0z94#5846015",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5853537",
+        "date": "2026-11-01T18:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/dinamo-bucuresti-vs-uta-arad/29attgjo#5853537",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5868111",
+        "date": "2026-11-01T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/athletic-club-vs-real-sociedad/2cs4ea#5868111",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5868114",
+        "date": "2026-11-01T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/valencia-vs-elche/3hjjfk#5868114",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5868521",
+        "date": "2026-11-02T15:15:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/las-palmas-vs-real-oviedo/2dsrk6#5868521",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5868522",
+        "date": "2026-10-31T13:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/girona-vs-real-sociedad-b/6li9a2m#5868522",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5868524",
+        "date": "2026-11-02T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/leganes-vs-real-valladolid/2pwv36#5868524",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881206",
+        "date": "2026-10-31T14:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/freiburg-vs-augsburg/2bo3oc#5881206",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881208",
+        "date": "2026-10-31T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/borussia-dortmund-vs-bayern-munchen/36iek5#5881208",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881209",
+        "date": "2026-10-31T14:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/paderborn-vs-borussia-monchengladbach/2r4yrk#5881209",
+        "status": "recorded",
+        "player_records": 4,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881210",
+        "date": "2026-11-01T16:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/hamburger-sv-vs-eintracht-frankfurt/36dd0a#5881210",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881211",
+        "date": "2026-10-30T19:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/elversberg-vs-mainz-05/2pxonq#5881211",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881212",
+        "date": "2026-10-31T14:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/schalke-04-vs-rb-leipzig/86c2g1z#5881212",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881214",
+        "date": "2026-10-31T14:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-werder-bremen/2d9ier#5881214",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881709",
+        "date": "2026-10-30T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/energie-cottbus-vs-bochum/2rsv7q#5881709",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881710",
+        "date": "2026-10-31T12:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/magdeburg-vs-darmstadt/28kbu1#5881710",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881711",
+        "date": "2026-11-01T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/holstein-kiel-vs-greuther-furth/294gof#5881711",
+        "status": "recorded",
+        "player_records": 4,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881712",
+        "date": "2026-11-01T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/dynamo-dresden-vs-hannover-96/2smcyg#5881712",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881714",
+        "date": "2026-10-31T19:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-fc-heidenheim/2g4hqih#5881714",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881715",
+        "date": "2026-11-01T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/st-pauli-vs-1-fc-nurnberg/279mdk#5881715",
+        "status": "recorded",
+        "player_records": 4,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5881716",
+        "date": "2026-10-31T12:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/wolfsburg-vs-vfl-osnabruck/2tumhb#5881716",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5887664",
+        "date": "2026-11-01T15:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/nacional-vs-arouca/6i7zxjr#5887664",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "5888095",
+        "date": "2026-10-31T14:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/portimonense-vs-torreense/bdopenu#5888095",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 1
+      },
+      {
+        "match_id": "5972995",
+        "date": "2026-10-30T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/pyunik-vs-urartu-fc/1p35gt#5972995",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 1
+      },
+      {
+        "match_id": "5972998",
+        "date": "2026-11-01T11:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/syunik-vs-fc-noah/4uxig2xf#5972998",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 1
+      },
+      {
+        "match_id": "5987549",
+        "date": "2026-11-02T15:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/shafa-vs-sumqayt/aorfc4d#5987549",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 1
+      },
+      {
+        "match_id": "6106263",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/barcelona-vs-aston-villa/2y6ucv#6106263",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106266",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/bayern-munchen-vs-atletico-madrid/37vqh7#6106266",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106303",
+        "date": "2026-11-04T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/club-brugge-vs-psv-eindhoven/2duy59#6106303",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106306",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/inter-vs-feyenoord/2y0ruo#6106306",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106316",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/bodoglimt-vs-lille/2eggm0#6106316",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106330",
+        "date": "2026-11-04T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/liverpool-vs-fenerbahce/2hkhp4#6106330",
+        "status": "no_watched_player_in_squad",
+        "player_records": 0,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6106408",
+        "date": "2026-11-03T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/slovan-bratislava-vs-lask/246hxb#6106408",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112262",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/juventus-vs-az-alkmaar/3cg4nc#6112262",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112270",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/real-sociedad-vs-lyon/2rsgym#6112270",
+        "status": "recorded",
+        "player_records": 2,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112311",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/anderlecht-vs-salzburg/2vj3uv#6112311",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112325",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-crystal-palace/2p0pt8#6112325",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112347",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-celta-vigo/2n9jty#6112347",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112380",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-levski-sofia/xdxl7#6112380",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112401",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/monaco-vs-nordsjaelland/3bgf2d#6112401",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112404",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-iberia-1999/1iuqu04u#6112404",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112410",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112474",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/getafe-vs-brighton-hove-albion/2tzqy4#6112474",
+        "status": "no_watched_player_in_squad",
+        "player_records": 0,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112490",
+        "date": "2026-11-05T20:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/brann-vs-sttruiden/2ticla#6112490",
+        "status": "recorded",
+        "player_records": 7,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6112501",
+        "date": "2026-11-05T17:45:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/freiburg-vs-trabzonspor/2pn6yh#6112501",
+        "status": "recorded",
+        "player_records": 3,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6241190",
+        "date": "2026-10-31T17:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/aberdeen-vs-rangers/2edjdd#6241190",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6298364",
+        "date": "2026-10-29T12:30:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/aarhus-fremad-vs-fc-kobenhavn/291zk9#6298364",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6386055",
+        "date": "2026-10-29T19:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/real-valladolid-vs-cd-covadonga/96dq7wk#6386055",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 0
+      }
+    ]
+  }
 }

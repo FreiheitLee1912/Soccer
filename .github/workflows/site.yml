@@ -75,14 +75,14 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Verify Sunday-centred report
-        run: node --test tests/report-week.test.cjs tests/sofascore-season.test.cjs tests/completed-matches.test.cjs tests/uefa-registration.test.cjs tests/player-database.test.cjs tests/fotmob-season-totals.test.cjs tests/summary-sort.test.cjs tests/market-values.test.cjs tests/cup-filters.test.cjs
+      - name: Verify report parsing and data safeguards
+        run: node --test tests/*.test.cjs
 
       - name: Refresh UEFA competition registration
         if: github.event_name != 'push'
         run: node refresh-uefa-registration.cjs || echo "::warning::UEFA registration source unavailable; preserving verified evidence"
 
-      - name: Refresh completed league and registered UEFA matches
+      - name: Refresh source-confirmed completed matches
         if: github.event_name != 'push'
         run: node refresh-completed-matches.cjs || echo "::warning::Completed-match source unavailable; preserving last verified results"
 
@@ -109,6 +109,9 @@ jobs:
       - name: Refresh published league season totals
         if: github.event_name != 'push'
         run: node refresh-season-totals.cjs || echo "::warning::Season stats unavailable; preserving last verified totals"
+
+      - name: Validate match data before publication
+        run: node verify-report-data.cjs
 
       - name: Commit updated fixture snapshot
         if: github.event_name != 'push'
