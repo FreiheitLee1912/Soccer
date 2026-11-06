@@ -2,7 +2,7 @@
 const {competition,registered}=require('./uefa-registration.cjs');
 function competitionInfo(t,seed){
  const id=Number(t.parentLeagueId||t.leagueId),european=competition(id);
- if(european)return{id,name:european.name,type:'cup',international:true};
+ if(european)return{id:european.id,name:european.name,type:'cup',international:true};
  const league=seed.leagues.find(l=>Number(l[1])===id);
  if(league)return{id,name:league[0],type:'league',international:false};
  const name=String(t.name||t.leagueName||'').trim();
