@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:25:54.170Z",
+  "updated_at": "2026-11-06T02:29:56.750Z",
   "checked_matches": 92,
   "records": [
     {
@@ -18545,7 +18545,15 @@
       "kickoff_jst": "2026-11-06T02:45:00+09:00",
       "status": "Started",
       "minutes": 90,
-      "goals": 0,
+      "goals": 1,
+      "goal_event_source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
+      "verified_goal_events": [
+        {
+          "event_id": 14696847,
+          "minute": 90,
+          "added_time": 2
+        }
+      ],
       "assists": 0,
       "own_goals": null,
       "yellow_cards": null,
@@ -18553,9 +18561,10 @@
       "rating": 8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/fk-crvena-zvezda-vs-inter-club-descaldes/2wirlk#6112410",
-      "verified_at": "2026-11-06T02:15:38.599Z",
+      "verified_at": "2026-11-06T02:29:56.737Z",
       "verification_status": "Verified final match and lineup",
-      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown. Scorer timeline reconciles with final score; player-stat goal field conflicts or is missing. Club report also credits Nakayama: https://www.crvenazvezdafk.com/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+      "goal_confirmation_source_url": "https://www.crvenazvezdafk.com/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0"
     },
     {
       "week": "2026-W45",
