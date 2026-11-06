@@ -1,7 +1,7 @@
 // Use published tournament identity; never relabel cup results as league matches.
 const {competition,registered}=require('./uefa-registration.cjs');
 function competitionInfo(t,seed){
- const id=Number(t.parentLeagueId||t.leagueId),european=competition(id);
+ const id=Number(t.parentLeagueId||t.leagueId),european=competition(id)||competition(String(t.name||t.leagueName||'').trim());
  if(european)return{id:european.id,name:european.name,type:'cup',international:true};
  const league=seed.leagues.find(l=>Number(l[1])===id);
  if(league)return{id,name:league[0],type:'league',international:false};
