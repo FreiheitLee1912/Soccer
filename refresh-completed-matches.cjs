@@ -40,6 +40,13 @@ async function main(){
   }
   for(const r of rows){
    const key=r.match_id+':'+r.player_id,prior=records.get(key);
+   // Preserve independently confirmed participation when FotMob still has no lineup.
+   if(prior?.selection_confirmation_source_url && prior.club_id===r.club_id &&
+      prior.kickoff_local===r.kickoff_local && /unconfirmed/i.test(r.status)){
+    for(const field of ['status','source_url','selection_confirmation_source_url','verification_status','notes']){
+     r[field]=prior[field];
+    }
+   }
    for(const [metric,field] of [['goals','goal_confirmation_source_url'],['assists','assist_confirmation_source_url'],['own_goals','own_goal_confirmation_source_url']])if(prior?.[field]&&prior[metric]===r[metric])r[field]=prior[field];
    records.set(key,r);
   }
