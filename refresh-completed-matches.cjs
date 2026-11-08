@@ -43,7 +43,7 @@ async function main(){
    // Preserve independently confirmed participation when FotMob still has no lineup.
    if(prior?.selection_confirmation_source_url && prior.club_id===r.club_id &&
       prior.kickoff_local===r.kickoff_local && /unconfirmed/i.test(r.status)){
-    for(const field of ['status','source_url','selection_confirmation_source_url','verification_status','notes']){
+    for(const field of ['status','minutes','source_url','selection_confirmation_source_url','verification_status','notes']){
      r[field]=prior[field];
     }
    }
