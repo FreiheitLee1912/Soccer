@@ -3,7 +3,13 @@ const {normalize}=require('./sofascore-season.cjs');
 const {competitionInfo,applicableAffiliation}=require('./competition-info.cjs');
 const affiliations=p=>typeof p.affiliations==='string'?JSON.parse(p.affiliations):p.affiliations||[p];
 function localTime(utc,zone){const p=Object.fromEntries(new Intl.DateTimeFormat('en-GB',{timeZone:zone,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'}).formatToParts(new Date(utc)).map(x=>[x.type,x.value]));return`${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}:${p.second}`}
-function weekOf(local){const d=new Date(local.slice(0,10)+'T00:00:00Z'),day=d.getUTCDay();d.setUTCDate(d.getUTCDate()+(day===1?-1:day===0?0:7-day));const th=new Date(d);th.setUTCDate(d.getUTCDate()-3);const y=th.getUTCFullYear(),j=new Date(Date.UTC(y,0,4));j.setUTCDate(j.getUTCDate()-((j.getUTCDay()+6)%7));return y+'-W'+String(Math.floor((d-j)/604800000)+1).padStart(2,'0')}
+function weekOf(local) {
+ const thursday = new Date(local.slice(0, 10) + 'T00:00:00Z');
+ thursday.setUTCDate(thursday.getUTCDate() + 3 - (thursday.getUTCDay() + 6) % 7);
+ const year = thursday.getUTCFullYear();
+ const week = Math.floor((thursday - Date.UTC(year, 0, 1)) / 604800000) + 1;
+ return year + '-W' + String(week).padStart(2, '0');
+}
 function parseCompletedMatch(d,seed,zone,url,checked){
  if(!d.general?.finished||!d.header?.status?.finished||d.header.status.cancelled||d.header.status.awarded)return[];
  const teams=d.header.teams;if(!teams||teams.length!==2||!teams.every(t=>Number.isInteger(t.score)))throw Error('Unverified final score');

@@ -31,3 +31,10 @@ test('reconciled scoring timeline recovers a goal missing from player statistics
 test('scorer event duplicates never double-count a goal',()=>{const d=scoringMatch();d.content.matchFacts.events.events.push({...d.content.matchFacts.events.events[0]});assert.equal(parseCompletedMatch(d,seed,'Europe/London','source','2026-11-06')[0].goals,1)});
 test('incomplete score progression, own goals and shootouts never create player goals',()=>{for(const variant of ['incomplete','own','shootout']){const d=scoringMatch(),e=d.content.matchFacts.events.events[0];if(variant==='incomplete')d.header.teams[0].score=2;if(variant==='own')e.ownGoal=true;if(variant==='shootout')e.isPenaltyShootoutEvent=true;assert.equal(parseCompletedMatch(d,seed,'Europe/London','source','2026-11-06')[0].goals,0)}});
 test('missing goals and missing timeline remain unknown',()=>{const d=match();delete d.content.playerStats[980792];assert.equal(parseCompletedMatch(d,seed,'Europe/London','source','2026-11-06')[0].goals,null)});
+
+test('completed match archive uses venue-local ISO weeks across Mondays and New Year', () => {
+ const {weekOf} = require('../completed-matches.cjs');
+ assert.equal(weekOf('2026-11-08T23:30:00'), '2026-W45');
+ assert.equal(weekOf('2026-11-09T00:30:00'), '2026-W46');
+ assert.equal(weekOf('2027-01-01T21:00:00'), '2026-W53');
+});

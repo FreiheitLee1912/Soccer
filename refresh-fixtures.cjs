@@ -8,7 +8,7 @@ const html=fs.readFileSync('japanese-players.html','utf8');
 const seed=JSON.parse(html.match(/<script[^>]*id="seed"[^>]*>([\s\S]*?)<\/script>/)[1]);
 const zones={ENG:'Europe/London',SCO:'Europe/London',WAL:'Europe/London',NIR:'Europe/London',GER:'Europe/Berlin',ESP:'Europe/Madrid',FRA:'Europe/Paris',ITA:'Europe/Rome',BEL:'Europe/Brussels',NED:'Europe/Amsterdam',POR:'Europe/Lisbon',AUT:'Europe/Vienna',SUI:'Europe/Zurich',DEN:'Europe/Copenhagen',SWE:'Europe/Stockholm',NOR:'Europe/Oslo',FIN:'Europe/Helsinki',POL:'Europe/Warsaw',CZE:'Europe/Prague',CRO:'Europe/Zagreb',SRB:'Europe/Belgrade',GRE:'Europe/Athens',TUR:'Europe/Istanbul',UKR:'Europe/Kyiv',ROU:'Europe/Bucharest',HUN:'Europe/Budapest',SVK:'Europe/Bratislava',SVN:'Europe/Ljubljana',BUL:'Europe/Sofia',CYP:'Asia/Nicosia',ISR:'Asia/Jerusalem',IRL:'Europe/Dublin',ISL:'Atlantic/Reykjavik',AZE:'Asia/Baku',GEO:'Asia/Tbilisi',ARM:'Asia/Yerevan',KAZ:'Asia/Almaty'};
 const cache=new Map();
-zones.LVA='Europe/Riga';zones.LTU='Europe/Vilnius';zones.EST='Europe/Tallinn';zones.LIE='Europe/Vaduz';
+zones.LVA='Europe/Riga';zones.LTU='Europe/Vilnius';zones.EST='Europe/Tallinn';zones.LIE='Europe/Vaduz';zones.MON='Europe/Monaco';
 function venueZone(host){return /Las Palmas|Tenerife/i.test(host.details.name)?'Atlantic/Canary':zones[host.details.country]}
 async function team(id){
   if(!cache.has(id))cache.set(id,(async()=>{
