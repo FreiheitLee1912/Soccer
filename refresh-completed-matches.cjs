@@ -46,6 +46,14 @@ async function main(){
     for(const field of ['status','minutes','source_url','selection_confirmation_source_url','verification_status','notes']){
      r[field]=prior[field];
     }
+    if(prior.card_source_url){
+     for(const field of ['yellow_cards','red_cards']){
+      if(r[field]==null && prior[field]!=null){
+       r[field]=prior[field];
+       r.card_source_url=prior.card_source_url;
+      }
+     }
+    }
    }
    for(const [metric,field] of [['goals','goal_confirmation_source_url'],['assists','assist_confirmation_source_url'],['own_goals','own_goal_confirmation_source_url']])if(prior?.[field]&&prior[metric]===r[metric])r[field]=prior[field];
    records.set(key,r);
