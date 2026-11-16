@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T01:47:33.107Z",
-  "last_attempt_at": "2026-11-16T01:47:33.107Z",
-  "checked_matches": 41,
+  "updated_at": "2026-11-16T22:56:15.546Z",
+  "last_attempt_at": "2026-11-16T22:56:15.546Z",
+  "checked_matches": 7,
   "records": [
     {
       "week": "2026-W41",
@@ -24405,7 +24405,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24445,7 +24445,7 @@
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24486,7 +24486,7 @@
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-tavernes-de-la-valldigna/za1u0i9y#6386084",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24526,7 +24526,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24566,7 +24566,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24606,7 +24606,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match, lineup and booking",
       "notes": "Portimonense confirms Nakajima started, was booked in the 76th minute and was substituted in the 83rd minute.",
       "selection_confirmation_source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
@@ -24645,10 +24645,10 @@
       "red_cards": null,
       "event_evidence": {},
       "quality_issues": [],
-      "rating": 6.3,
+      "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "verified_at": "2026-11-16T01:47:33.107Z",
+      "verified_at": "2026-11-16T22:56:15.546Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
@@ -24656,8 +24656,8 @@
   "errors": [],
   "quality_issues": [],
   "coverage": {
-    "from": "2026-11-08T01:47:33.107Z",
-    "to": "2026-11-16T01:47:33.107Z",
+    "from": "2026-11-08T22:56:15.546Z",
+    "to": "2026-11-16T22:56:15.546Z",
     "clubs": [
       {
         "club_id": 1581,
@@ -24974,214 +24974,6 @@
     ],
     "matches": [
       {
-        "match_id": "1000015174",
-        "date": "2026-11-08T12:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/ofk-beograd-vs-fk-radnik-surdulica/1f7f2heh#1000015174",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "1000015175",
-        "date": "2026-11-08T18:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/vojvodina-vs-fk-crvena-zvezda/1vtlt2#1000015175",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5162092",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/fk-liepaja-vs-grobina/2vccvo2r#5162092",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5162095",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/bfc-daugavpils-vs-sk-super-nova/8vbi7hea#5162095",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5162096",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/auda-vs-fk-tukums-2000/96ooq26#5162096",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5739543",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/fc-kobenhavn-vs-brondby-if/2dwej6#5739543",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5781796",
-        "date": "2026-11-08T15:45:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/cambuur-vs-psv-eindhoven/28cl26#5781796",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5781797",
-        "date": "2026-11-08T11:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/sc-heerenveen-vs-feyenoord/3gnwjn#5781797",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5781798",
-        "date": "2026-11-08T15:45:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/fc-groningen-vs-az-alkmaar/2ydq8m#5781798",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5795506",
-        "date": "2026-11-08T14:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/brentford-vs-brighton-hove-albion/3crs0s#5795506",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5795507",
-        "date": "2026-11-08T14:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/liverpool-vs-crystal-palace/2tmp8g#5795507",
-        "status": "recorded",
-        "player_records": 3,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5795510",
-        "date": "2026-11-08T14:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/afc-bournemouth-vs-ipswich-town/2us05c#5795510",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5795512",
-        "date": "2026-11-08T16:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/aston-villa-vs-manchester-united/3h9f6s#5795512",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5802984",
-        "date": "2026-11-08T16:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/brest-vs-lyon/2rd6lj#5802984",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5802985",
-        "date": "2026-11-08T16:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/lorient-vs-le-havre/2t6haw#5802985",
-        "status": "recorded",
-        "player_records": 3,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5802986",
-        "date": "2026-11-08T16:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/le-mans-vs-monaco/2u0kot#5802986",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5802988",
-        "date": "2026-11-08T14:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/lille-vs-rennes/2ts8x6#5802988",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5804032",
-        "date": "2026-11-08T13:45:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-gks-katowice/andv1#5804032",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5804035",
-        "date": "2026-11-08T16:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/rakow-czestochowa-vs-legia-warszawa/1c009y#5804035",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5804296",
-        "date": "2026-11-08T15:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/basel-vs-thun/3cjkve#5804296",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5811802",
-        "date": "2026-11-08T15:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/kortrijk-vs-gent/2ukua2#5811802",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5811805",
-        "date": "2026-11-08T17:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/union-stgilloise-vs-genk/2o34zy#5811805",
-        "status": "recorded",
-        "player_records": 3,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5811807",
-        "date": "2026-11-08T18:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/sttruiden-vs-zulte-waregem/3b1u4g#5811807",
-        "status": "recorded",
-        "player_records": 8,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5846018",
-        "date": "2026-11-08T13:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/altach-vs-hartberg/3bulq0#5846018",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5846021",
-        "date": "2026-11-08T16:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/salzburg-vs-sturm-graz/3bepe0#5846021",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5868127",
-        "date": "2026-11-08T15:15:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/rayo-vallecano-vs-real-sociedad/2dc1qb#5868127",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
         "match_id": "5868533",
         "date": "2026-11-09T19:30:00.000Z",
         "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
@@ -25193,14 +24985,6 @@
         "match_id": "5868534",
         "date": "2026-11-09T19:30:00.000Z",
         "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5868535",
-        "date": "2026-11-08T17:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-valladolid/3cvnve#5868535",
         "status": "recorded",
         "player_records": 1,
         "unconfirmed_records": 0
@@ -25230,68 +25014,12 @@
         "unconfirmed_records": 0
       },
       {
-        "match_id": "5881217",
-        "date": "2026-11-08T16:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/union-berlin-vs-freiburg/294gog#5881217",
-        "status": "recorded",
-        "player_records": 3,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5881219",
-        "date": "2026-11-08T18:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/hoffenheim-vs-schalke-04/2syjsa#5881219",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5881717",
-        "date": "2026-11-08T12:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/karlsruher-sc-vs-bochum/2qok5k#5881717",
-        "status": "recorded",
-        "player_records": 2,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5881719",
-        "date": "2026-11-08T12:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/hannover-96-vs-fc-heidenheim/2iw3s4d#5881719",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5881722",
-        "date": "2026-11-08T12:30:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/st-pauli-vs-magdeburg/27ho6m#5881722",
-        "status": "recorded",
-        "player_records": 4,
-        "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5888104",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/portimonense-vs-fc-porto-b/rtti5no#5888104",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 0
-      },
-      {
         "match_id": "5888113",
         "date": "2026-11-15T14:00:00.000Z",
         "source_url": "https://www.fotmob.com/matches/portimonense-vs-academica/3aujqr#5888113",
         "status": "recorded",
         "player_records": 1,
         "unconfirmed_records": 0
-      },
-      {
-        "match_id": "5987551",
-        "date": "2026-11-08T11:00:00.000Z",
-        "source_url": "https://www.fotmob.com/matches/sumqayt-vs-imisli-fk/pisq6kmd#5987551",
-        "status": "recorded",
-        "player_records": 1,
-        "unconfirmed_records": 1
       },
       {
         "match_id": "6386084",
