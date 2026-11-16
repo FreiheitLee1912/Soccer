@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T22:56:15.546Z",
-  "last_attempt_at": "2026-11-16T22:56:15.546Z",
+  "updated_at": "2026-11-16T23:30:57.485Z",
+  "last_attempt_at": "2026-11-16T23:30:57.485Z",
   "checked_matches": 7,
   "records": [
     {
@@ -24405,7 +24405,7 @@
       "rating": 7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/eldense-vs-las-palmas/29zbp9#5868533",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24445,7 +24445,7 @@
       "rating": 7.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sabadell-vs-real-sociedad-b/6b93btm#5868534",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24486,7 +24486,7 @@
       "rating": 6.8,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/valencia-vs-tavernes-de-la-valldigna/za1u0i9y#6386084",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24526,7 +24526,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24566,7 +24566,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24606,7 +24606,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match, lineup and booking",
       "notes": "Portimonense confirms Nakajima started, was booked in the 76th minute and was substituted in the 83rd minute.",
       "selection_confirmation_source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
@@ -24648,7 +24648,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "verified_at": "2026-11-16T22:56:15.546Z",
+      "verified_at": "2026-11-16T23:30:57.485Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
@@ -24656,8 +24656,8 @@
   "errors": [],
   "quality_issues": [],
   "coverage": {
-    "from": "2026-11-08T22:56:15.546Z",
-    "to": "2026-11-16T22:56:15.546Z",
+    "from": "2026-11-08T23:30:57.485Z",
+    "to": "2026-11-16T23:30:57.485Z",
     "clubs": [
       {
         "club_id": 1581,
