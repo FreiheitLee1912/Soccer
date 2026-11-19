@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19T03:04:35.864Z",
-  "last_attempt_at": "2026-11-19T03:04:35.864Z",
-  "checked_matches": 4,
+  "updated_at": "2026-11-19T23:27:48.953Z",
+  "last_attempt_at": "2026-11-19T23:27:48.953Z",
+  "checked_matches": 5,
   "records": [
     {
       "week": "2026-W41",
@@ -24526,7 +24526,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "verified_at": "2026-11-19T03:04:35.864Z",
+      "verified_at": "2026-11-19T23:27:48.953Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24566,7 +24566,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "verified_at": "2026-11-19T03:04:35.864Z",
+      "verified_at": "2026-11-19T23:27:48.953Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24606,7 +24606,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
-      "verified_at": "2026-11-19T03:04:35.864Z",
+      "verified_at": "2026-11-19T23:27:48.953Z",
       "verification_status": "Verified final match, lineup and booking",
       "notes": "Portimonense confirms Nakajima started, was booked in the 76th minute and was substituted in the 83rd minute.",
       "selection_confirmation_source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
@@ -24648,16 +24648,57 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "verified_at": "2026-11-19T03:04:35.864Z",
+      "verified_at": "2026-11-19T23:27:48.953Z",
       "verification_status": "Verified final match and lineup",
+      "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
+    },
+    {
+      "week": "2026-W47",
+      "day_sheet": "2026-W47-Thu",
+      "match_id": "6486794",
+      "player_id": "jp-new-taigaseguchi",
+      "name_ja": "瀬口大翔",
+      "name_en": "Taiga Seguchi",
+      "league": "FA Cup",
+      "competition_id": 177,
+      "competition_type": "cup",
+      "round": "1/8",
+      "result_method": "Penalties",
+      "home_penalties": 2,
+      "away_penalties": 4,
+      "domestic_league": "Slovak Super Liga",
+      "club": "FC Košice",
+      "club_id": 969268,
+      "home": "MFK Zvolen",
+      "home_id": 558382,
+      "away": "FC Košice",
+      "away_id": 969268,
+      "home_goals": 2,
+      "away_goals": 2,
+      "kickoff_local": "2026-11-19T13:00:00",
+      "kickoff_jst": "2026-11-19T21:00:00+09:00",
+      "status": "Matchday selection unconfirmed",
+      "minutes": null,
+      "goals": null,
+      "assists": null,
+      "own_goals": null,
+      "yellow_cards": null,
+      "red_cards": null,
+      "event_evidence": {},
+      "quality_issues": [],
+      "rating": null,
+      "rating_provider": "FotMob",
+      "source_url": "https://www.fotmob.com/matches/mfk-zvolen-vs-fc-kosice/ew1ppuav#6486794",
+      "verified_at": "2026-11-19T23:27:48.953Z",
+      "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
   ],
   "errors": [],
   "quality_issues": [],
   "coverage": {
-    "from": "2026-11-11T03:04:35.864Z",
-    "to": "2026-11-19T03:04:35.864Z",
+    "from": "2026-11-11T23:27:48.953Z",
+    "to": "2026-11-19T23:27:48.953Z",
     "clubs": [
       {
         "club_id": 1581,
@@ -25004,6 +25045,14 @@
         "status": "recorded",
         "player_records": 1,
         "unconfirmed_records": 0
+      },
+      {
+        "match_id": "6486794",
+        "date": "2026-11-19T12:00:00.000Z",
+        "source_url": "https://www.fotmob.com/matches/mfk-zvolen-vs-fc-kosice/ew1ppuav#6486794",
+        "status": "recorded",
+        "player_records": 1,
+        "unconfirmed_records": 1
       }
     ]
   }
