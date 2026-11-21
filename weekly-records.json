@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T23:27:43.994Z",
-  "last_attempt_at": "2026-11-20T23:27:43.994Z",
+  "updated_at": "2026-11-21T03:04:44.092Z",
+  "last_attempt_at": "2026-11-21T03:04:44.092Z",
   "checked_matches": 11,
   "records": [
     {
@@ -24526,7 +24526,7 @@
       "rating": 6.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/castellon-vs-real-valladolid/3hujtd#5868546",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24566,7 +24566,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sporting-gijon-vs-real-sociedad-b/6rj8uqo#5868544",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24606,7 +24606,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match, lineup and booking",
       "notes": "Portimonense confirms Nakajima started, was booked in the 76th minute and was substituted in the 83rd minute.",
       "selection_confirmation_source_url": "https://www.portimonensesad.pt/portimonense-0-0-academica-liga-portugal-2-meu-super_25947",
@@ -24648,7 +24648,7 @@
       "rating": 6.4,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/granada-vs-las-palmas/25zar2#5868540",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24689,7 +24689,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/mfk-zvolen-vs-fc-kosice/ew1ppuav#6486794",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24729,7 +24729,7 @@
       "rating": 7.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-fc-heidenheim/2g2gqbt#5881728",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24769,7 +24769,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/darmstadt-vs-fc-heidenheim/2g2gqbt#5881728",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24809,7 +24809,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/sumqayt-vs-sabah-fk/8o7zvslt#5987562",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match; player selection unconfirmed",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24849,7 +24849,7 @@
       "rating": 7.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/vitesse-vs-jong-az-alkmaar/31758oky#5832961",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24889,7 +24889,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/1-fc-koln-vs-bayern-munchen/2ue2rs#5881226",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24926,10 +24926,10 @@
       "red_cards": null,
       "event_evidence": {},
       "quality_issues": [],
-      "rating": 6.7,
+      "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-troyes/3axz38#5802999",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -24969,7 +24969,7 @@
       "rating": 6.6,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-westerlo/3awp09#5811811",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -25009,7 +25009,7 @@
       "rating": 6.1,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-westerlo/3awp09#5811811",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -25049,7 +25049,7 @@
       "rating": 5.5,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/cercle-brugge-vs-westerlo/3awp09#5811811",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -25089,7 +25089,7 @@
       "rating": null,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-troyes/3axz38#5802999",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     },
@@ -25126,10 +25126,10 @@
       "red_cards": null,
       "event_evidence": {},
       "quality_issues": [],
-      "rating": 6.8,
+      "rating": 6.7,
       "rating_provider": "FotMob",
       "source_url": "https://www.fotmob.com/matches/le-havre-vs-troyes/3axz38#5802999",
-      "verified_at": "2026-11-20T23:27:43.994Z",
+      "verified_at": "2026-11-21T03:04:44.092Z",
       "verification_status": "Verified final match and lineup",
       "notes": "Automatically refreshed from the final FotMob match record; missing provider statistics remain unknown."
     }
@@ -25137,8 +25137,8 @@
   "errors": [],
   "quality_issues": [],
   "coverage": {
-    "from": "2026-11-12T23:27:43.994Z",
-    "to": "2026-11-20T23:27:43.994Z",
+    "from": "2026-11-13T03:04:44.092Z",
+    "to": "2026-11-21T03:04:44.092Z",
     "clubs": [
       {
         "club_id": 1581,
