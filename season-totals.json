@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T03:06:47.228Z",
+  "updated_at": "2026-11-22T01:29:41.122Z",
   "season": "2026/2027",
   "definition": "Source-published domestic league season totals; FotMob uses the listed club and league statistics tables. Zero goals/assists require explicit current-season evidence, not squad defaults or leaderboard absence. Sofascore is an independently sourced fallback. Each tuple retains its own provider. Missing values are not assumed to be zero.",
   "rows": [
@@ -26,7 +26,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1053679",
@@ -69,7 +69,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1055136",
@@ -93,7 +93,7 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1072117",
@@ -118,7 +118,7 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1122594",
@@ -143,7 +143,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1134460",
@@ -168,8 +168,8 @@
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 822,
+      "apps": 12,
+      "minutes": 844,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -186,15 +186,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1134467",
       "club_id": 8358,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 624,
+      "apps": 9,
+      "minutes": 643,
       "goals": 5,
       "assists": 0,
       "provider": "FotMob",
@@ -211,15 +211,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1134524",
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 6,
-      "minutes": 376,
+      "apps": 7,
+      "minutes": 381,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -236,7 +236,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1134723",
@@ -261,7 +261,7 @@
       "season_id": "36577",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1134759",
@@ -286,15 +286,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1155066",
       "club_id": 10189,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 667,
+      "apps": 9,
+      "minutes": 671,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -311,7 +311,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1155621",
@@ -336,8 +336,8 @@
       "club_id": 8559,
       "league": "EFL Championship",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 415,
+      "apps": 10,
+      "minutes": 433,
       "goals": 2,
       "assists": 1,
       "provider": "FotMob",
@@ -353,7 +353,7 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1233852",
@@ -377,7 +377,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1269404",
@@ -402,7 +402,7 @@
       "season_id": "40067",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1308600",
@@ -427,7 +427,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1308624",
@@ -451,15 +451,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1319774",
       "club_id": 8427,
       "league": "EFL Championship",
       "season": "2026/2027",
-      "apps": 13,
-      "minutes": 770,
+      "apps": 14,
+      "minutes": 779,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -476,15 +476,15 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1336906",
       "club_id": 8466,
       "league": "EFL Championship",
       "season": "2026/2027",
-      "apps": 15,
-      "minutes": 1057,
+      "apps": 16,
+      "minutes": 1102,
       "goals": 4,
       "assists": 2,
       "provider": "FotMob",
@@ -500,15 +500,15 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1337143",
       "club_id": 9788,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 5,
-      "minutes": 362,
+      "apps": 6,
+      "minutes": 407,
       "goals": 0,
       "assists": 1,
       "provider": "FotMob",
@@ -525,15 +525,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1337282",
       "club_id": 8640,
       "league": "Eredivisie",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 913,
+      "apps": 12,
+      "minutes": 1003,
       "goals": 2,
       "assists": 1,
       "provider": "FotMob",
@@ -549,15 +549,15 @@
       "season_id": "36577",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1381856",
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 574,
+      "apps": 11,
+      "minutes": 664,
       "goals": 2,
       "assists": 1,
       "provider": "FotMob",
@@ -573,7 +573,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1423125",
@@ -598,8 +598,8 @@
       "club_id": 8358,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 173,
+      "apps": 9,
+      "minutes": 182,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -616,15 +616,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1437306",
       "club_id": 9988,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 617,
+      "apps": 10,
+      "minutes": 707,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -641,7 +641,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1513227",
@@ -666,7 +666,7 @@
       "season_id": "38004",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1513227",
@@ -678,15 +678,15 @@
       "goals": null,
       "assists": null,
       "status": "No verified season totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1515636",
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 410,
+      "apps": 11,
+      "minutes": 422,
       "goals": 2,
       "assists": 2,
       "provider": "FotMob",
@@ -702,7 +702,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1583858",
@@ -727,7 +727,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1611149",
@@ -776,15 +776,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1627706",
       "club_id": 9810,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 7,
-      "minutes": 540,
+      "apps": 8,
+      "minutes": 630,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -801,7 +801,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1714197",
@@ -826,15 +826,15 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-1717127",
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 201,
+      "apps": 9,
+      "minutes": 226,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -851,7 +851,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-202643",
@@ -876,7 +876,7 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-430838",
@@ -901,15 +901,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-523731",
       "club_id": 9997,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 543,
+      "apps": 9,
+      "minutes": 633,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -926,17 +926,17 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-604044",
       "club_id": 9987,
       "league": "Belgian Pro League",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 819,
+      "apps": 12,
+      "minutes": 879,
       "goals": 2,
-      "assists": 2,
+      "assists": 4,
       "provider": "FotMob",
       "source_url": "https://www.fotmob.com/teams/9987/stats/team",
       "statistics_url": "https://data.fotmob.com/stats/40/season/37803/mins_played.json",
@@ -950,15 +950,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-621515",
       "club_id": 9826,
       "league": "Premier League",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 881,
+      "apps": 11,
+      "minutes": 971,
       "goals": 1,
       "assists": 3,
       "provider": "FotMob",
@@ -974,15 +974,15 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-629805",
       "club_id": 9810,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 642,
+      "apps": 9,
+      "minutes": 732,
       "goals": 0,
       "assists": 1,
       "provider": "FotMob",
@@ -999,15 +999,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-648393",
       "club_id": 8658,
       "league": "EFL Championship",
       "season": "2026/2027",
-      "apps": 15,
-      "minutes": 1327,
+      "apps": 16,
+      "minutes": 1417,
       "goals": 0,
       "assists": 2,
       "provider": "FotMob",
@@ -1024,15 +1024,15 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-727817",
       "club_id": 8226,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 7,
-      "minutes": 545,
+      "apps": 8,
+      "minutes": 635,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -1049,15 +1049,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-728765",
       "club_id": 9902,
       "league": "Premier League",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 516,
+      "apps": 11,
+      "minutes": 572,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -1074,7 +1074,7 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-848289",
@@ -1098,7 +1098,7 @@
       "season_id": "38843",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-851626",
@@ -1123,7 +1123,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-857120",
@@ -1148,7 +1148,7 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-878296",
@@ -1173,15 +1173,15 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-887704",
       "club_id": 9748,
       "league": "Ligue 1",
       "season": "2026/2027",
-      "apps": 6,
-      "minutes": 233,
+      "apps": 7,
+      "minutes": 315,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -1198,7 +1198,7 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-915102",
@@ -1223,15 +1223,15 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-915111",
       "club_id": 9788,
       "league": "Bundesliga",
       "season": "2026/2027",
-      "apps": 7,
-      "minutes": 350,
+      "apps": 8,
+      "minutes": 424,
       "goals": 2,
       "assists": 0,
       "provider": "FotMob",
@@ -1248,7 +1248,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-922834",
@@ -1273,7 +1273,7 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-924610",
@@ -1298,15 +1298,15 @@
       "season_id": "36072",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-935728",
       "club_id": 8463,
       "league": "Premier League",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 641,
+      "apps": 10,
+      "minutes": 727,
       "goals": 0,
       "assists": 1,
       "provider": "FotMob",
@@ -1323,15 +1323,15 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-942393",
       "club_id": 8639,
       "league": "Ligue 1",
       "season": "2026/2027",
-      "apps": 4,
-      "minutes": 227,
+      "apps": 5,
+      "minutes": 272,
       "goals": 2,
       "assists": 0,
       "provider": "FotMob",
@@ -1348,7 +1348,7 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "fm-980792",
@@ -1372,7 +1372,7 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-002",
@@ -1397,16 +1397,16 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-007",
       "club_id": 8669,
       "league": "Premier League",
       "season": "2026/2027",
-      "apps": 6,
-      "minutes": 400,
-      "goals": 1,
+      "apps": 7,
+      "minutes": 490,
+      "goals": 2,
       "assists": 0,
       "provider": "FotMob",
       "source_url": "https://www.fotmob.com/teams/8669/stats/team",
@@ -1422,7 +1422,7 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-009",
@@ -1447,7 +1447,7 @@
       "season_id": "36781",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-011",
@@ -1459,7 +1459,7 @@
       "goals": null,
       "assists": null,
       "status": "No verified season totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-013",
@@ -1484,15 +1484,15 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-016",
       "club_id": 10172,
       "league": "EFL Championship",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 485,
+      "apps": 12,
+      "minutes": 530,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -1509,7 +1509,7 @@
       "season_id": "1000000498",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-025",
@@ -1534,7 +1534,7 @@
       "season_id": "1000001451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-031",
@@ -1566,8 +1566,8 @@
       "club_id": 9829,
       "league": "Ligue 1",
       "season": "2026/2027",
-      "apps": 3,
-      "minutes": 123,
+      "apps": 4,
+      "minutes": 182,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -1584,7 +1584,7 @@
       "season_id": "1000001834",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-053",
@@ -1609,15 +1609,15 @@
       "season_id": "37803",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-067",
       "club_id": 10235,
       "league": "Eredivisie",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 825,
+      "apps": 11,
+      "minutes": 870,
       "goals": 0,
       "assists": 1,
       "provider": "FotMob",
@@ -1634,7 +1634,7 @@
       "season_id": "36577",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-069",
@@ -1659,7 +1659,7 @@
       "season_id": "36577",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-anriechase",
@@ -1684,7 +1684,7 @@
       "season_id": "38611",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-daikimatsuoka",
@@ -1707,7 +1707,7 @@
       "fotmob_player_id": 1023982,
       "season_id": "36422",
       "scope": "Listed club in the domestic league",
-      "status": "Verified source totals",
+      "status": "Saved verified totals (refresh failed)",
       "checked_at": "2026-11-21T03:06:47.228Z"
     },
     {
@@ -1733,7 +1733,7 @@
       "season_id": "36832",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-genkiharaguchi",
@@ -1758,15 +1758,15 @@
       "season_id": "1000000428",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-hayatematsuda",
       "club_id": 9904,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 7,
-      "minutes": 267,
+      "apps": 8,
+      "minutes": 357,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -1783,7 +1783,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-hirokiakiyama",
@@ -1808,15 +1808,15 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-hirokisekine",
       "club_id": 8150,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 989,
+      "apps": 12,
+      "minutes": 1079,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -1833,7 +1833,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-hirotakayamada",
@@ -1858,7 +1858,7 @@
       "season_id": "1000000325",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-itsukiurata",
@@ -1883,15 +1883,15 @@
       "season_id": "1000002048",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-joelchimafujita",
       "club_id": 8152,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 766,
+      "apps": 10,
+      "minutes": 855,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -1908,7 +1908,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-junnosukesuzuki",
@@ -1933,7 +1933,7 @@
       "season_id": "35802",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-juntoba",
@@ -1958,7 +1958,7 @@
       "season_id": "1000000325",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-katsuyukiishibashi",
@@ -1983,8 +1983,8 @@
       "club_id": 161744,
       "league": "Segunda Division",
       "season": "2026/2027",
-      "apps": 12,
-      "minutes": 1051,
+      "apps": 13,
+      "minutes": 1141,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -2001,7 +2001,7 @@
       "season_id": "1000002232",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-keigotsunemoto",
@@ -2026,15 +2026,15 @@
       "season_id": "37305",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-kentoshiogai",
       "club_id": 8721,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 300,
+      "apps": 11,
+      "minutes": 320,
       "goals": 1,
       "assists": 0,
       "provider": "FotMob",
@@ -2051,15 +2051,15 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-kojimiyoshi",
       "club_id": 9911,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 11,
-      "minutes": 844,
+      "apps": 12,
+      "minutes": 876,
       "goals": 2,
       "assists": 1,
       "provider": "FotMob",
@@ -2075,7 +2075,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-koyoshigema",
@@ -2100,7 +2100,7 @@
       "season_id": "1000000325",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-masakimurata",
@@ -2112,7 +2112,7 @@
       "goals": null,
       "assists": null,
       "status": "No verified season totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-nickschmidt",
@@ -2124,7 +2124,7 @@
       "goals": null,
       "assists": null,
       "status": "No verified season totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-nikotakahashi",
@@ -2149,15 +2149,15 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-rentotakaoka",
       "club_id": 274583,
       "league": "Challenger Pro League",
       "season": "2026/2027",
-      "apps": 10,
-      "minutes": 475,
+      "apps": 11,
+      "minutes": 565,
       "goals": 1,
       "assists": 3,
       "provider": "FotMob",
@@ -2173,7 +2173,7 @@
       "season_id": "1000000428",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-rikutoiida",
@@ -2198,7 +2198,7 @@
       "season_id": "1000000325",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-ryonosukeohori",
@@ -2223,7 +2223,7 @@
       "season_id": "1000000451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-ryotaroito",
@@ -2248,7 +2248,7 @@
       "season_id": "1000002232",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shingonakano",
@@ -2273,7 +2273,7 @@
       "season_id": "38611",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shinnosukefukuda",
@@ -2298,7 +2298,7 @@
       "season_id": "37304",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shintaappelkamp",
@@ -2310,7 +2310,7 @@
       "goals": null,
       "assists": null,
       "status": "No verified season totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shiofukuda",
@@ -2334,7 +2334,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shofukuda",
@@ -2359,7 +2359,7 @@
       "season_id": "35802",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-shoyanakajima",
@@ -2401,7 +2401,7 @@
       "season_id": "38611",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-sotamino",
@@ -2426,15 +2426,15 @@
       "season_id": "38630",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-taichihara",
       "club_id": 8152,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 342,
+      "apps": 10,
+      "minutes": 351,
       "goals": 2,
       "assists": 1,
       "provider": "FotMob",
@@ -2450,7 +2450,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-taigaseguchi",
@@ -2475,7 +2475,7 @@
       "season_id": "36422",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-taiseiabe",
@@ -2500,7 +2500,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-taiseimiyashiro",
@@ -2524,7 +2524,7 @@
       "season_id": "1000002232",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-takatoraeinaga",
@@ -2549,7 +2549,7 @@
       "season_id": "1000000428",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-takutooshima",
@@ -2574,9 +2574,9 @@
       "club_id": 8152,
       "league": "2. Bundesliga",
       "season": "2026/2027",
-      "apps": 5,
-      "minutes": 381,
-      "goals": 0,
+      "apps": 6,
+      "minutes": 471,
+      "goals": 1,
       "assists": 0,
       "provider": "FotMob",
       "source_url": "https://www.fotmob.com/teams/8152/stats/team",
@@ -2592,15 +2592,15 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-tsubasakasayanagi",
       "club_id": 274583,
       "league": "Challenger Pro League",
       "season": "2026/2027",
-      "apps": 9,
-      "minutes": 618,
+      "apps": 10,
+      "minutes": 635,
       "goals": 1,
       "assists": 1,
       "provider": "FotMob",
@@ -2616,7 +2616,7 @@
       "season_id": "1000000428",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-williampopp",
@@ -2659,7 +2659,7 @@
       "season_id": "40044",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-yukikobayashi",
@@ -2684,7 +2684,7 @@
       "season_id": "37304",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-yumekiyoshinaga",
@@ -2709,15 +2709,15 @@
       "season_id": "1000000428",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     },
     {
       "player_id": "jp-new-yutanakayama",
       "club_id": 8687,
       "league": "Serbian SuperLiga",
       "season": "2026/2027",
-      "apps": 8,
-      "minutes": 719,
+      "apps": 9,
+      "minutes": 809,
       "goals": 0,
       "assists": 0,
       "provider": "FotMob",
@@ -2734,7 +2734,7 @@
       "season_id": "1000000451",
       "scope": "Listed club in the domestic league",
       "status": "Verified source totals",
-      "checked_at": "2026-11-21T03:06:47.228Z"
+      "checked_at": "2026-11-22T01:29:41.122Z"
     }
   ],
   "errors": [
@@ -2775,13 +2775,13 @@
       "error": "Invalid team source"
     },
     {
-      "player_id": "jp-new-takutooshima",
+      "player_id": "jp-new-katsuyukiishibashi",
       "league": "Armenian Premier League",
       "provider": "FotMob",
       "error": "Invalid team source"
     },
     {
-      "player_id": "jp-new-katsuyukiishibashi",
+      "player_id": "jp-new-takutooshima",
       "league": "Armenian Premier League",
       "provider": "FotMob",
       "error": "Invalid team source"
